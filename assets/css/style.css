@@ -92,6 +92,16 @@ a:focus {
 	line-height: 80px;
 	padding: 0;
 }
+
+.headerLeft a {
+    letter-spacing: 0.08em;
+    font-size: 20px;
+    font-weight: 700;
+    color: #111;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+}
+
 .headerRight {
 	text-align: left;
 	padding: 0;
@@ -228,6 +238,14 @@ a:focus {
 	padding: 25px;
 }
 
+.storyText + .storyText{
+    padding-top: 0px;
+}
+
+.storyText.long p{
+line-height: 30px;
+}
+
 .storyText h4{
 	font-family: "Montserrat", sans-serif;
 	letter-spacing: 0.08em;
@@ -303,7 +321,7 @@ a:focus {
 ---------------------------------------------------*/
 
 #sectionResume{
-	background: #c3d7d8;
+	background: #f9f7f8;
 	padding-bottom: 100px;
 }
 
@@ -316,10 +334,22 @@ a:focus {
 	color:#fff;
 }
 .resumeList li {
-	list-style: none;
-	background:#ffffff;
-	padding: 20px 20px 10px 20px;
-	margin: 0 0 30px 0;
+    list-style: none;
+    background:#ffffff;
+    padding: 20px 20px 10px 20px;
+    margin: 0 0 30px 0;
+}
+.resumeList li ul {
+    padding-left: 20px;
+    font-family: 'Roboto Slab', sans-serif;
+    line-height: 30px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.resumeList li li {
+    padding: 0px;
+    margin: 0px;
+    list-style: disc;
 }
 .resumeList h4 {
 	text-transform: uppercase;
@@ -368,6 +398,10 @@ a:focus {
 }
 .resumeContent {
 	padding-left: 65px;
+}
+
+#sectionTherapy {
+    background: #c3d7d8;
 }
 
 /*--------------------------------------------------
