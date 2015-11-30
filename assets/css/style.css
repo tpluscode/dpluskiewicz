@@ -196,6 +196,8 @@ a:focus {
 #sectionAbout{
 	background-color: #fff;
 	padding-bottom: 50px;
+	padding-top: 40px;
+	margin-top: -40px;
 }
 
 .sectionTitle{
@@ -329,6 +331,14 @@ line-height: 30px;
 	padding-bottom: 50px;
 }
 
+#sectionResume:before {
+	content:"";
+	display:block;
+	height:45px; /* fixed header height*/
+	margin:-45px 0 0; /* negative fixed header height */
+	background: #c3d7d8;
+}
+
 .resumeList {
 	-webkit-padding-start: 0px;
 	-moz-padding-start:0px;
@@ -406,6 +416,14 @@ line-height: 30px;
 
 #sectionTherapy {
     background: #c3d7d8;
+}
+
+#sectionTherapy:before {
+	content:"";
+	display:block;
+	height:45px; /* fixed header height*/
+	margin:-45px 0 0; /* negative fixed header height */
+	background: white;
 }
 
 /*--------------------------------------------------
