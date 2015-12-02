@@ -133,8 +133,18 @@ a:focus {
 	cursor: pointer;
 }
 
+.white-popup {
+	position: relative;
+	background: #FFF;
+	padding: 20px;
+	width: auto;
+	max-width: 50%;
+	margin: 20px auto;
+}
 
-
+.mfp-close {
+	font-size: 30px !important;
+}
 
 /*--------------------------------------------------
 	02. section Intro
@@ -254,13 +264,17 @@ line-height: 30px;
 	margin-bottom: 40px;
 }
 
-.storyText h6{
+.storyText h6, .storyText h6 a{
 	font-family: "Montserrat", sans-serif;
 	font-size: 12px;
 	color:#a74752;
 	letter-spacing: 0.08em;
 	text-transform: uppercase;
 	font-weight: 600;
+}
+
+.storyText h6 a {
+	text-decoration: underline;
 }
 
 .storyText p{
@@ -276,6 +290,10 @@ line-height: 30px;
 
 .storyText p + p {
 	margin-top: -15px;
+}
+
+.white-popup .storyText p {
+	margin: 0px;
 }
 
 .about img{
@@ -878,104 +896,137 @@ ul.errorMessages li {
 ---------------------------------------------------*/
 
 @media (max-width: 770px) {
-.item-five { width: 50%; }
-.item-three { width: 50%; }
-.item-four { width: 45%; }
 
-body{
-	margin: 0px;
-}
+	.item-five {
+		width: 50%;
+	}
 
-#headerBar {
-	width: 100%;
-}
+	.item-three {
+		width: 50%;
+	}
 
-.textIntro{
-	margin-top: 25%;
-}
+	.item-four {
+		width: 45%;
+	}
 
-.hi h1{
-	font-size: 35px;
-	letter-spacing: 7px;
-}
-.resumeList li.resTitle{
-	margin-top: 50px;
-}
-.navbar li{
-	margin: 0px 5px;
-}
-.profileText img{
-	width: 150px;
-	height: 150px;
-	margin-top: 90px;
-	text-align: center;
-}
-#sectionIntro {
-	min-height:600px;
-}
-.footerRight ul li {
-	text-align: center;
-	margin:0px 0px 0px 10px;
-}
-.footerLeft{
-	padding: 20px 0px;
-}
+	body {
+		margin: 0px;
+	}
 
-}
+	#headerBar {
+		width: 100%;
+	}
 
-@media (max-width: 480px){
-body{
-	margin: 0;
-}
-.item-five { width: 100%; }
-.item-three { width: 100%; }
-.item-four { width: 100%; }
+	.textIntro {
+		margin-top: 25%;
+	}
 
-.menu-wrap{
-	width: 140px;
-}
+	.hi h1 {
+		font-size: 35px;
+		letter-spacing: 7px;
+	}
 
-#headerBar {
-	width: 100%;
-}
+	.resumeList li.resTitle {
+		margin-top: 50px;
+	}
 
-.navbar li {
-	display: block;
-}
-.navbar li a {
-	line-height: 40px;
-}
-.profileText img{
-	width: 200px;
-	height: 200px;
-	margin-top: 40px;
-}
-.textIntro{
-	margin-top: 20%;
-	padding: 25px;
-}
-.blog-item{
-	margin-left: 0%;
-}
-.hi{
-	text-align: center;
-}
-.hi h1{
-	font-size: 25px;
-}
-.menu-wrap{
-	left: 10px;
+	.navbar li {
+		margin: 0px 5px;
+	}
+
+	.profileText img {
+		width: 150px;
+		height: 150px;
+		margin-top: 90px;
+		text-align: center;
+	}
+
+	#sectionIntro {
+		min-height: 600px;
+	}
+
+	.footerRight ul li {
+		text-align: center;
+		margin: 0px 0px 0px 10px;
+	}
+
+	.footerLeft {
+		padding: 20px 0px;
+	}
+
+	.white-popup {
+		width: auto;
+		max-width: none;
+	}
+
 }
 
-.footerRight{
-	text-align: center;
+@media (max-width: 480px) {
+	body {
+		margin: 0;
+	}
+
+	.item-five {
+		width: 100%;
+	}
+
+	.item-three {
+		width: 100%;
+	}
+
+	.item-four {
+		width: 100%;
+	}
+
+	.menu-wrap {
+		width: 140px;
+	}
+
+	#headerBar {
+		width: 100%;
+	}
+
+	.navbar li {
+		display: block;
+	}
+
+	.navbar li a {
+		line-height: 40px;
+	}
+
+	.profileText img {
+		width: 200px;
+		height: 200px;
+		margin-top: 40px;
+	}
+
+	.textIntro {
+		margin-top: 20%;
+		padding: 25px;
+	}
+
+	.blog-item {
+		margin-left: 0%;
+	}
+
+	.hi {
+		text-align: center;
+	}
+
+	.hi h1 {
+		font-size: 25px;
+	}
+
+	.menu-wrap {
+		left: 10px;
+	}
+
+	.footerRight {
+		text-align: center;
+	}
+
+	.footerLeft {
+		text-align: center;
+		line-height: 30px;
+	}
 }
-
-.footerLeft{
-	text-align: center;
-	line-height: 30px;
-}
-
-
-
-
