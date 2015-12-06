@@ -125,8 +125,8 @@ a:focus {
   color: #111; }
 
 .navbar li.active a {
-  color: #6c626d;
-  border-bottom: 2px solid #6c626d; }
+  color: #7e7e7e;
+  border-bottom: 2px solid #7e7e7e; }
 
 .navbar-toggle {
   font-size: 30px;
@@ -175,7 +175,7 @@ a:focus {
   padding-bottom: 0px;
   font-family: "Tangerine", sans-serif;
   font-size: 30px;
-  color: #6c626d;
+  color: #7e7e7e;
   font-weight: 700;
   letter-spacing: 1px; }
 
@@ -221,7 +221,7 @@ a:focus {
   font-size: 14px;
   line-height: 30px;
   letter-spacing: 1px;
-  color: #6c626d;
+  color: #7e7e7e;
   font-size: 32px;
   font-weight: 700; }
 
@@ -249,7 +249,7 @@ a:focus {
 .storyText h6, .storyText h6 a {
   font-family: "Montserrat", sans-serif;
   font-size: 12px;
-  color: #6c626d;
+  color: #7e7e7e;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   font-weight: 600; }
@@ -278,7 +278,7 @@ a:focus {
   margin-left: -20px !important; }
 
 .quote {
-  background-color: #6c626d;
+  background-color: #7e7e7e;
   padding: 20px 55px;
   padding-top: 30px; }
 
@@ -332,7 +332,7 @@ a:focus {
   -moz-padding-start: 0px; }
 
 .resumeList li.resTitle {
-  background-color: #6c626d;
+  background-color: #7e7e7e;
   color: #fff; }
 
 .resumeList li {
@@ -374,7 +374,7 @@ a:focus {
   font-size: 30px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #6c626d;
+  color: #7e7e7e;
   font-weight: 700; }
 
 .resumeList p {
@@ -391,7 +391,7 @@ a:focus {
   font-size: 30px;
   width: 50px;
   height: 50px;
-  background: #6c626d;
+  background: #7e7e7e;
   color: #fff;
   padding: 8px 11px;
   border-radius: 50%;
@@ -484,7 +484,7 @@ a:focus {
 .itemHover h6 {
   letter-spacing: 1px;
   font-size: 25px;
-  color: #6c626d;
+  color: #7e7e7e;
   display: inline-block;
   margin: 0 auto;
   max-width: 90%;
@@ -574,7 +574,7 @@ a:focus {
   letter-spacing: 1px;
   margin: 15px 0px;
   margin-bottom: 25px;
-  color: #6c626d;
+  color: #7e7e7e;
   font-weight: 700; }
 
 .servicesContent p {
@@ -590,7 +590,7 @@ a:focus {
   font-size: 30px;
   width: 50px;
   height: 50px;
-  background: #6c626d;
+  background: #7e7e7e;
   padding: 8px 11px;
   padding-top: 10px;
   padding-right: 16px;
@@ -652,7 +652,7 @@ a:focus {
   padding-top: 10px;
   border-top: 1px solid #dadde1;
   text-align: left;
-  color: #6c626d;
+  color: #7e7e7e;
   font-family: "Montserrat", sans-serif;
   letter-spacing: 0.04em;
   font-size: 12px;
@@ -662,7 +662,7 @@ span.separator {
   margin: 0px 10px; }
 
 .blog-item h6 a {
-  color: #6c626d; }
+  color: #7e7e7e; }
 
 .blog-item a:focus, .blog-item a:hover {
   text-decoration: none; }
@@ -705,7 +705,7 @@ input, textarea, select {
   font-size: 14px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #6c626d;
+  color: #7e7e7e;
   font-family: "Roboto Slab", sans-serif; }
 
 textarea {
@@ -740,7 +740,7 @@ input.submit {
   font-family: "Montserrat", sans-serif; }
 
 input.submit:hover {
-  background: #6c626d; }
+  background: #7e7e7e; }
 
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   color: #888; }
@@ -825,7 +825,7 @@ ul.errorMessages li {
 .fCopy p {
   font-family: "Tangerine", sans-serif;
   font-size: 25px;
-  color: #6c626d;
+  color: #7e7e7e;
   letter-spacing: 1px;
   font-weight: 700;
   margin-top: 10px; }
