@@ -67,16 +67,17 @@ $('body').scrollspy({ offset: 200, target: '.navigation' });
 
 // HEADER SCROLL EFFECT
 
-jQuery(document).ready(function($){ 
-    $( window ).scroll(function() {
-      var heights = window.innerHeight;
-      document.getElementById("sectionIntro").style.height = heights * 0.8 + "px";
+jQuery(document).ready(function($){
 
-
-    });
-
+    $( window ).scroll(setIntroHeight);
+    $( window ).resize(setIntroHeight);
+    setIntroHeight();
 });
 
+ function setIntroHeight() {
+     var heights = window.innerHeight;
+     document.getElementById("sectionIntro").style.height = heights * 0.8 + "px";
+ }
 
 jQuery(document).ready(function($){
 var introSection = $('#sHomeBg'),

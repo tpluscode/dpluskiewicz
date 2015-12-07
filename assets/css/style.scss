@@ -155,9 +155,10 @@ a:focus {
 #sectionIntro {
   position: relative;
   width: 100%;
-  min-height: 764px;
+  background-image: url(../images/hero.jpg);
   background-size: cover;
-  background: url(../images/hero.jpg);
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
 }
 
 .textIntro {
