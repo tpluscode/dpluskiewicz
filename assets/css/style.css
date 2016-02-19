@@ -159,8 +159,8 @@ a:focus {
   margin-top: 14%;
   text-align: left;
   background-color: #fff;
-  padding: 50px;
-  padding-bottom: 30px; }
+  padding: 25px 50px;
+  opacity: 0.7; }
 
 .hi h1 {
   letter-spacing: 0.08em;
@@ -176,7 +176,6 @@ a:focus {
   padding-bottom: 0px;
   font-family: "Tangerine", sans-serif;
   font-size: 30px;
-  color: #7e7e7e;
   font-weight: 700;
   letter-spacing: 1px; }
 
