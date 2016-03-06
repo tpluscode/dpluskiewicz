@@ -1,0 +1,22 @@
+{
+  "name": "Psycholog Pluskiewicz",
+  "homepage": "http://psycholog.pluskiewicz.pl",
+  "authors": [
+    "tpluscode <tpluscode@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "All rights reserved",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "google-map": "GoogleWebComponents/google-map#~1.1.10"
+  }
+}

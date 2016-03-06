@@ -31,6 +31,10 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     <script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
+
+    <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js" ></script>
+    <link rel="import" href="bower_components/google-map/google-map.html"/>
+    <link rel="import" href="bower_components/google-map/google-map-marker.html"/>
   </head>
 
 <!-- Body Start
@@ -421,7 +425,7 @@
                  
                    <div class="contactForm">
 
-                       <div class="col-md-6 col-sm-12 col-xs-12">
+                       <div class="col-md-5 col-sm-12 col-xs-12">
                            <div class="profileText">
                                <div class="storyText">
                                    <h4>Gabinet</h4>
@@ -439,7 +443,18 @@
                            </div>
                        </div>
 
-                    <div class="col-md-6 col-sm-12 col-xs-12">
+                       <div class="col-md-7 col-sm-12 col-xs-12">
+                        <google-map latitude="51.103654" longitude="17.038758" zoom="16" map-type="hybrid" style="height: 380px">
+                            <google-map-marker latitude="51.1032382618737" longitude="17.038580052195705">
+                                <div class="profileText">
+                                    <h6>Wejście przez Centrum Biznesu WCP</h6>
+                                    <p>Gabinet w budynku w podwórzu</p>
+                                </div>
+                            </google-map-marker>
+                        </google-map>
+                       </div>
+
+                    <div class="col-md-12 col-sm-12 col-xs-12">
                     <!--MESSAGE SENT SUCCESFULLY-->
                     <div id="message"></div>
 
@@ -449,15 +464,15 @@
 
                     <fieldset>
 
-                      <div class="col-md-6 col-sm-6 col-xs-12">
+                      <div class="col-md-4 col-sm-6 col-xs-12">
                         <input name="name" type="text" id="name" required placeholder="Imię* :" size="30" value="" />
                       </div>
 
-                      <div class="col-md-6 col-sm-6 col-xs-12">
+                      <div class="col-md-4 col-sm-6 col-xs-12">
                         <input name="email" type="text" id="email" required placeholder="E-mail* :" size="30" value="" />
                       </div>
 
-                      <div class="col-md-12 col-sm-12 col-xs-12">
+                      <div class="col-md-4 col-sm-12 col-xs-12">
                         <input name="_subject" type="text" id="subject" required placeholder="Temat* :" size="30" value="" />
                       </div>
 
