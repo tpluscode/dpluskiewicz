@@ -604,7 +604,7 @@ a:focus {
 /*--------------------------------------------------
 	07. section Blog
 ---------------------------------------------------*/
-#sectionBlog {
+#sectionArticles {
   position: relative;
   background: #dadde1;
   z-index: 200;
