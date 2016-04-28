@@ -196,11 +196,10 @@ a:focus {
 #sectionAbout {
   background-color: #fff;
   padding-bottom: 50px;
-  padding-top: 40px;
-  margin-top: -40px; }
+}
 
 .sectionTitle {
-  padding-top: 30px;
+  padding-top: 100px;
   padding-bottom: 30px;
   text-align: center; }
 
@@ -316,16 +315,8 @@ a:focus {
 ---------------------------------------------------*/
 #sectionResume {
   background: #f9f7f8;
-  padding-bottom: 50px; }
-
-#sectionResume:before {
-  content: "";
-  display: block;
-  height: 45px;
-  /* fixed header height*/
-  margin: -45px 0 0;
-  /* negative fixed header height */
-  background: #dadde1; }
+  padding-bottom: 50px;
+}
 
 .resumeList {
   -webkit-padding-start: 0px;
@@ -403,15 +394,6 @@ a:focus {
 
 #sectionTherapy {
   background: #dadde1; }
-
-#sectionTherapy:before {
-  content: "";
-  display: block;
-  height: 45px;
-  /* fixed header height*/
-  margin: -45px 0 0;
-  /* negative fixed header height */
-  background: white; }
 
 /*--------------------------------------------------
 	05. section Portfolio

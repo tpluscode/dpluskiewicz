@@ -59,12 +59,7 @@ jQuery(window).load(function() {
 
 });
 
-//------- ACTIVE LINKS SCROLLSPY ---//
-
-$('body').scrollspy({ offset: 200, target: '.navigation' });
-
-
-
+// HEADER SCROLL EFFECT
 // HEADER SCROLL EFFECT
 
 jQuery(document).ready(function($){
