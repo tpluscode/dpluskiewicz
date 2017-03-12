@@ -89,6 +89,7 @@ a:focus {
 }
 #headerBar .container {
   padding: 0;
+  position: relative;
 }
 .headerLeft {
   text-align: left;
@@ -147,6 +148,29 @@ a:focus {
 
 .mfp-close {
   font-size: 30px !important;
+}
+
+@media (min-width: 768px ) {
+  paper-fab {
+    position: absolute;
+    z-index: 1;
+    top: 54px;
+    right: 0;
+  }
+}
+
+@media (max-width: 767px ) {
+  paper-fab {
+    position: fixed;
+    z-index: 1;
+    bottom: 50px;
+    right: 50px;
+  }
+}
+
+paper-tooltip {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
 }
 
 /*--------------------------------------------------

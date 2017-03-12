@@ -1,4 +1,4 @@
-@charset "CP852";
+@charset "UTF-8";
 /*!
  * Dora Onepage Personal Portfolio Template
  * © scrils
@@ -40,7 +40,7 @@ a:focus {
   z-index: 9999; }
 
 #loaderInner {
-  background: white url(../images/load.gif) center center no-repeat;
+  background: #ffffff url(../images/load.gif) center center no-repeat;
   height: 60px;
   left: 50%;
   position: absolute;
@@ -79,7 +79,8 @@ a:focus {
   box-shadow: 0px 7px 16px 0px rgba(50, 50, 50, 0.1); }
 
 #headerBar .container {
-  padding: 0; }
+  padding: 0;
+  position: relative; }
 
 .headerLeft {
   text-align: left;
@@ -143,6 +144,24 @@ a:focus {
 .mfp-close {
   font-size: 30px !important; }
 
+@media (min-width: 768px) {
+  paper-fab {
+    position: absolute;
+    z-index: 1;
+    top: 54px;
+    right: 0; } }
+
+@media (max-width: 767px) {
+  paper-fab {
+    position: fixed;
+    z-index: 1;
+    bottom: 50px;
+    right: 50px; } }
+
+paper-tooltip {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em; }
+
 /*--------------------------------------------------
 	02. section Intro
 ---------------------------------------------------*/
@@ -195,8 +214,7 @@ a:focus {
 ---------------------------------------------------*/
 #sectionAbout {
   background-color: #fff;
-  padding-bottom: 50px;
-}
+  padding-bottom: 50px; }
 
 .sectionTitle {
   padding-top: 100px;
@@ -315,8 +333,7 @@ a:focus {
 ---------------------------------------------------*/
 #sectionResume {
   background: #f9f7f8;
-  padding-bottom: 50px;
-}
+  padding-bottom: 50px; }
 
 .resumeList {
   -webkit-padding-start: 0px;
@@ -844,100 +861,73 @@ ul.errorMessages li {
 @media (max-width: 770px) {
   .item-five {
     width: 50%; }
-
   .item-three {
     width: 50%; }
-
   .item-four {
     width: 45%; }
-
   body {
     margin: 0px; }
-
   #headerBar {
     width: 100%; }
-
   .textIntro {
     margin-top: 25%; }
-
   .hi h1 {
     font-size: 35px;
     letter-spacing: 7px; }
-
   .resumeList li.resTitle {
     margin-top: 50px; }
-
   .navbar li {
     margin: 0px 5px; }
-
   .profileText img {
     width: 150px;
     height: 150px;
     margin-top: 90px;
     text-align: center; }
-
   #sectionIntro {
     min-height: 600px; }
-
   .footerRight ul li {
     text-align: center;
     margin: 0px 0px 0px 10px; }
-
   .footerLeft {
     padding: 20px 0px; }
-
   .white-popup {
     width: auto;
     max-width: none; } }
+
 @media (max-width: 480px) {
   body {
     margin: 0; }
-
   .item-five {
     width: 100%; }
-
   .item-three {
     width: 100%; }
-
   .item-four {
     width: 100%; }
-
   .menu-wrap {
     width: 140px; }
-
   #headerBar {
     width: 100%; }
-
   .navbar li {
     display: block; }
-
   .navbar li a {
     line-height: 40px; }
-
   .profileText img {
     width: 200px;
     height: 200px;
     margin-top: 40px; }
-
   .textIntro {
     margin-top: 20%;
     padding: 25px; }
-
   .blog-item {
     margin-left: 0%; }
-
   .hi {
     text-align: center; }
-
   .hi h1 {
     font-size: 25px; }
-
   .menu-wrap {
     left: 10px; }
-
   .footerRight {
     text-align: center; }
-
   .footerLeft {
     text-align: center;
     line-height: 30px; } }

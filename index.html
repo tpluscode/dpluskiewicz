@@ -32,9 +32,30 @@
 
     <script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
 
+    <script>
+        window.Polymer = {
+          dom: 'shadow'
+        };
+    </script>
     <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js" ></script>
     <link rel="import" href="bower_components/google-map/google-map.html"/>
-    <link rel="import" href="bower_components/google-map/google-map-marker.html"/>
+    <link rel="import" href="bower_components/google-map/google-map-marker.html" />
+    <link rel="import" href="bower_components/paper-fab/paper-fab.html" async >
+    <link rel="import" href="bower_components/iron-icons/social-icons.html" async >
+    <link rel="import" href="bower_components/paper-tooltip/paper-tooltip.html" async >
+
+    <style is="custom-style">
+        paper-tooltip {
+            --paper-tooltip: {
+                font-family: "Montserrat", sans-serif;
+                font-size: 0.5em;
+            };
+        }
+
+        paper-fab {
+            --paper-fab-background: #FFA500;
+        }
+    </style>
   </head>
 
 <!-- Body Start
@@ -115,9 +136,16 @@
 
         <div class="container">
 
+          <a href="http://www.psychologodnowa.pl/pl/rejestracja-online#system-message-container" target="_blank">
+            <paper-fab id="book" class="book" icon="social:person-add"></paper-fab>
+          </a>
+          <paper-tooltip for="book" position="left">
+              Rejestracja online
+          </paper-tooltip>
+
           <!--Header logo on the left side-->
 
-          <div class="col-md-6 col-sm-2 col-xs-10 headerLeft">
+          <div class="col-md-4 col-sm-2 col-xs-10 headerLeft">
           <a href="index.html">
               <span class="visible-lg-inline visible-md-inline visible-xs-inline">Gabinet psychologiczny</span>
               <span class="visible-sm-inline">Psycholog</span>
@@ -126,7 +154,7 @@
 
           <!--Header right side with left-aligned menu-->
 
-          <div class="col-md-6 col-sm-10 col-xs-2 headerRight">
+          <div class="col-md-8 col-sm-10 col-xs-2 headerRight">
             <div class="header-right">
 
               <!--Navigation-->
