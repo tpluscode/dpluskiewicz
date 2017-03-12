@@ -114,7 +114,7 @@ a:focus {
 .navbar {margin-bottom: 0;-webkit-padding-start: 0px;}
 .navbar li{display: inline-block;margin: 0 9px;}
 .navbar li a{
-  font-weight: 400;
+  font-weight: 600;
   font-size: 12px;
   line-height: 80px;
   letter-spacing: 1px;
@@ -126,7 +126,7 @@ a:focus {
   transition: 0.3s;
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
-  color: #111;
+  color: #444;
 }
 .navbar li.active a {
   color: $accent-color;
