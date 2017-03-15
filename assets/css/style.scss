@@ -152,7 +152,7 @@ a:focus {
 
 @media (min-width: 768px ) {
   paper-fab {
-    position: absolute;
+    position: absolute !important;
     z-index: 1;
     top: 54px;
     right: 0;
@@ -161,7 +161,7 @@ a:focus {
 
 @media (max-width: 767px ) {
   paper-fab {
-    position: fixed;
+    position: fixed !important;
     z-index: 1;
     bottom: 50px;
     right: 50px;
