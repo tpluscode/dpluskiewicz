@@ -235,6 +235,12 @@ paper-tooltip {
   padding-bottom: 50px;
 }
 
+@media (min-width: 992px) and (max-width: 1200px){
+  #sectionAbout img {
+    width: 300px
+  }
+}
+
 .sectionTitle{
   padding-top: 100px;
   padding-bottom: 100px;
@@ -941,13 +947,6 @@ ul.errorMessages li {
 
   .navbar li {
     margin: 0px 5px;
-  }
-
-  .profileText img {
-    width: 150px;
-    height: 150px;
-    margin-top: 90px;
-    text-align: center;
   }
 
   #sectionIntro {
