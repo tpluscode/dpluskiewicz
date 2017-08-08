@@ -6,15 +6,16 @@
     <!-- Mobile Specific Metas
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <!-- Page title
+    <meta name="description" content="Witaj na stronie psycholog Dominiki Pluskiewicz, psychoterapeuty poznawczo-behawioralnego z Wrocławia">
+    <meta name="keywords" content="psycholog, psychoterapia, cbt, terapia, poznawczo-behawioralna, wrocław, zaburzenia nastroju, panika, bezsenność, fobia, agorafobia, lęk, depresja, anoreksja, bulimia, ocd">
+    <meta name="author" content="Dominika Pluskiewicz">
+    <!-- Page titles
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-	  <title>Dora Onepage Personal Portfolio Template</title>
+	  <title>Psycholog Dominika Pluskiewicz | Terapia CBT Wrocław </title>
 
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Tangerine:400,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Tangerine:400,700' rel='stylesheet' type='text/css'>
 
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -27,14 +28,102 @@
     <link rel="stylesheet" href="assets/icons/Linea/styles.css" />
     <link rel="stylesheet" href="assets/icons/Elegant/style.css" />
     
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     <script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
+
+    <script>
+        window.Polymer = {
+          dom: 'shadow'
+        };
+    </script>
+    <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js" ></script>
+    <link rel="import" href="bower_components/google-map/google-map.html"/>
+    <link rel="import" href="bower_components/google-map/google-map-marker.html" />
+    <link rel="import" href="bower_components/paper-fab/paper-fab.html" async >
+    <link rel="import" href="bower_components/vaadin-icons/vaadin-icons.html" async >
+    <link rel="import" href="bower_components/paper-tooltip/paper-tooltip.html" async >
+
+    <style is="custom-style">
+        paper-tooltip {
+            --paper-tooltip: {
+                font-family: "Montserrat", sans-serif;
+                font-size: 0.5em;
+            };
+        }
+
+        paper-fab {
+            --paper-fab-background: #FFA500;
+        }
+    </style>
   </head>
 
 <!-- Body Start
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<body>
+<body data-spy="scroll" data-target=".navigation">
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "http://schema.org/ProfessionalService",
+        "name": "Gabinet Psychoterapii Dominika Pluskiewicz",
+        "description": "Psycholog poznawczo-behawioralny",
+        "sameAs": [
+            "http://psycholog.pluskiewicz.pl/"
+        ],
+        "hasMap": "https://www.google.pl/maps/place/Podwale+62,+Wroc%C5%82aw/@51.1035896,17.0366555,17z/data=!4m5!3m4!1s0x470fc27082a3ff75:0x8f6bdfe0a33555f5!8m2!3d51.1034549!4d17.0387691",
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "51.1035896",
+            "longitude": "17.0366555"
+        },
+        "openingHoursSpecification": {
+            "dayOfWeek": "Thursday",
+            "opens": "08:00",
+            "closes": "21:00"
+        },
+        "image": [{
+            "@type": "ImageObject",
+            "caption": "Dominika Pluskiewicz",
+            "url": "http://www.psychologodnowa.pl/images/dp.jpg"
+        }, {
+            "@type": "ImageObject",
+            "caption": "Wejście do budynku",
+            "url": "http://www.psychologodnowa.pl/images/centrum/budynek.jpg"
+        }, {
+            "@type": "ImageObject",
+            "caption": "Wnętrze gabinetu",
+            "url": "http://www.psychologodnowa.pl/images/centrum/gabinet_mm44.jpg"
+        }],
+        "email": "psycholog@pluskiewicz.pl",
+        "telephone": "881 526 899",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "ul. Podwale 62a lok. 6",
+            "postalCode": "50-950",
+            "addressLocality": "Wrocław",
+            "addressRegion": "dolnośląskie",
+            "addressCountry": "PL"
+        },
+        "potentialAction": {
+            "@type": "ReserveAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "http://www.psychologodnowa.pl/pl/rejestracja-online",
+              "inLanguage": "pl-PL",
+              "actionPlatform": [
+                "http://schema.org/DesktopWebPlatform",
+                "http://schema.org/IOSPlatform",
+                "http://schema.org/AndroidPlatform"
+              ]
+            },
+            "result": {
+              "@type": "Reservation",
+              "name": "Zarezerwuj wizytę"
+            }
+        }
+    }
+</script>
 <!-- Loader
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div id="loader">
@@ -47,17 +136,25 @@
 
         <div class="container">
 
+          <a href="http://www.psychologodnowa.pl/pl/rejestracja-online#system-message-container" target="_blank">
+            <paper-fab id="book" class="book" icon="vaadin-icons:calendar-clock"></paper-fab>
+          </a>
+          <paper-tooltip for="book" position="left">
+              Umów wizytę online
+          </paper-tooltip>
+
           <!--Header logo on the left side-->
 
-          <div class="col-md-4 col-sm-2 col-xs-4 headerLeft">
+          <div class="col-md-4 col-sm-2 col-xs-10 headerLeft">
           <a href="index.html">
-          <img src="assets/images/site-logo.png" alt="">
+              <span class="visible-lg-inline visible-md-inline visible-xs-inline">Gabinet psychologiczny</span>
+              <span class="visible-sm-inline">Psycholog</span>
           </a>
           </div>
 
           <!--Header right side with left-aligned menu-->
 
-          <div class="col-md-8 col-sm-10 col-xs-8 headerRight">
+          <div class="col-md-8 col-sm-10 col-xs-2 headerRight">
             <div class="header-right">
 
               <!--Navigation-->
@@ -72,13 +169,12 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                     <ul class="navbar navbar-right">
-                      <li><a href="#sectionIntro" class="easing">Home</a></li>
-                      <li><a href="#sectionAbout" class="easing">About</a></li>
-                      <li><a href="#sectionResume" class="easing">Resume</a></li>
-                      <li><a href="#sectionPortfolio" class="easing">Portfolio</a></li>
-                      <li><a href="#sectionServices" class="easing">Services</a></li>
-                      <li><a href="#sectionBlog" class="easing">Journal</a></li>
-                      <li><a href="#sectionContact" class="easing">Contact</a></li>
+                      <li><a href="#sectionIntro" class="easing">Start</a></li>
+                      <li><a href="#sectionAbout" class="easing">O mnie</a></li>
+                      <li><a href="#sectionTherapy" class="easing">Terapia</a></li>
+                      <li><a href="#sectionResume" class="easing">Doświadczenie</a></li>
+                      <li><a href="#sectionArticles" class="easing">Artykuły</a></li>
+                      <li><a href="#sectionContact" class="easing">Kontakt</a></li>
                     </ul>
 
                 </div>
@@ -107,11 +203,8 @@
 
             <div class="textIntro col-md-6">
               <div class="hi">
-              <h1>Megan Cooper</h1>
-              <h4>Web designer - Freelancer - Photographer</h4>
-              <p>
-              At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi.
-              </p>
+              <h1>Dominika Pluskiewicz</h1>
+              <h4>Psycholog - Psychoterapeuta</h4>
               </div>
             </div>
 
@@ -125,67 +218,125 @@
       <section id="sectionAbout">
         
           <div class="sectionTitle">
-              <h1>About me</h1> 
-              <h6>Let me introduce myself</h6>  
+              <h1>O mnie</h1>
           </div>
 
-          <div class="about">      
+          <div class="about">
+
           <div class="container">
 
             <div class="col-md-12 col-sm-12 col-xs-12 story">
             <div class="profileText">
 
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="storyText">
-            <h4>Profile</h4>
-            <h6>Complete name:</h6>
-            <p>Megan Cooper</p>
-            <h6>Phone number:</h6>
-            <p>+0123 456 789</p>
-            <h6>Website:</h6>
-            <p>www.megandesign.com</p>
-            <h6>E-mail:</h6>
-            <p>adress@domain.com</p>
-            </div>
-            </div>
-
-            <div class="col-md-4 col-sm-3 col-xs-12">
-            <img src="assets/images/person.png" alt="">
-            </div>
-            </div>
-
-            <div class="col-md-4 col-sm-5 col-xs-12">
-            <div class="storyText">
-            <h4>Skills</h4>
-            <h6>Web design</h6>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
-            80%
-            </div>
-            </div>
-
-            <h6>Logo design</h6>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
-            70%
-            </div>
-            </div>
-
-            <h6>Photography</h6>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-            85%
-            </div>
-            </div>
-
-            <h6>Web development</h6>
-            <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
-            65%
+            <div class="col-md-5 col-sm-12 col-xs-12">
+            <div class="storyText long">
+                <img src="assets/images/dominika_pluskiewicz.jpg" />
             </div>
             </div>
 
             </div>
+
+            <div class="col-md-7 col-sm-12 col-xs-12">
+            <div hidden class="storyText">
+            <h4>W swojej pracy zajmuję się</h4>
+            <ul>
+                <li><h6><a href="#anxiety-popup" class="open-popup-link">Zaburzeniami lękowymi</a></h6></li>
+                <li><h6><a href="#mood-popup" class="open-popup-link">Zaburzeniami nastroju</a></h6></li>
+                <li><h6><a href="#insomnia-popup" class="open-popup-link">Bezsennością</a></h6></li>
+                <li><h6><a href="#stress-popup" class="open-popup-link">Stresem</a></h6></li>
+            </ul>
+
+            <div id="stress-popup" class="white-popup mfp-hide">
+                <div class="storyText long">
+                    <h6>Stres</h6>
+                    <p>
+                        Stres  jest zaburzeniem homeostazy spowodowanym czynnikiem fizycznym lub psychologicznym.
+                        Mówimy o stresie  jako o bodźcu, reakcji lub procesie. Stres może powstawać pod wpływem codziennych wydarzeń.
+                        Najczęstszymi objawami stresu są pobudzenie emocjonalne, wzrost ciśnienia krwi, przyspieszenie akcji serca,
+                        ból głowy, ból brzucha, przyspieszenie oddechu, suchość w ustach, gęsia skórka, wzrost stężenia glukozy
+                        we krwi lub przyspieszona perystaltyka jelit.
+                        <br>
+                        Stres jest zjawiskiem powszechnym, ma motywować nas do działania. Jednak gdy trwa zbyt długo,
+                        staje się przewlekły  i jest zbyt silny przekraczając możliwości jednostki może doprowadzić do
+                        wykształcenia się m.in. zaburzeń lękowych, depresyjnych i wypalenia zawodowego.
+                    </p>
+                </div>
+            </div>
+
+            <div id="anxiety-popup" class="white-popup mfp-hide">
+                <div class="storyText long">
+                    <h6>Zaburzenia lękowe</h6>
+                    <p>
+                        Zaburzenia lękowe  grupa zaburzeń, których wspólnymi cechami są nadmierny strach i lęk. Najczęściej
+                        występujące objawy to <b>nadmierne martwienie się, reagowanie nasilonym lękiem, napady paniki,
+                        unikanie sytuacji potencjalnie trudnych, np. zakupy, szkoła/praca. Często towarzyszące są objawy
+                        somatyczne, np. ból lub dyskomfort w klatce piersiowej, uczucie dławienia się, uczucie duszności,
+                        nadmierna potliwość, roztrzęsienie, napięcie mięśniowe, uderzenia gorąca lub dreszcze.</b>
+                        <br>
+                        Do zaburzeń lękowych należą m.in.: fobie specyficzne, agorafobia, fobia społeczna, lęk paniczny,
+                        zespół lęku uogólnionego, zaburzenie obsesyjno-kompulsyjne.
+                    </p>
+                </div>
+            </div>
+
+            <div id="insomnia-popup" class="white-popup mfp-hide">
+                <div class="storyText long">
+                    <h6>Bezsenność</h6>
+                    <p>
+                        Bezsenność jest to <b>subiektywne</b> poczucie pacjenta, że jakość lub ilość snu jest nieodpowiednia.
+                        Typowe objawy to skargi na trudności z zaśnięciem, trudności w utrzymaniu ciągłości snu, wczesne
+                        budzenie, poczucie złej jakości snu, obawy, że wynikające z bezsenności napięcia, drażliwość,
+                        senność i  trudności w skupieniu uwagi zakłócają funkcjonowanie w ciągu dnia.
+                        <br>
+                        O bezsenność nie mówimy, gdy dochodzi do przygodnych  trudności ze snem spowodowanych np. powrotem
+                        z wakacji lub infekcją. Takie trudności  uważane są na naturalną reakcję fizjologiczną organizmu,
+                        przemijająca w momencie powrotu do równowagi rytmu biologicznego.
+                    </p>
+                </div>
+            </div>
+
+            <div id="mood-popup" class="white-popup mfp-hide">
+                <div class="storyText long">
+                    <h6>Zaburzenia depresyjne</h6>
+                    <p>
+                        Zaburzenia depresyjne (zespoły objawów depresyjnych występujące w przebiegu chorób afektywnych)
+                        mogą przejawiać się <b>obniżeniem nastroju, utratą energii, negatywizmem, unikaniem kontaktów z rodziną
+                        i znajomymi – tendencją do samotności , utratą zainteresowań lub wcześniej podejmowanych form
+                        aktywności, myślami samobójczymi, utratą apetytu, obniżonym poczuciem własnej wartości, zmniejszonym
+                        poczuciem pewności siebie, niezdolnością do przeżywania przyjemności.</b>
+                        <br>
+                        Do zaburzeń depresyjnych należą m.in. depresja (łagodna, umiarkowana, ciężka), zaburzenia depresyjne nawracające.
+                    </p>
+                    <h6>Zaburzenia nastroju</h6>
+                    <p>
+                        Zaburzenia nastroju są grupą zaburzeń w których występują zaburzenia emocji, nastroju i aktywności.
+                        Wśród najczęściej spotykanych objawów w przebiegu choroby afektywnej dwubiegunowej lub jednobiegunowej
+                        obecnych podczas <b>epizodów depresji są: obniżenie nastroju, uczucie niższości, brak wiary we własne
+                        możliwości, uczucie ciągłego zmęczenia, bezsenność lub nadmierna senność, spowolnienie, obniżenie libido.
+                        <br>
+                        Epizody maniakalne charakteryzują się: nadmiernym podwyższeniem nastroju, przewartościowywaniem własnej
+                        osoby, nadmierną wiarą we własne siły, poczuciem energii, gonitwą myśli, nadpobudliwością psychoruchową
+                        lub stale odczuwanym podnieceniem.</b>
+                        <br>
+                        Do zaburzeń nastroju należą m.in. zaburzenie afektywne dwubiegunowe (ChAD), dystymia, cyklotymia.
+                    </p>
+                </div>
+            </div>
+
+            </div>
+                <div class="storyText long">
+                    <h4></h4>
+                    <p>
+                        Jestem psychologiem, psychoterapeutą poznawczo-behawioralnym.
+                        Specjalizuję się w psychoterapii osób z zaburzeniami lękowymi, depresją, trudnościami adaptacyjnymi (przeżywającymi silny
+                        stres), bezsennością, będących w kryzysie psychicznym oraz cierpiących z powodu trudności życiowych i strat.</p>
+
+                    <p><b>W ramach swojej praktyki prowadzę terapię indywidualną dla młodzieży i osób
+                        dorosłych.</b><br>
+                        Przyjmuję w <b><a href="http://psychologodnowa.pl/pl/o-nas?id=26">Centrum Terapii Poznawczo-Behawioranlej OD&nbsp;NOWA</a></b></p>
+
+                    <p>Jestem członkiem <a href="http://www.pttpb.pl/pttpb-info/informacje-ogolne">Polskiego Towarzystwa Terapii Poznawczo-Behawioralnej</a>.</p>
+                </div>
             </div>
 
             </div>
@@ -193,9 +344,10 @@
 
             <div class="container">
             <div class="col-md-12 col-sm-12 col-xs-12 quote">
-            <h4>Quote</h4>
-            <p>The life of a designer is a life of fight. Fight against the ugliness. Just like a doctor fights against disease. For us, the visual disease is what we have around, and what we try to do is cure it somehow with design.</p>
-            <h5>Massimo Vignelli</h5>
+            <p>
+                To, czym jesteśmy dzisiaj, jest owocem naszych wczorajszych myśli, a myśli, ktrórych dzisiaj doświadczamy, budują nasze jutro. Życie jest wytworem naszego umysłu.
+                <h5>Budda</h5>
+            </p>
             </div>
             </div>
 
@@ -206,8 +358,55 @@
         
       </section>
 
-      
 
+
+<section id="sectionTherapy">
+    <div class="sectionTitle">
+        <h1>Terapia</h1>
+        <h6>Poznawczo-Behawioralna</h6>
+    </div>
+
+
+    <div class="container">
+        <div class="row servicesRow">
+
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="servicesBox">
+                    <div class="servicesIcon">
+                        <div class="icon icon-basic-magnifier"></div>
+                    </div>
+                    <div class="servicesContent">
+                        <h4>Terapia</h4>
+                        <p class="plineheight">
+                            Pierwsze kilka spotkań to wizyty konsultacyjne, które pozwalają podjąć decyzję o
+                            rozpoczęciu psychoterapii. Proces terapeutyczny zaczyna się od zebrania wywiadu, który pomoże
+                            w określeniu problemu i celu leczenia. Na kolejnych spotkaniach pracuje się nad zidentyfikowanym
+                            problemem i jego objawami.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="servicesBox">
+                    <div class="servicesIcon">
+                        <div class="icon icon-basic-life-buoy"></div>
+                    </div>
+                    <div class="servicesContent">
+                        <h4>Psychoterapia poznawczo-behawioralna</h4>
+                        <p class="plineheight">
+                            Jest to terapia oparta o współczesne teorie dotyczące fukcjonowania psychicznego człowieka.
+                            Skuteczność stosowanych w jej ramach metod została zweryfikowana naukowo. Pacjent i terapeuta wspólnie pracują nad zrozumieniem i zidentyfikowaniem
+                            problemu. Istotnym wzorcem, na którym skupia się terapia jest wpływ myśli, emocji i zachowania na codzienne funkcjonowanie pacjenta.
+                            Relacja pomiędzy pacjentem a psychterapeutą opiera się na zasadzie współpracy. Nieodłącznym elementem
+                            terapii jest aktywny udział pacjenta (praca poza sesjami), który umożliwia osiągnięcie pożądanych rezultatów.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 		
 <!-- section Resume
@@ -217,8 +416,7 @@
         
       <!-- section TITLE -->
       <div class="sectionTitle">
-            <h1>Resume</h1>
-            <h6 class="whiteTitle">More about my past</h6>
+            <h1>Doświadczenie</h1>
       </div>
 
          <div class="container">        
@@ -227,16 +425,15 @@
                 <div class="col-md-6 resumeEd">
 
                     <ul class="resumeList">
-                        <li class="resTitle"><h4>Education</h4></li>
+                        <li class="resTitle"><h4>Wykształcenie</h4></li>
                         <li>
                             <div class="resumeIcon">
                                 <div class="icon icon-basic-book"></div>
                             </div>
                             <div class="resumeContent">
-                                <h5>Master of Informathics</h5>
-                                <span>2014-2015</span>
+                                <h5>Psychologia, specjalność kliniczna</h5>
                                 <p class="plineheight">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum.</p>
+                                Szkoła Wyższa Psychologii Społeczniej w Warszawie, oddział we Wrocławiu</p>
                             </div>
                         </li>
                         <li>
@@ -244,10 +441,9 @@
                                 <div class="icon icon-basic-book"></div>
                             </div>
                             <div class="resumeContent">
-                                <h5>College of Informathics</h5>
-                                <span>2012-2014</span>
+                                <h5>Szkolenie Podyplomowe z Terapii Poznawczo-Behawioralnej</h5>
                                 <p class="plineheight">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum.</p>
+                                Obecnie jestem w trakcie czteroletnich studiów pod kierownictwem dr Ewy Pragłowskiej i dr Agnieszki Popiel</p>
                             </div>
                         </li>
                         <li>
@@ -255,10 +451,19 @@
                                 <div class="icon icon-basic-book"></div>
                             </div>
                             <div class="resumeContent">
-                                <h5>Computer Science HS</h5>
-                                <span>2008-2012</span>
                                 <p class="plineheight">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum.</p>
+                                Nieustannie podnoszę swoje kwalifikacje poprzez uczestnictwo w szkoleniach, konferencjach naukowych i kursach dotyczących psychoterapii.</p>
+                                <ul class="plineheight">
+                                    <li>Wprowadzenie do terapii schematu</li>
+                                    <li>Przedłużona ekspozycja w leczeniu PTSD</li>
+                                    <li>Techniki CBT wykorzystywane w leczeniu depresji</li>
+                                    <li>Terapia poznawczo-behawioralna zaburzeń snu</li>
+                                    <li>Profilaktyka uzależnień</li>
+                                    <li>Trening redukcji stresu „Prozdrowotny program wzmacniający odporność na stres i kryzysy" MBSR-Mindfulness</li>
+                                    <li>Techniki i narzędzia pracy terapeutycznej z dziećmi i młodzieżą</li>
+                                    <li>Grupy wsparcia, edukacyjne, terapeutyczne – organizowanie i prowadzenie</li>
+                                    <li>Terapia oparta na uważności w leczeniu depresji (MBCT)</li>
+                                </ul>
                             </div>
                         </li>
                     </ul>
@@ -269,38 +474,47 @@
                 <div class="col-md-6 resumeEmp">
 
                     <ul class="resumeList">
-                        <li class="resTitle"><h4>Employment</h4></li>
+                        <li class="resTitle"><h4>Doświadczenie zawodowe</h4></li>
                         <li>
                             <div class="resumeIcon">
                                 <div class="icon icon-basic-case"></div>
                             </div>
                             <div class="resumeContent">
-                                <h5>Exclusive author</h5>
-                                <span>2013-2015+</span>
                                 <p class="plineheight">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum.</p>
+                                    Doświadczenie z zakresu diagnostyki psychologicznej i psychoterapii zdobywałam m.in.
+                                    podczas staży i praktyk w&nbsp;Centrach Badań Medyczno-Psychologicznych, w Oddziałach
+                                    Dziennych i Zamkniętych Psychiatrycznych w&nbsp;Szpitalnej Opiece Zdrowotnej, a także
+                                    w&nbsp;fundacji wspierającej onkologicznie chorych pacjentów i ich rodziny.
                             </div>
                         </li>
+			<li>
+                            <div class="resumeIcon">
+                                <div class="icon icon-basic-case"></div>
+                            </div>
+                            <div class="resumeContent">
+                                <p class="plineheight"><strong>Posiadam doświadczenie w pracy z osobami cierpiącymi z powodu:</strong></p>
+
+                                <ul class="plineheight">
+                                        <li>zaburzeń lękowych (m.in: lęk paniczny, fobie, zaburzenie obsesyjno-kompulsyjne)</li>
+                                        <li>depresji i obniżonego nastroju</li>
+                                        <li>trudności adaptacyjnych (silny stres)</li>
+                                        <li>bezsenności</li>
+                                        <li>kryzysu psychicznego</li>
+                                        <li>trudności życiowych i strat</li>
+                                        <li>nieśmiałości</li>
+                                        <li>niskiej samooceny</li>
+                                        <li>trudności w relacjach</li>
+                                        <li>traumatycznych wydarzeń</li>
+                                </ul>
+                            </div>
+			</li>
                         <li>
                             <div class="resumeIcon">
                                 <div class="icon icon-basic-case"></div>
                             </div>
                             <div class="resumeContent">
-                                <h5>Front-end developer</h5>
-                                <span>2010-2013</span>
                                 <p class="plineheight">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="resumeIcon">
-                                <div class="icon icon-basic-case"></div>
-                            </div>
-                            <div class="resumeContent">
-                                <h5>Freelancer</h5>
-                                <span>2008-2010</span>
-                                <p class="plineheight">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum.</p>
+                                    Pracuję w placówce opiekuńczo – wychowawczej z młodzieżą i młodymi dorosłymi, gdzie uczestniczę w procesie diagnozy, prowadzę poradnictwo i psychoterapię osób przebywających w ośrodku. Pomocy terapeutycznej udzielam także pacjentom Centrum Terapii Poznawczo Behawioralnej "Od Nowa". </p>
                             </div>
                         </li>
                     </ul>
@@ -315,385 +529,138 @@
         </div>
     </section>
 
-		
-<!-- section Portfolio
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-        <section id="sectionPortfolio">
-           
-          <div class="sectionTitle">
-            <h1>Portfolio</h1>
-            <h6>My latest works</h6>
-          </div>        
-
-        <!--GRID ITEMS-->
-
-     <!--GRID START-->
+<section id="sectionArticles">
+    <div class="sectionTitle">
+        <h1>Artykuły</h1>
+    </div>
 
     <div class="container">
-    <div id="masonry-grid" class="mGrid">
 
-        <div class="gutter-sizer"></div>
+        <div id="blog-grid" class="bGrid">
 
-            
-            <div class="grid-item item-five item-padding">
+            <div class="gutter-sizer"></div>
 
-              <a class="image-modal" href="#image-modal1">
-
-                <img src="assets/images/1.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h6>Illustrating</h6>
-                    <h4>Ceramic bottles</h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal1" class="mfp-hide modal-box">
-                  <img src="assets/images/1.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Ceramic Bottles</h2>
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-                  </div>
-              </div>         
-
-            </div>
-
-
-          <div class="grid-item item-five item-padding">
-
-              <a class="image-modal" href="#image-modal2">
-
-                <img src="assets/images/4.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h6>Fashion</h6>
-                    <h4>Fashion Magazine</h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal2" class="mfp-hide modal-box">
-                  <img src="assets/images/4.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Fashion Magazine</h2>
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five">
-
-              <a class="image-modal" href="#image-modal3">
-
-                <img src="assets/images/3.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h6>Branding</h6>
-                    <h4>Gold Laptop</h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal3" class="mfp-hide modal-box">
-                  <img src="assets/images/3.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Gold Laptop</h2>
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five  item-padding-top">
-
-              <a class="image-modal" href="#image-modal4">
-
-                <img src="assets/images/5.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h6>Illustrating</h6>
-                    <h4>Ecological bag</h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal4" class="mfp-hide modal-box">
-                  <img src="assets/images/5.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Ecological bag</h2>
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five item-padding">
-
-              <a class="image-modal" href="#image-modal5">
-
-                <img src="assets/images/8.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h6>Branding</h6>
-                    <h4>Notebook</h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal5" class="mfp-hide modal-box">
-                  <img src="assets/images/8.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Notebook</h2>
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five item-padding">
-
-              <a class="image-modal" href="#image-modal6">
-
-                <img src="assets/images/2.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h6>Fashion</h6>
-                    <h4>Shopping</h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal6" class="mfp-hide modal-box">
-                  <img src="assets/images/2.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Shopping</h2>
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-                  </div>
-              </div>         
-
-            </div>
-
-            <div class="grid-item item-five item-padding">
-
-              <a class="image-modal" href="#image-modal7">
-
-                <img src="assets/images/7.jpg" alt="">
-
-                  <div class="itemHover">
-                    <h6>Branding</h6>
-                    <h4>Handmade</h4>
-                  </div>
-
-              </a>
-
-              <div id="image-modal7" class="mfp-hide modal-box">
-                  <img src="assets/images/7.jpg" alt="">
-                  <div class="modal-box-content">
-                    <h2>Handmade</h2>
-                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-                  </div>
-              </div>         
-
-            </div>
-
-
-    </div>
-    </div>
-
-   
-    </section> 
-
-
-<!-- section Services
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
-
-        <section id="sectionServices">
-          <div class="sectionTitle">
-            <h1>Services</h1>
-            <h6>What can I do for you</h6>
-          </div>       
-
-          
-          <div class="container">
-             <div class="row servicesRow">
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="servicesBox">
-                        <div class="servicesIcon">
-                            <div class="icon icon-basic-lightbulb"></div>
-                        </div>
-                        <div class="servicesContent">
-                        <h4>Ideas</h4>
-                        <h6>Help you start</h6>
-                        <p class="plineheight">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum, quod libero distinctio vitae ea sint labore veritatis.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="servicesBox">
-                        <div class="servicesIcon">
-                            <div class="icon icon-basic-notebook-pencil"></div>
-                        </div>
-                        <div class="servicesContent">
-                        <h4>Sketches</h4>
-                        <h6>See different looks</h6>
-                        <p class="plineheight">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum, quod libero distinctio vitae ea sint labore veritatis.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="row servicesRow">
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="servicesBox">
-                        <div class="servicesIcon">
-                            <div class="icon icon-basic-webpage-img-txt"></div>
-                        </div>
-                        <div class="servicesContent">
-                        <h4>Graphics</h4>
-                        <h6>Get a design</h6>
-                        <p class="plineheight">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum, quod libero distinctio vitae ea sint labore veritatis.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="servicesBox">
-                        <div class="servicesIcon">
-                            <div class="icon icon-basic-keyboard"></div>
-                        </div>
-                        <div class="servicesContent">
-                        <h4>Develop</h4>
-                        <h6>Build your project</h6>
-                        <p class="plineheight">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore adipisci excepturi dolorum, quod libero distinctio vitae ea sint labore veritatis.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            
-
-          </div>
-
-        </section>
-
-
-
-<!-- section Blog
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-
-        <section id="sectionBlog">
-          <div class="sectionTitle">
-            <h1>Journal</h1>
-            <h6 class="whiteTitle">My latest news</h6>
-          </div>
-
-      <div class="container">
-
-       <div id="blog-grid" class="bGrid">
-
-        <div class="gutter-sizer"></div>
-        
             <div class="blog-item item-four item-margin">
-            <img src="assets/images/blog1.jpg" alt="">
-            <a href=""><h3>Journal post with image</h3></a>
-            <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt.<br>
-            <b><a href="">Read more</a></b>
-            </p>
-            <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
+                <img src="assets/images/lek_egzaminacyjny.png" alt="Lęk egzaminacyjny">
+                <a href="http://psychologodnowa.pl/index.php/pl/czytelnia/8-czytelnia/20-lek-egzaminacyjny"><h3>Lęk egzaminacyjny</h3></a>
+                <p>
+                    Strach przed egzaminem? Kilka słów o objawach i sposobach radzenia sobie z lękiem egzaminacyjnym.<br>
+                    <b><a href="http://psychologodnowa.pl/index.php/pl/czytelnia/8-czytelnia/20-lek-egzaminacyjny">Czytaj dalej</a></b>
+                </p>
+                <h6>Lęk, egzamin <span class="separator">|</span> 01 stycznia 2016</h6>
             </div>
 
             <div class="blog-item item-four item-margin">
-            <img src="assets/images/blog4.jpg" alt="">
-            <a href=""><h3>Journal post with image</h3></a>
-            <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit.<br>
-            <b><a href="">Read more</a></b>
-            </p>
-            <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
+                <img src="assets/images/lek-chmura.png" alt="Lęk">
+                <a href="http://psychologodnowa.pl/index.php/pl/lek-uczucie-niepokoju-panika"><h3>Lęk, uczucie niepokoju, panika?</h3></a>
+                <p>
+                    Pierwsze sygnały lęku i paniki nie zawsze są rozpoznawane prawidłowo. Rozpoznanie ich stanowi punkt zwrotny na drodze do poradzenia sobie z problemem.
+                    <br>
+                    <b><a href="http://psychologodnowa.pl/index.php/pl/lek-uczucie-niepokoju-panika">Czytaj dalej</a></b>
+                </p>
+                <h6>Lęk <span class="separator">|</span> 02 maja 2016</h6>
             </div>
 
             <div class="blog-item item-four">
-            <img src="assets/images/blog5.jpg" alt="">
-            <a href=""><h3>Journal post with image</h3></a>
-            <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt.<br>
-            <b><a href="">Read more</a></b>
-            </p>
-            <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
+                <img src="assets/images/bezennosc.png" alt="">
+                <a href="http://psychologodnowa.pl/index.php/pl/mini-przewodnik-po-bezsennosci"><h3>Mini przewodnik po bezsenności</h3></a>
+                <p>
+                    Często zdarza się, że gdy nie możemy spać zadajemy sobie pytanie, czy to już bezsenność? Trudno ocenić to samemu, nie jesteśmy pewni jakie objawy są konieczne aby można było ją zdiagnozować. Pojawiają się wątpliwości co jest typowe, kiedy i czy warto rozpocząć leczenie?<br>
+                    <b><a href="http://psychologodnowa.pl/index.php/pl/mini-przewodnik-po-bezsennosci">Czytaj dalej</a></b>
+                </p>
+                <h6>Bezsenność <span class="separator">|</span> 19 lipca 2016</h6>
             </div>
 
             <div class="blog-item item-four item-margin blog-padding">
-            <a href=""><h3>Simple journal post</h3></a>
-            <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.<br>
-            <b><a href="">Read more</a></b>
-            </p>
-            <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
-            </div>   
-
-            <div class="blog-item item-four item-margin">
-            <img src="assets/images/blog6.jpg" alt="">
-            <a href=""><h3>Journal post with image</h3></a>
-            <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia.<br>
-            <b><a href="">Read more</a></b>
-            </p>
-            <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
-            </div>
-
-            <div class="blog-item item-four">
-            <img src="assets/images/blog2.jpg" alt="">
-            <a href=""><h3>Journal post with image</h3></a>
-            <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia. <br>
-            <b><a href="">Read more</a></b>
-            </p>
-            <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
+		<img src="assets/ocd.png" alt="ocd" />
+                <a href="http://psychologodnowa.pl/pl/czytelnia/8-czytelnia/40-natrectwa-i-uporczywe-mysli"><h3>Natręctwa i uporczywe myśli</h3></a>
+                <p>
+                    Natręctwa i uporczywe myśli - czym są zaburzenia obsesyjno-kompulsyjne i jak je leczyć<br>
+                    <b><a href="http://psychologodnowa.pl/pl/czytelnia/8-czytelnia/40-natrectwa-i-uporczywe-mysli">Czytaj dalej</a></b>
+                </p>
+                <h6>OCD <span class="separator">|</span> 10 listopada 2016</h6>
             </div>
 
             <div class="blog-item item-four item-margin">
-            <img src="assets/images/blog3.jpg" alt="">
-            <a href=""><h3>Journal post with image</h3></a>
-            <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia. <br>
-            <b><a href="">Read more</a></b>
-            </p>
-            <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
+                <img src="assets/images/FS_pionki.jpg" alt="">
+                <a href="http://www.psychologodnowa.pl/pl/czytelnia/8-czytelnia/48-fobia-spoleczna-gdy-kontakt-z-ludzmi-oznacza-stres"><h3>Fobia społeczna</h3></a>
+                <p>
+                    Często trudno nam rozróżnić czy to, co przeżywamy jest nieśmiałością, która przeminie z wiekiem, czy może problemem bardziej złożonym, który warto skonsultować ze specjalistą. <br>
+                    <b><a href="http://www.psychologodnowa.pl/pl/czytelnia/8-czytelnia/48-fobia-spoleczna-gdy-kontakt-z-ludzmi-oznacza-stres">Cztaj dalej</a></b>
+                </p>
+                <h6>Fobia społeczna <span class="separator">|</span> 27 lutego 2017</h6>
             </div>
+
+            <!--<div class="blog-item item-four">
+                <img src="assets/images/blog2.jpg" alt="">
+                <a href=""><h3>Journal post with image</h3></a>
+                <p>
+                    Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia. <br>
+                    <b><a href="">Read more</a></b>
+                </p>
+                <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
+            </div>
+
+            <div class="blog-item item-four item-margin">
+                <img src="assets/images/blog3.jpg" alt="">
+                <a href=""><h3>Journal post with image</h3></a>
+                <p>
+                    Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur adipisci velit, sed quia. <br>
+                    <b><a href="">Read more</a></b>
+                </p>
+                <h6>Category <span class="separator">|</span> 12 July 2015 <span class="separator">|</span><a href=""> 0 comments</a></h6>
+            </div>-->
 
 
         </div>
-              
 
-      </div>
-        </section>
-		
 
+    </div>
+</section>
 
 <!-- section Contact
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
         <section id="sectionContact">
             <div class="sectionTitle LessPaddingTitle">
-              <h1>Contact</h1>
-              <h6>Get in touch</h6>
-            </div>      
+              <h1>Kontakt</h1>
+            </div>
                   
             <div class="container">
                  
                    <div class="contactForm">
+
+                       <div class="col-md-5 col-sm-12 col-xs-12">
+                           <div class="profileText">
+                               <div class="storyText">
+                                   <h6>Adres:</h6>
+                                   <p><a href="https://www.google.pl/maps?q=podwale+62" target="_blank">ul. Podwale 62a lok. 6, Wrocław</a></p>
+                                   <h6>Dojazd:</h6>
+                                   <p>Przystanek <b>Wzgórze Partyzantów</b></p>
+                                   <p>Tramwaje 2, 5, 8, 9, 11</p>
+                                   <p>Autobusy A, 114, 149, 901, 900L</p>
+                                   <h6>Telefon:</h6>
+                                   <p><b>881 526 899</b></p>
+                                   <h6>E-mail:</h6>
+                                   <p><a href="mailto:psycholog@pluskiewicz.pl">psycholog@pluskiewicz.pl</a></p>
+                                   <h6>Rejestracja online</h6>
+                                   <p><a href="http://www.psychologodnowa.pl/pl/rejestracja-online#system-message-container">Umów wizytę</a></p>
+                                   <h6>Cennik:</h6>
+                                   <p>Konsultacja/sesja psychoterapii - <b>100 zł</b></p>
+                               </div>
+                           </div>
+                       </div>
+
+                       <div class="col-md-7 col-sm-12 col-xs-12">
+                        <google-map latitude="51.103654" longitude="17.038758" zoom="16" map-type="hybrid" style="height: 420px">
+                            <google-map-marker latitude="51.1032382618737" longitude="17.038580052195705">
+                                <div class="profileText">
+                                    <h6>Wejście przez Centrum Biznesu WCP</h6>
+                                    <p><img src="http://www.psychologodnowa.pl/images/centrum/budynek.jpg" style="width: 250px"/></p>
+                                </div>
+                            </google-map-marker>
+                        </google-map>
+                       </div>
 
                     <div class="col-md-12 col-sm-12 col-xs-12">
                     <!--MESSAGE SENT SUCCESFULLY-->
@@ -701,27 +668,28 @@
 
                     <!--MAIN FORM-->
 
-                    <form method="post" action="assets/contact.php" name="contactform" id="contactform">
+                    <form method="post" action="//formspree.io/psycholog@pluskiewicz.pl" name="contactform" id="contactform">
 
                     <fieldset>
 
                       <div class="col-md-4 col-sm-6 col-xs-12">
-                        <input name="name" type="text" id="name" placeholder="Name* :" size="30" value="" />
+                        <input name="name" type="text" id="name" required placeholder="Imię* :" size="30" value="" />
                       </div>
 
                       <div class="col-md-4 col-sm-6 col-xs-12">
-                        <input name="email" type="text" id="email" placeholder="E-mail* :" size="30" value="" />
+                        <input name="email" type="text" id="email" required placeholder="E-mail* :" size="30" value="" />
                       </div>
 
                       <div class="col-md-4 col-sm-12 col-xs-12">
-                        <input name="subject" type="text" id="subject" placeholder="Subject* :" size="30" value="" />
+                        <input name="_subject" type="text" id="subject" required placeholder="Temat* :" size="30" value="" />
                       </div>
 
                       <div class="col-md-12 col-sm-12 col-xs-12">
-                        <textarea name="comments" cols="40" rows="3" placeholder="Message* :" id="comments"></textarea>
+                        <textarea name="comments" cols="40" rows="3" required placeholder="Wiadomość* :" id="comments"></textarea>
                       </div>
-
-                        <input type="submit" class="submit" id="submit" value="Send message" />
+                        <input type="hidden" name="_next" value="http://psycholog.pluskiewicz.pl/email.html" />
+                        <input type="text" name="_gotcha" style="display:none" />
+                        <input type="submit" class="submit" id="submit" value="Wyślij" />
                        
 
                     </fieldset>
@@ -746,28 +714,19 @@
             <div class="container">
 
                 <div class="col-md-4 col-sm-4 col-xs-12 fCopy">
-                Copyright © <span>DORA</span> 2015
+                Copyright © <span>Dominika Pluskiewicz</span> 2015
                 <p>Made with love by scrils.</p>  
                 </div>
 
                 <div class="col-md-4 col-sm-4 col-xs-12 fScroll">
                     <a class="easing scroll-up" href="#sectionIntro">
-                    BACK TO TOP<span aria-hidden="true" class="arrow_carrot-up"></span>
+                    DO GÓRY<span aria-hidden="true" class="arrow_carrot-up"></span>
                     </a>
                 </div>
 
                 <div class="col-md-4 col-sm-4 col-xs-12 fIcons">
-                <a href="#">
+                <a href="#" style="display:none;">
                 <span aria-hidden="true" class="social_facebook_circle"></span>
-                </a>
-                <a href="#">
-                <span aria-hidden="true" class="social_twitter_circle"></span>
-                </a>
-                <a href="#">
-                <span aria-hidden="true" class="social_dribbble_circle"></span>
-                </a>
-                <a href="#">
-                <span aria-hidden="true" class="social_instagram_circle"></span>
                 </a>
                 </div>
 
@@ -780,7 +739,6 @@
       <script src="assets/js/jquery-2.1.1.js"></script>
       <script src="assets/js/bootstrap.js"></script>
       <script src="assets/js/modernizr.custom.js"></script>
-      <script src="assets/js/contactform.js"></script>
       <!-- Navigation menu-->
       <script src="assets/js/classie.js"></script>
       <script src="assets/js/nav-active.js"></script>
@@ -826,7 +784,22 @@ $(document).ready(function(){
   //outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
 $('#sectionIntro').parallax({ "coeff":+0.5 });
 
-})
+});
+
+$('.open-popup-link').magnificPopup({
+    type:'inline',
+    midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
+});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71153351-1', 'auto');
+  ga('send', 'pageview');
+
 </script>
   </body>
 </html>
