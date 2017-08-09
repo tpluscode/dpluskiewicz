@@ -1,0 +1,10 @@
+<grain-masonry item-selector="paper-card">
+{% for book in site.data.books %}
+    <paper-card image="assets/images/books/{% book.cover %}">
+        <h2>{% book.title %}</h2>
+        <h3>{% book.authors %}</h3>
+        <h3>%{ book.publisher %}</h3>
+        <a href="{% book.link %}">gdzie kupić?</a>
+    </paper-card>
+{% endfor %}
+</grain-masonry>
