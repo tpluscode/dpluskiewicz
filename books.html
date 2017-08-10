@@ -1,0 +1,46 @@
+---
+layout: default
+title: Polecane książki
+---
+
+<section id="sectionAbout" class="books">
+    <div class="sectionTitle">
+        <h1>Polecane książki</h1>
+    </div>
+
+    <div class="about">
+        <div class="container">
+            <div class="col-md-12 col-sm-12 col-xs-12 quote">
+                <p>
+                    Poniżej znajduje się lista tytułów książek, które pozwolą zainteresowanym zgłębić wiedzę w obszarze
+                    terapii poznawczo-behawioralnej (CBT) i rozwinąć umiejętności radzenia sobie z trudnościami.
+                </p>
+                <p></p>
+            </div>
+        </div>
+
+        <div class="container">
+
+            {% for book in site.data.books %}
+            <div class="col-md-6 col-sm-12 col-xs-12 story">
+                <div class="profileText">
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                        <div class="storyText long">
+                            <img src="assets/images/books/{{ book.cover }}" alt="Okładka {{ book.title }}"/>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 col-sm-8 col-xs-8">
+                    <div class="storyText long">
+                        <h4>{{ book.title }}</h4>
+                        <p>{{ book.authors }}</p>
+                        <p>{{ book.publisher }}, {{ book.year }}</p>
+                    </div>
+                </div>
+
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
