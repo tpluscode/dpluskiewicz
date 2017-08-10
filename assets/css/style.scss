@@ -236,13 +236,17 @@ paper-tooltip {
 }
 
 #sectionAbout.books {
-  .storyText h4, p {
-    margin: 0;
-  }
+  .storyText {
+    height: 250px;
 
-  .storyText img {
-    max-width: 140px;
-    max-height: 200px
+    h4, p {
+      margin: 0;
+    }
+
+    img {
+      max-width: 140px;
+      max-height: 200px
+    }
   }
 }
 

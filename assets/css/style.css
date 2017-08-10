@@ -214,11 +214,13 @@ paper-tooltip {
   background-color: #fff;
   padding-bottom: 50px; }
 
-#sectionAbout.books .storyText h4, #sectionAbout.books p {
-  margin: 0; }
-#sectionAbout.books .storyText img {
-  max-width: 140px;
-  max-height: 200px; }
+#sectionAbout.books .storyText {
+  height: 250px; }
+  #sectionAbout.books .storyText h4, #sectionAbout.books .storyText p {
+    margin: 0; }
+  #sectionAbout.books .storyText img {
+    max-width: 140px;
+    max-height: 200px; }
 
 @media (min-width: 992px) and (max-width: 1200px) {
   #sectionAbout img {
