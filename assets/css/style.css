@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "CP852";
 /*!
  * Dora Onepage Personal Portfolio Template
  * © scrils
@@ -40,7 +40,7 @@ a:focus {
   z-index: 9999; }
 
 #loaderInner {
-  background: #ffffff url(../images/load.gif) center center no-repeat;
+  background: white url(../images/load.gif) center center no-repeat;
   height: 60px;
   left: 50%;
   position: absolute;
@@ -150,14 +150,12 @@ a:focus {
     z-index: 1;
     top: 54px;
     right: 0; } }
-
 @media (max-width: 767px) {
   paper-fab {
     position: fixed !important;
     z-index: 1;
     bottom: 50px;
     right: 50px; } }
-
 paper-tooltip {
   font-family: "Montserrat", sans-serif;
   font-size: 2em; }
@@ -216,10 +214,15 @@ paper-tooltip {
   background-color: #fff;
   padding-bottom: 50px; }
 
+#sectionAbout.books .storyText h4, #sectionAbout.books p {
+  margin: 0; }
+#sectionAbout.books .storyText img {
+  max-width: 140px;
+  max-height: 200px; }
+
 @media (min-width: 992px) and (max-width: 1200px) {
   #sectionAbout img {
     width: 300px; } }
-
 .sectionTitle {
   padding-top: 70px;
   padding-bottom: 40px;
@@ -865,68 +868,94 @@ ul.errorMessages li {
 @media (max-width: 770px) {
   .item-five {
     width: 50%; }
+
   .item-three {
     width: 50%; }
+
   .item-four {
     width: 45%; }
+
   body {
     margin: 0px; }
+
   #headerBar {
     width: 100%; }
+
   .textIntro {
     margin-top: 25%; }
+
   .hi h1 {
     font-size: 35px;
     letter-spacing: 7px; }
+
   .resumeList li.resTitle {
     margin-top: 50px; }
+
   .navbar li {
     margin: 0px 5px; }
+
   #sectionIntro {
     min-height: 600px; }
+
   .footerRight ul li {
     text-align: center;
     margin: 0px 0px 0px 10px; }
+
   .footerLeft {
     padding: 20px 0px; }
+
   .white-popup {
     width: auto;
     max-width: none; } }
-
 @media (max-width: 480px) {
   body {
     margin: 0; }
+
   .item-five {
     width: 100%; }
+
   .item-three {
     width: 100%; }
+
   .item-four {
     width: 100%; }
+
   .menu-wrap {
     width: 140px; }
+
   #headerBar {
     width: 100%; }
+
   .navbar li {
     display: block; }
+
   .navbar li a {
     line-height: 40px; }
+
   .profileText img {
     width: 200px;
     height: 200px;
     margin-top: 40px; }
+
   .textIntro {
     margin-top: 20%;
     padding: 25px; }
+
   .blog-item {
     margin-left: 0%; }
+
   .hi {
     text-align: center; }
+
   .hi h1 {
     font-size: 25px; }
+
   .menu-wrap {
     left: 10px; }
+
   .footerRight {
     text-align: center; }
+
   .footerLeft {
     text-align: center;
     line-height: 30px; } }

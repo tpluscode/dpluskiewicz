@@ -235,6 +235,17 @@ paper-tooltip {
   padding-bottom: 50px;
 }
 
+#sectionAbout.books {
+  .storyText h4, p {
+    margin: 0;
+  }
+
+  .storyText img {
+    max-width: 140px;
+    max-height: 200px
+  }
+}
+
 @media (min-width: 992px) and (max-width: 1200px){
   #sectionAbout img {
     width: 300px
