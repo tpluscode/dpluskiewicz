@@ -1,3 +1,5 @@
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -19,30 +21,30 @@
 
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="assets/css/bootstrap.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="{{ root_url }}/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="{{ root_url }}/assets/css/style.css">
+    <link rel="stylesheet" href="{{ root_url }}/assets/css/animate.css">
+    <link rel="stylesheet" href="{{ root_url }}/assets/css/magnific-popup.css">
     <!-- Icons
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="assets/icons/Linea/styles.css" />
-    <link rel="stylesheet" href="assets/icons/Elegant/style.css" />
+    <link rel="stylesheet" href="{{ root_url }}/assets/icons/Linea/styles.css" />
+    <link rel="stylesheet" href="{{ root_url }}/assets/icons/Elegant/style.css" />
 
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
+    <script src="{{ root_url }}/assets/js/modernizr.js"></script> <!-- Modernizr -->
 
     <script>
         window.Polymer = {
           dom: 'shadow'
         };
     </script>
-    <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js" ></script>
-    <link rel="import" href="bower_components/google-map/google-map.html"/>
-    <link rel="import" href="bower_components/google-map/google-map-marker.html" />
-    <link rel="import" href="bower_components/paper-fab/paper-fab.html" async >
-    <link rel="import" href="bower_components/vaadin-icons/vaadin-icons.html" async >
-    <link rel="import" href="bower_components/paper-tooltip/paper-tooltip.html" async >
+    <script src="{{ root_url }}/bower_components/webcomponentsjs/webcomponents-lite.min.js" ></script>
+    <link rel="import" href="{{ root_url }}/bower_components/google-map/google-map.html"/>
+    <link rel="import" href="{{ root_url }}/bower_components/google-map/google-map-marker.html" />
+    <link rel="import" href="{{ root_url }}/bower_components/paper-fab/paper-fab.html" async >
+    <link rel="import" href="{{ root_url }}/bower_components/vaadin-icons/vaadin-icons.html" async >
+    <link rel="import" href="{{ root_url }}/bower_components/paper-tooltip/paper-tooltip.html" async >
 
     <style is="custom-style">
         paper-tooltip {
@@ -169,12 +171,12 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
                         <ul class="navbar navbar-right">
-                            <li><a href="index.html#sectionAbout" class="{{ page.indexEasing }}">O mnie</a></li>
-                            <li><a href="index.html#sectionTherapy" class="{{ page.indexEasing }}">Terapia</a></li>
-                            <li><a href="index.html#sectionResume" class="{{ page.indexEasing }}">Doświadczenie</a></li>
-                            <li><a href="index.html#sectionArticles" class="{{ page.indexEasing }}">Artykuły</a></li>
-                            <li><a href="books.html">Książki</a></li>
-                            <li><a href="index.html#sectionContact" class="{{ page.indexEasing }}">Kontakt</a></li>
+                            <li><a href="{{ root_url }}/index.html#sectionAbout" class="{{ page.indexEasing }}">O mnie</a></li>
+                            <li><a href="{{ root_url }}/index.html#sectionTherapy" class="{{ page.indexEasing }}">Terapia</a></li>
+                            <li><a href="{{ root_url }}/index.html#sectionResume" class="{{ page.indexEasing }}">Doświadczenie</a></li>
+                            <li><a href="{{ root_url }}/index.html#sectionArticles" class="{{ page.indexEasing }}">Czytelnia</a></li>
+                            <li><a href="{{ root_url }}/books.html">Książki</a></li>
+                            <li><a href="{{ root_url }}/index.html#sectionContact" class="{{ page.indexEasing }}">Kontakt</a></li>
                         </ul>
 
                     </div>
@@ -242,23 +244,23 @@
 
 <!--  Javascripts
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-      <script src="assets/js/jquery-2.1.1.js"></script>
-      <script src="assets/js/bootstrap.js"></script>
-      <script src="assets/js/modernizr.custom.js"></script>
+      <script src="{{ root_url }}/assets/js/jquery-2.1.1.js"></script>
+      <script src="{{ root_url }}/assets/js/bootstrap.js"></script>
+      <script src="{{ root_url }}/assets/js/modernizr.custom.js"></script>
       <!-- Navigation menu-->
-      <script src="assets/js/classie.js"></script>
-      <script src="assets/js/nav-active.js"></script>
-      <script src="assets/js/jquery.easing.js"></script>
+      <script src="{{ root_url }}/assets/js/classie.js"></script>
+      <script src="{{ root_url }}/assets/js/nav-active.js"></script>
+      <script src="{{ root_url }}/assets/js/jquery.easing.js"></script>
       <!--JS for MAGNIFIC POPUP & ALL SCRIPTS& CALLS-->
-      <script src="assets/js/scripts.js"></script>
-      <script src="assets/js/jquery.magnific-popup.min.js"></script>
+      <script src="{{ root_url }}/assets/js/scripts.js"></script>
+      <script src="{{ root_url }}/assets/js/jquery.magnific-popup.min.js"></script>
       <!--JS for easy scrolling-->
-      <script src="assets/js/smoothscroll.js"></script>     
+      <script src="{{ root_url }}/assets/js/smoothscroll.js"></script>     
       <!-- WOW ANIMATIONS -->
-      <script src="assets/js/wow.min.js"></script>
-      <script src="assets/js/jquery-parallax.js"></script>
+      <script src="{{ root_url }}/assets/js/wow.min.js"></script>
+      <script src="{{ root_url }}/assets/js/jquery-parallax.js"></script>
       <!-- Masonry Package -->
-      <script src="assets/js/isotope.pkgd.min.js"></script>
+      <script src="{{ root_url }}/assets/js/isotope.pkgd.min.js"></script>
       <script>
         new WOW().init();
       </script>
