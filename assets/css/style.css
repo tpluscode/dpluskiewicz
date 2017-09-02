@@ -1,7 +1,6 @@
-@charset "CP852";
 /*!
  * Dora Onepage Personal Portfolio Template
- * © scrils
+ * scrils
 */
 /* ========TABLE OF CONTENTS==========
 01. NAVIGATION MENU
@@ -40,7 +39,7 @@ a:focus {
   z-index: 9999; }
 
 #loaderInner {
-  background: white url(../images/load.gif) center center no-repeat;
+  background: #ffffff url(../images/load.gif) center center no-repeat;
   height: 60px;
   left: 50%;
   position: absolute;
@@ -961,3 +960,11 @@ ul.errorMessages li {
   .footerLeft {
     text-align: center;
     line-height: 30px; } }
+/*--------------------------------------------------
+	10. Post
+---------------------------------------------------*/
+.container.blog-post row img {
+  display: block;
+  padding: 0 auto; }
+
+/*# sourceMappingURL=style.css.map */

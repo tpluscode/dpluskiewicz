@@ -20,6 +20,7 @@
     "google-map": "GoogleWebComponents/google-map#~1.1.10",
     "paper-fab": "^1.2.1",
     "paper-tooltip": "^1.1.3",
-    "vaadin-icons": "vaadin/vaadin-icons#^2.0.0"
+    "vaadin-icons": "vaadin/vaadin-icons#^2.0.0",
+    "moment": "momentjs#^2.18.1"
   }
 }

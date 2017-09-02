@@ -9,7 +9,7 @@ layout: default
     </div>
 
 
-    <div class="container">
+    <div class="container blog-post">
         <div class="row">
 {{ content }}
         </div>

@@ -1,6 +1,6 @@
 /*!
  * Dora Onepage Personal Portfolio Template
- * © scrils
+ * scrils
 */
 /* ========TABLE OF CONTENTS==========
 01. NAVIGATION MENU
@@ -1051,5 +1051,19 @@ ul.errorMessages li {
   .footerLeft {
     text-align: center;
     line-height: 30px;
+  }
+}
+
+
+/*--------------------------------------------------
+	10. Post
+---------------------------------------------------*/
+
+.container.blog-post {
+  .row {
+    img {
+      display: block;
+      padding: 0 auto;
+    }
   }
 }
