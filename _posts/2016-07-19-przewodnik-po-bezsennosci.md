@@ -1,7 +1,7 @@
 ---
 layout: article
 published: true
-title: Lęk egzaminacyjny
+title: Mini przewodnik po bezsenności
 date: 2016-07-19
 sharing: false
 image: assets/images/bezennosc.png
