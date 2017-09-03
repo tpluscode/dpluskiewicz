@@ -5,6 +5,8 @@ title: Myśli automatyczne
 date: 2017-08-15
 sharing: false
 permalink: mysli-automatyczne/
+categories:
+  - Myśli automatyczne
 ---
 
 Istotnym elementem terapii poznawczej jest odszukanie i analiza [myśli automatycznych][ma], które uruchamiają negatyczne
