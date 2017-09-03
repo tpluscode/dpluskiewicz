@@ -2,7 +2,7 @@
 layout: article
 published: true
 title: Myśli automatyczne
-date: 2017-08-30
+date: 2017-08-15
 sharing: false
 permalink: mysli-automatyczne/
 ---
