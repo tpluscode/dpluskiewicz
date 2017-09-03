@@ -337,7 +337,13 @@ indexEasing: easing
                     {{ post.lead }}<br>
                     <b><a href="{{ url }}">Czytaj dalej</a></b>
                 </p>
-                <h6>{{ post.categories }} <span class="separator">|</span> {{ post.date }}</h6>
+                <h6>
+                    {% for category in post.categories %}
+                        {{ category }}{% if forloop.last %}{% else %}, {% endif %}
+                    {% endfor %}
+                    <span class="separator">|</span>
+                    {{ post.date }}
+                </h6>
             </div>
 
             {% endfor %}
