@@ -14,3 +14,5 @@ W celu identyfikacji myśli automatycznych warto zadać sobie poniższe pytania.
 łatwiej odnaleźć źródło problemowej reakcji.
 
 ![Myśli automatyczne]({{ root_url }}/assets/images/automatyczne.png)
+
+[ma]: {% post_url 2017-07-15-czym-sa-mysli-automatyczne %}
