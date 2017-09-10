@@ -1060,10 +1060,9 @@ ul.errorMessages li {
 ---------------------------------------------------*/
 
 .container.blog-post {
-  .row {
     img {
       display: block;
-      padding: 0 auto;
-    }
+      margin: 0 auto;
+      padding-top: 10px;
   }
 }
