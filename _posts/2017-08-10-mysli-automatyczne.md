@@ -14,7 +14,7 @@ categories:
 Istotnym elementem terapii poznawczej jest odszukanie i analiza [myśli automatycznych][ma], które uruchamiają negatywne
 emocje, a przez to niechciane przez nas zachowania/reakcje.
 
-W celu identyfikacji myśli automatycznych warto zadać sobie poniższe pytania. Jeżeli sobie na nie odpowiemy będzie nam
+W celu identyfikacji myśli automatycznych warto zadać sobie poniższe pytania. Jeżeli na nie odpowiemy będzie nam
 łatwiej odnaleźć źródło problemowej reakcji.
 
 ![Myśli automatyczne]({{ root_url }}/assets/images/automatyczne.png)
