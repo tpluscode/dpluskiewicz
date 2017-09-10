@@ -2,9 +2,11 @@
 layout: article
 published: true
 title: Czym są myśli automatyczne?
-date: 2017-07-15
+date: 2017-07-19
 sharing: false
 permalink: czym-sa-mysli-automatyczne/
+image: assets/images/dmuchawce.jpg
+lead: W procesie terapii istotną rolę odgrywa określenie sposobu reagowania danej osoby. W tym celu identyfikuje się myśli automatyczne, które są spontaniczną reakcją na określne sytuacje. 
 categories:
   - Myśli automatyczne
 ---
