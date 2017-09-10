@@ -7,7 +7,7 @@ sharing: false
 permalink: dziennik-aktywnosci/
 categories: Materiały
 image: assets/images/rower.jpg
-lead: Dziennik aktywności jest formularzem, w którym zapisujemy podejmowane przez nas działania
+lead: Dziennik aktywności jest formularzem, w którym zapisujemy podejmowane przez nas działania.
 ---
 
 Dziennik codziennych aktywności jest formularzem, w którym zapisujemy podejmowane przez nas
