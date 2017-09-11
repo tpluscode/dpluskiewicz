@@ -5,7 +5,7 @@ title: Kroki leczenia depresji
 date: 2017-08-30
 sharing: false
 image: assets/images/kolo-ratunkowe.jpg
-lead: 
+lead: Depresja jest chorobą, która może przydarzyć się każdemu z nas. Mówimy o niej wtedy, gdy stan przygnębienia i obniżonego nastroju trwa powyżej dwóch tygodni
 permalink: leczenie-depresji/
 categories: Depresja
 ---
