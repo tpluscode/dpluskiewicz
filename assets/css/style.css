@@ -12,6 +12,9 @@
 07. SECTION BLOG
 08. SECTION CONTACT
 09. MEDIA QUERIES FOR RESPONSIVE DESIGN
+*/
+.container {
+  width: 970px; }
 
 /* === 01. NAVIGATION MENU */
 /*PAGE LOADER*/
@@ -91,7 +94,7 @@ a:focus {
   font-size: 20px;
   font-weight: 700;
   color: #111;
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   text-transform: uppercase; }
 
 .headerRight {
@@ -120,7 +123,7 @@ a:focus {
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   transition: 0.3s;
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   text-transform: uppercase;
   color: #444; }
 
@@ -156,7 +159,7 @@ a:focus {
     bottom: 50px;
     right: 50px; } }
 paper-tooltip {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   font-size: 2em; }
 
 /*--------------------------------------------------
@@ -183,7 +186,7 @@ paper-tooltip {
   font-size: 20px;
   font-weight: 700;
   color: #111;
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   text-transform: uppercase; }
 
 .textIntro h4 {
@@ -230,7 +233,7 @@ paper-tooltip {
   text-align: center; }
 
 .sectionTitle h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #111;
@@ -265,14 +268,14 @@ paper-tooltip {
   line-height: 30px; }
 
 .storyText h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   font-weight: 700;
   margin-bottom: 40px; }
 
 .storyText h6, .storyText h6 a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   font-size: 13px;
   color: #7e7e7e;
   letter-spacing: 0.08em;
@@ -308,7 +311,7 @@ paper-tooltip {
   padding-top: 30px; }
 
 .quote h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   font-weight: 700;
@@ -375,7 +378,7 @@ paper-tooltip {
   letter-spacing: 0.08em;
   font-weight: 700;
   margin-bottom: 15px;
-  font-family: "Montserrat", sans-serif; }
+  font-family: "LatoBold", sans-serif; }
 
 .resumeList h5 {
   text-transform: uppercase;
@@ -383,7 +386,7 @@ paper-tooltip {
   letter-spacing: 0.08em;
   font-weight: 700;
   margin-bottom: 5px;
-  font-family: "Montserrat", sans-serif; }
+  font-family: "LatoBold", sans-serif; }
 
 .resumeList span {
   font-family: 'Tangerine', sans-serif;
@@ -400,7 +403,7 @@ paper-tooltip {
   line-height: 30px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: 888; }
+  color: #888; }
 
 .resumeIcon {
   float: left;
@@ -486,7 +489,7 @@ paper-tooltip {
   font-weight: bold;
   bottom: 5px;
   text-transform: uppercase;
-  font-family: "Montserrat", sans-serif; }
+  font-family: "LatoBold", sans-serif; }
 
 .itemHover h6 {
   letter-spacing: 1px;
@@ -520,7 +523,7 @@ paper-tooltip {
   font-size: 30px;
   font-weight: 700;
   color: #333;
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   letter-spacing: 1px; }
 
 .modal-box-content p {
@@ -568,7 +571,7 @@ paper-tooltip {
   padding: 10px 5px 5px 0px; }
 
 .servicesContent h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   text-transform: uppercase;
   font-size: 16px;
   letter-spacing: 0.08em;
@@ -646,7 +649,7 @@ paper-tooltip {
   margin-bottom: 20px; }
 
 .blog-item h3 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   color: #333;
   font-weight: bold !important;
   font-size: 16px;
@@ -660,7 +663,7 @@ paper-tooltip {
   border-top: 1px solid #dadde1;
   text-align: left;
   color: #7e7e7e;
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   letter-spacing: 0.04em;
   font-size: 12px;
   font-weight: 700; }
@@ -744,7 +747,7 @@ input.submit {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-family: "Montserrat", sans-serif; }
+  font-family: "LatoBold", sans-serif; }
 
 input.submit:hover {
   background: #7e7e7e; }
@@ -824,7 +827,7 @@ ul.errorMessages li {
   padding: 30px 0px; }
 
 .fCopy span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   font-weight: 700;
   letter-spacing: 0.08em;
   color: #111; }
@@ -840,7 +843,7 @@ ul.errorMessages li {
 .fScroll {
   text-align: center;
   padding: 25px 0px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "LatoBold", sans-serif;
   letter-spacing: 0.08em;
   font-weight: 700; }
 
@@ -963,9 +966,15 @@ ul.errorMessages li {
 /*--------------------------------------------------
 	10. Post
 ---------------------------------------------------*/
-.container.blog-post img {
-  display: block;
-  margin: 0 auto;
-  padding-top: 10px; }
+.container.blog-post {
+  width: 750px;
+  text-align: justify; }
+  .container.blog-post img, .container.blog-post iframe {
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px; }
+  .container.blog-post span.u {
+    text-decoration: underline; }
 
 /*# sourceMappingURL=style.css.map */
