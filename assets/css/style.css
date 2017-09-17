@@ -13,9 +13,9 @@
 08. SECTION CONTACT
 09. MEDIA QUERIES FOR RESPONSIVE DESIGN
 */
-.container {
-  width: 970px; }
-
+@media (min-width: 1200px) {
+  .container {
+    width: 970px; } }
 /* === 01. NAVIGATION MENU */
 /*PAGE LOADER*/
 html {
@@ -162,6 +162,15 @@ paper-tooltip {
   font-family: "LatoBold", sans-serif;
   font-size: 2em; }
 
+.small-header {
+  display: none; }
+
+@media (max-width: 380px) {
+  .default-header {
+    display: none; }
+
+  .small-header {
+    display: block; } }
 /*--------------------------------------------------
 	02. section Intro
 ---------------------------------------------------*/
@@ -937,7 +946,6 @@ ul.errorMessages li {
     line-height: 40px; }
 
   .profileText img {
-    width: 200px;
     height: 200px;
     margin-top: 40px; }
 
@@ -962,7 +970,10 @@ ul.errorMessages li {
 
   .footerLeft {
     text-align: center;
-    line-height: 30px; } }
+    line-height: 30px; }
+
+  .contactForm .storyText p {
+    line-height: inherit; } }
 /*--------------------------------------------------
 	10. Post
 ---------------------------------------------------*/
