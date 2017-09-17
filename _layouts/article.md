@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="{{ root_url }}/assets/css/child-page.css">
+
 <section>
     <div class="sectionTitle">
         <h1>{{ page.title }}</h1>

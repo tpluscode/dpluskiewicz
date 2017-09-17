@@ -85,8 +85,7 @@ a:focus {
 #headerBar {
   z-index: 999;
   width: 100%;
-  height: auto;
-  min-height: 80px;
+  height: 80px;
   -webkit-transition: 0.2s cubic-bezier(.58,.83,.57,.84);
   -moz-transition: 0.2s cubic-bezier(.58,.83,.57,.84);
   transition: 0.2s cubic-bezier(.58,.83,.57,.84);
@@ -102,6 +101,8 @@ a:focus {
 .headerLeft {
   text-align: left;
   line-height: 80px;
+  height: 80px;
+  overflow: hidden;
   padding: 0;
 }
 
@@ -158,10 +159,13 @@ a:focus {
   font-size: 30px !important;
 }
 
+paper-fab {
+  z-index: 1000;
+}
+
 @media (min-width: 768px ) {
   paper-fab {
     position: absolute !important;
-    z-index: 1;
     top: 54px;
     right: 0;
   }
@@ -170,7 +174,6 @@ a:focus {
 @media (max-width: 767px ) {
   paper-fab {
     position: fixed !important;
-    z-index: 1;
     bottom: 50px;
     right: 50px;
   }
@@ -214,6 +217,10 @@ paper-tooltip {
   background-color: #fff;
   padding: 25px 50px;
   opacity: 0.7;
+}
+
+.hi {
+  text-align: center;
 }
 
 .hi h1 {
@@ -1051,10 +1058,6 @@ ul.errorMessages li {
 
   .blog-item {
     margin-left: 0%;
-  }
-
-  .hi {
-    text-align: center;
   }
 
   .hi h1 {
