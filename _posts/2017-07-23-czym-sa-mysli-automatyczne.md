@@ -2,7 +2,7 @@
 layout: article
 published: true
 title: Czym są myśli automatyczne?
-date: 2017-07-19
+date: 2017-07-23
 sharing: false
 permalink: czym-sa-mysli-automatyczne/
 image: assets/images/dmuchawce.jpg
