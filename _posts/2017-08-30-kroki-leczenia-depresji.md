@@ -18,7 +18,9 @@ przyjemność.  Negatywne myśli, które pojawiają się w depresji, nie pozwala
 świat który nas otacza i przyszłość.  Z powodu negatywnego sposobu myślenia zaczynamy wycofywać się z ważnych do tej pory 
 aktywności, często izolujemy się i robimy mniej niż dotychczas. 
 
-Poniżej animacja przedstawiająca osobę cierpiącą z powodu depresji.
+Poniższa animacja przedstawiająca osobę cierpiącą z powodu depresji. Jej autorem jest Światowa Organizacja Zdrowia (WHO). 
+Depresja była tematem przewodnim kampanii z okazji obchodów Światowego Dnia Zdrowia 2017. W linku znajduje się opis
+tej kampanii. [http://www.who.un.org.pl/aktualnosci.php?news=186&w](http://www.who.un.org.pl/aktualnosci.php?news=186&w)
 
 <iframe width="700" height="395" src="https://www.youtube-nocookie.com/embed/d6_8eLGW9hg?rel=0" frameborder="0" allowfullscreen></iframe>
 
