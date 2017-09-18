@@ -19,4 +19,4 @@ W celu identyfikacji myśli automatycznych warto zadać sobie poniższe pytania.
 
 ![Myśli automatyczne]({{ root_url }}/assets/images/automatyczne.png)
 
-[ma]: {% post_url 2017-07-19-czym-sa-mysli-automatyczne %}
+[ma]: {% post_url 2017-07-23-czym-sa-mysli-automatyczne %}
