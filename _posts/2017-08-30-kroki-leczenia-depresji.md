@@ -30,7 +30,7 @@ leczenia depresji terapią poznawczo behawioralną. Poniżej pięć głównych k
 ![Kroki leczenia depresji]({{ root_url }}/assets/images/leczenie-depresji.png)
 
 Warto pamiętać, że w przypadku depresji rekomendowanym postępowaniem jest psychoterapia
-i/lub farmakoterapia (zazwyczaj z [grupy SSRI][ssri]). O potrzebie podania leków decyduje lekarz. 
+i farmakoterapia (zazwyczaj z [grupy SSRI][ssri]). O potrzebie podania leków decyduje lekarz. 
 
 Zachęcam też do udzielenia odpowiedzi na pytania w [kwestionariuszu BDI][bdi] (Beck Depression Inventory), a po jego wypełnieniu 
 skonsultowanie swoich wątpliwości i pytań ze specjalistą*.
