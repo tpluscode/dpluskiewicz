@@ -32,7 +32,7 @@ dla nas utrapieniem.
 
 <iframe width="700" height="395" src="https://www.youtube-nocookie.com/embed/w1sHAGAuceE" frameborder="0" allowfullscreen></iframe>
 
-W sytuacjach stresowych znaczącą rolę odgrywa ciało migdałowate, które w znacznym stopniu odpowiada za 
+W sytuacjach stresowych istotną rolę odgrywa ciało migdałowate, które w znacznym stopniu odpowiada za 
 generowanie emocji. Najczęściej do jego aktywacji dochodzi na podstawie pojawienia się myśli. 
 
 ![od bodźca do reakcji](/assets/images/KASIRYSIK-99-1024x768.png)
@@ -70,7 +70,7 @@ się najgorszy scenariusz”, „Nie dam sobie rady”. Jesteśmy przekonani, ż
 zaczynamy interpretować sytuację jako zagrażającą mimo, że nie zawsze mamy ku temu racjonalne powody. Wynika 
 to z funkcji mózgu związanej z unikaniem niebezpieczeństw. Mózg bardziej wyczulony na zagrożenia był pomocny 
 gatunkowi  w celach przetrwania. Otoczenie w którym żyjemy obecnie zmieniło się całkowicie i nie musimy w taki 
-sposób jak kiedyś walczyć o przetrwanie (np. polowania, ucieczki przed drapieżnikami). Jednak często mózg 
+sposób jak kiedyś walczyć o byt (np. polowania, ucieczki przed drapieżnikami). Jednak często mózg 
 „odruchowo” i nadmiarowo uruchamia system wypatrywania niebezpieczeństw w celach możliwości reakcji na nie, 
 powodując tzw. „fałszywe alarmy”.
 
