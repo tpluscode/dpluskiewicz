@@ -5,7 +5,7 @@ title: Czym jest lęk?
 date: 2017-12-09
 sharing: false
 image: assets/images/czym-jest-lek.jpg
-lead: Każdy z nas doskonale zna dyskomfort, który towarzyszy nam gdy doświadczamy lęku. Warto zastanowić się czym on jest
+lead: Każdy z nas doskonale zna dyskomfort, który towarzyszy nam gdy doświadczamy lęku. Warto zastanowić się czym on jest.
 permalink: czym-jest-lek/
 categories: Lęk
 ---
