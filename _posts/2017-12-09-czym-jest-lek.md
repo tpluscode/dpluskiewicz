@@ -65,7 +65,7 @@ Układ przywspółczulny jest przeciwieństwem układu współczulnego, odpowied
 <img src="{{root_url}}/assets/images/cykl-leku.png" alt="cykl lęku" style="float: left; width: 400px; margin-right: 5px" />
 
 Bardzo często zdarza się, że nasz organizm zareaguje wzbudzeniem na konkretne: dźwięki, sytuacje, miejsca, 
-relacje, wspomnienia czy martwienie się. Towarzyszą temu myśli typu: „Dzieje się ze mną coś złego”, „Spełni 
+relacje, wspomnienia czy martwienie się. Towarzyszą temu [myśli automatyczne][ma] typu: „Dzieje się ze mną coś złego”, „Spełni 
 się najgorszy scenariusz”, „Nie dam sobie rady”. Jesteśmy przekonani, że dzieje się coś bardzo złego bo 
 zaczynamy interpretować sytuację jako zagrażającą mimo, że nie zawsze mamy ku temu racjonalne powody. Wynika 
 to z funkcji mózgu związanej z unikaniem niebezpieczeństw. Mózg bardziej wyczulony na zagrożenia był pomocny 
@@ -82,3 +82,5 @@ pewno jest dla nas zagrażająca czy ocenić ją jako fałszywy alarm. Możemy w
 **Jeśli przeżywanie lęku jest dla nas utrapieniem, ogranicza nam życie i mamy poczucie, że nasz lęk jest 
 nieadekwatny do źródła to zdecydowanie warto skonsultować swoje objawy w celu weryfikacji przyczyn przeżywanego 
 dyskomfortu i nauczenia się metod radzenia sobie z nim.**
+
+[ma]: {% post_url 2017-07-23-czym-sa-mysli-automatyczne %}
