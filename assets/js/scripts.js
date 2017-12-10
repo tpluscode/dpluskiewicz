@@ -52,9 +52,9 @@
 
 //------- SITE LOADER ---//
 
-jQuery(window).load(function() { 
-    jQuery("#loaderInner").fadeOut(); 
-    jQuery("#loader").delay(400).fadeOut("slow"); 
+jQuery(window).load(function() {
+    jQuery("#loaderInner").fadeOut();
+    jQuery("#loader").delay(400).fadeOut("slow");
 
 
 });
@@ -71,7 +71,7 @@ jQuery(document).ready(function($){
 
  function setIntroHeight() {
      var heights = window.innerHeight;
-     document.getElementById("sectionIntro").style.height = heights * 0.8 + "px";
+     document.getElementById("sectionIntro").style.height = heights + "px";
  }
 
 jQuery(document).ready(function($){
@@ -79,7 +79,7 @@ var introSection = $('#sHomeBg'),
     introSectionHeight = introSection.height(),
 
     //change opacitySpeed if you want to change the speed of opacity reduction effect
-    opacitySpeed = 1.2; 
+    opacitySpeed = 1.2;
 
 triggerAnimation();
 $(window).on('resize', function(){

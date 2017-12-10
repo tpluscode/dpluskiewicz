@@ -126,7 +126,7 @@ a:focus {
   transition: 0.3s;
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #444; }
+  color: #000; }
 
 .navbar li.active a {
   color: #7e7e7e;
@@ -182,7 +182,8 @@ paper-tooltip {
   background-image: url(../images/hero.jpg);
   background-size: cover;
   -moz-background-size: cover;
-  -webkit-background-size: cover; }
+  -webkit-background-size: cover;
+  background-position-x: center; }
 
 .textIntro {
   margin-right: auto;
@@ -253,7 +254,7 @@ paper-tooltip {
   color: #111;
   font-weight: bold;
   margin: 25px 0;
-  font-size: 40px; }
+  font-size: 35px; }
 
 .whiteTitle {
   color: #fff !important; }
@@ -655,7 +656,7 @@ paper-tooltip {
   line-height: 30px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #aaa; }
+  color: #666; }
 
 .blog-item img {
   width: 100%;
