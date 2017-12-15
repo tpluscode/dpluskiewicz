@@ -22,9 +22,10 @@
 
 /* === 01. NAVIGATION MENU */
 
-$accent-color: grayscale(#827883);
+$accent-color: #7ab2ce;
 $secondary-color: #dadde1;
 $sansSerifFont: "Lato";
+$iconSize: 29px;
 
 /*PAGE LOADER*/
 
@@ -486,7 +487,7 @@ paper-tooltip {
 }
 .resumeIcon {
   float: left;
-  font-size: 30px;
+  font-size: $iconSize;
   width: 50px;
   height: 50px;
   background: $accent-color;
@@ -678,7 +679,7 @@ paper-tooltip {
   color:888;
 }
 .servicesIcon {
-  font-size: 30px;
+  font-size: $iconSize;
   width: 50px;
   height: 50px;
   background: $accent-color;
