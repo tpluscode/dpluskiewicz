@@ -15,7 +15,7 @@
             if((windowTop >= opts.start) && (windowTop <= opts.stop)) {
                 newCoord = windowTop * opts.coeff;
                 $$.css({
-                    "background-position": "0 "+ newCoord + "px"
+                    "background-position-y": newCoord + "px"
                 });
             }
         };

@@ -210,6 +210,7 @@ paper-tooltip {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   background-position-x: center;
+  top: 40px;
 }
 
 .textIntro {
@@ -219,6 +220,8 @@ paper-tooltip {
   background-color: #fff;
   padding: 25px 50px;
   opacity: 0.7;
+  position: relative;
+  top: -40px;
 }
 
 .hi {
