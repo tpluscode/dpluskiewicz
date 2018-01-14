@@ -40,7 +40,7 @@ Typowe myśli, które przychodzą do głowy osobom cierpiącym z powodu agorafob
 * _„Inni zobaczą, że dziwnie się zachowuję w tramwaju więc lepiej zostanę w domu lub zawiezie mnie koleżanka”_
 * _„Duszno mi, czuję się zmęczona tym miejscem (sklep), muszę natychmiast wyjść”_
 * _“Pomyślą o mnie coś złego gdy zobaczą, że jest ze mną coś nie tak (jestem rozkojarzona)”_
-* _„W kinie siedzę zbyt daleko od drzwi wejściowych, to nie dobrze, muszę siedzieć gdzieś indziej”_
+* _„(w kinie) Siedzę zbyt daleko od drzwi wejściowych, to nie dobrze, muszę siedzieć gdzieś indziej”_
 * _“Trudno będzie mi się stąd wydostać”_
 * _„Zanim pogotowie tutaj dojedzie może nikt mi nie będzie w stanie pomóc”_
 
@@ -63,12 +63,11 @@ oddającym obraz przeżywanych objawów podczas ataków paniki (film pierwszy) i
 
 #### Leczenie agorafobii
 
-Rekomendowanymi metodami pracy terapeutycznej z tym problemem jest terapia poznawczo behawioralna, która 
-nakierowana jest na zidentyfikowanie mechanizmu pojawienia się tak silnego lęku, danych myśli nasilających jego 
-przeżywanie. W jej skład wchodzą **pychoedukacja, samomonitorowanie, trening oddechowy, relaksacja i techniki 
-ekspozycji ukierunkowane na planowanie stopniowego konfrontowania się z miejscami** w których dochodzi do 
-pojawienia się dyskomfortu; są one wprowadzane stopniowo i systematycznie. W przypadku nasilonych objawów lęku 
-zaleca się także farmakoterapię o której to zawsze decyduje lekarz.
+Rekomendowanymi formami leczenia agorafobii jest farmakoterapia (o jej stosowaniu zawsze decyduje lekarz) i 
+terapia poznawczo behawioralna, która nakierowana jest na zidentyfikowanie mechanizmu pojawienia się tak silnego 
+lęku, danych myśli nasilających jego przeżywanie. W jej skład wchodzą **pychoedukacja, samomonitorowanie, 
+trening oddechowy, relaksacja i techniki ekspozycji ukierunkowane na planowanie stopniowego konfrontowania się 
+z miejscami** w których dochodzi do pojawienia się dyskomfortu; są one wprowadzane stopniowo i systematycznie. 
 
 [l]: {% post_url 2017-12-09-czym-jest-lek %}
 [p]: http://psychologodnowa.pl/index.php/pl/lek-uczucie-niepokoju-panika
