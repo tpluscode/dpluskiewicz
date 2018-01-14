@@ -5,7 +5,7 @@ title: Agorafobia - gdy lęk utrudnia wyjście z domu
 date: 2018-01-14
 sharing: false
 image: assets/images/tramwaj.jpg
-lead: Główną cechą agorafobii jest silny strach i unikanie miejsc publicznych i środków transportu
+lead: Główną cechą agorafobii jest silny strach i unikanie miejsc publicznych i środków transportu.
 permalink: agorafobia/
 categories: 
 - Lęk 
