@@ -1,7 +1,7 @@
 ---
 layout: article
 published: true
-title: Agorafobia
+title: Agorafobia - gdy lęk utrudnia wyjście z domu
 date: 2018-01-14
 sharing: false
 image: assets/images/tramwaj.jpg
@@ -17,6 +17,8 @@ rozpoczyna się w okresie wczesnej dorosłości, dotyka ludzi ze wszystkich śro
 chorują na nią kobiety. 
 
 <img src="{{root_url}}/assets/images/agora.jpg" alt="miejsca aktywacji lęku" style="float: left; width: 60%; margin-right: 10px" />
+
+#### Typowe objawy
 
 Osoby cierpiące z powodu agorafobii odczuwają **lęk** (paraliżujący, irracjonalny, trudny do opanowania) przed 
 przebywaniem na otwartej przestrzeni, w miejscach takich jak skupiska ludzi: centra handlowe, kina, stadiony, 
@@ -51,6 +53,8 @@ oddającym obraz przeżywanych objawów podczas ataków paniki (filme pierwszt) 
 
 <iframe width="700" height="395" src="https://www.youtube-nocookie.com/embed/CBtbUckHPjQ?cc_load_policy=1&cc_lang_pref=pl" frameborder="0" allowfullscreen></iframe>
 <iframe width="700" height="395" src="https://www.youtube-nocookie.com/embed/Jm3x0oL0pHA?cc_load_policy=1&cc_lang_pref=pl" frameborder="0" allowfullscreen></iframe>
+
+#### Leczenie agorafobii
 
 Rekomendowanymi metodami pracy terapeutycznej z tym problemem jest terapia poznawczo behawioralna, która pozwala 
 na zidentyfikowanie mechanizmu pojawienia się tak silnego  lęku, danych myśli nasilających jego przeżywanie. W 
