@@ -20,19 +20,19 @@ chorują na nią kobiety.
 
 #### Typowe objawy
 
-Osoby cierpiące z powodu agorafobii odczuwają **lęk** (paraliżujący, irracjonalny, trudny do opanowania) przed 
+Osoby cierpiące z powodu agorafobii odczuwają [**lęk**][l] (paraliżujący, irracjonalny, trudny do opanowania) przed 
 przebywaniem na otwartej przestrzeni, w miejscach takich jak skupiska ludzi: centra handlowe, kina, stadiony, 
 koncerty. Dążą do **unikania** tych miejsc i innych równie zatłoczonych m.in.: komunikacji miejskiej (autobus, 
 metro, tramwaj). Stronią też od samotnego podróżowania. Bardziej komfortowo czują się w domowym zaciszu. 
-Agorafobia traktowana jest jako skutek napadów paniki (ataku silnego lęku) występujących w danym miejscu. 
+Agorafobia traktowana jest jako skutek [napadów paniki][p] (ataku silnego lęku) występujących w danym miejscu. 
 Rozumiane jest to poprzez skojarzenie lęku z okolicznościami w których do niego doszło. Co za tym idzie poprzez 
 to wspomnienie aktywuje się chęć unikania miejsca gdzie doznawaliśmy silnych objawów lękowych. Ludzie, którzy 
 mają agorafobię boją się, że **zemdleją lub upadną, stracą kontrolę, dostaną zawału serca, zostaną uwięzieni/nie 
-będą mogli wyjść z danego miejsca**. 
+będą mogli wydostać się z danego miejsca**. 
 
 Często mówią o nieprzyjemnych doznaniach somatycznych (objawach z ciała) 
 wynikających z silnego wzbudzenia, typu: szybkie tętno, uderzenia gorąca, zawroty głowy, drętwienia. Osoby 
-cierpiące na nią często boja się, że dostaną ataku paniki w miejscu w którym będzie to wyjątkowo krępujące, 
+cierpiące na nią często boja się, że dostaną [ataku paniki][p] w miejscu w którym będzie to wyjątkowo krępujące, 
 miejscu z którego trudno będzie się wydostać, a także, w którym pomoc może być im udzielona zbyt późno. 
 
 Typowe myśli, które przychodzą do głowy osobom cierpiącym z powodu agorafobii: 
@@ -70,3 +70,5 @@ ekspozycji ukierunkowane na planowanie stopniowego konfrontowania się z miejsca
 pojawienia się dyskomfortu; są one wprowadzane stopniowo i systematycznie. W przypadku nasilonych objawów lęku 
 zaleca się także farmakoterapię o której to zawsze decyduje lekarz.
 
+[l]: {% post_url 2017-12-09-czym-jest-lek %}
+[p]: http://psychologodnowa.pl/index.php/pl/lek-uczucie-niepokoju-panika
