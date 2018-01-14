@@ -4,4 +4,8 @@
 .textIntro {
   display: none; }
 
+.sectionTitle h1 {
+  width: 700px;
+  margin: 0 auto; }
+
 /*# sourceMappingURL=child-page.css.map */

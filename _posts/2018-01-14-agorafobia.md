@@ -28,7 +28,9 @@ Agorafobia traktowana jest jako skutek napadów paniki (ataku silnego lęku) wys
 Rozumiane jest to poprzez skojarzenie lęku z okolicznościami w których do niego doszło. Co za tym idzie poprzez 
 to wspomnienie aktywuje się chęć unikania miejsca gdzie doznawaliśmy silnych objawów lękowych. Ludzie, którzy 
 mają agorafobię boją się, że **zemdleją lub upadną, stracą kontrolę, dostaną zawału serca, zostaną uwięzieni/nie 
-będą mogli wyjść z danego miejsca**. Często mówią o nieprzyjemnych doznaniach somatycznych (objawach z ciała) 
+będą mogli wyjść z danego miejsca**. 
+
+Często mówią o nieprzyjemnych doznaniach somatycznych (objawach z ciała) 
 wynikających z silnego wzbudzenia, typu: szybkie tętno, uderzenia gorąca, zawroty głowy, drętwienia. Osoby 
 cierpiące na nią często boja się, że dostaną ataku paniki w miejscu w którym będzie to wyjątkowo krępujące, 
 miejscu z którego trudno będzie się wydostać, a także, w którym pomoc może być im udzielona zbyt późno. 
@@ -40,26 +42,31 @@ Typowe myśli, które przychodzą do głowy osobom cierpiącym z powodu agorafob
 * _“Pomyślą o mnie coś złego gdy zobaczą, że jest ze mną coś nie tak (jestem rozkojarzona)”_
 * _„W kinie siedzę zbyt daleko od drzwi wejściowych, to nie dobrze, muszę siedzieć gdzieś indziej”_
 * _“Trudno będzie mi się stąd wydostać”_
-* _„Zanim pogotowie tutaj  dojedzie może nikt mi nie będzie w stanie pomóc”_
+* _„Zanim pogotowie tutaj dojedzie może nikt mi nie będzie w stanie pomóc”_
 
-Zazwyczaj życie osób borykających się z agorafobią kręci się wokół unikania powyżej wymienionych miejsc w celu 
-**nie narażania się na lęk i dyskomfort**. Warto zaznaczyć, że agorafobia nie zawsze występuje w parze z 
-pełnoobjawowymi napadami paniki, jednak lęk jest jej nieodłącznym elementem. Bardzo często zdarza się, że osoby 
-przejawiające powyższe trudności w momencie nasilenia się lęku nie wychodzą z domu bez osoby tzw. wspierającej. 
-Chcą mieć pewność, że ktoś będzie przy nich w momencie, gdyby miało zdarzyć się coś złego (np. napad lęku).
+#### Skutki
+
+W zależności od nasilenia objawów życie osób borykających się z agorafobią kręci się wokół unikania powyżej 
+wymienionych miejsc w celu **nie narażania się na lęk i dyskomfort**. Warto zaznaczyć, że agorafobia nie zawsze 
+występuje w parze z pełnoobjawowymi napadami paniki, jednak lęk jest jej nieodłącznym elementem. Bardzo często 
+zdarza się, że osoby przejawiające powyższe trudności w momencie nasilenia się lęku nie wychodzą z domu bez 
+osoby tzw. wspierającej. Chcą mieć pewność, że ktoś będzie przy nich w momencie, gdyby miało zdarzyć się coś 
+złego (np. napad lęku). Skutkami agorafobii są m.in.: stopniowe zanikanie relacji społecznych, problemy w ich 
+nawiązywaniu, narastające poczucie izolacji. Unikanie sytuacji (niekonfrontowanie się z nimi), w których pojawia
+się dyskomfort nie pozwala na radzenie sobie z własnymi obawami, co nasila błędne koło lęku. 
 
 Poniższe filmy przedstawiają trudności związane z lękiem panicznym i agorafobią. Są one ogólnym zarysem 
-oddającym obraz przeżywanych objawów podczas ataków paniki (filme pierwszt) i agorafobii (film drugi).
+oddającym obraz przeżywanych objawów podczas ataków paniki (film pierwszy) i agorafobii (film drugi).
 
 <iframe width="700" height="395" src="https://www.youtube-nocookie.com/embed/CBtbUckHPjQ?cc_load_policy=1&cc_lang_pref=pl" frameborder="0" allowfullscreen></iframe>
 <iframe width="700" height="395" src="https://www.youtube-nocookie.com/embed/Jm3x0oL0pHA?cc_load_policy=1&cc_lang_pref=pl" frameborder="0" allowfullscreen></iframe>
 
 #### Leczenie agorafobii
 
-Rekomendowanymi metodami pracy terapeutycznej z tym problemem jest terapia poznawczo behawioralna, która pozwala 
-na zidentyfikowanie mechanizmu pojawienia się tak silnego  lęku, danych myśli nasilających jego przeżywanie. W 
-jej skład wchodzą **pychoedukacja, samomonitorowanie, trening oddechowy, relaksacja i techniki ekspozycji 
-ukierunkowane na planowanie stopniowego konfrontowania się z miejscami** w których dochodzi do pojawienia się 
-dyskomfortu; są one wprowadzane stopniowo i systematycznie. W przypadku nasilonych objawów lęku zaleca się także 
-farmakoterapię o której to zawsze decyduje lekarz.
+Rekomendowanymi metodami pracy terapeutycznej z tym problemem jest terapia poznawczo behawioralna, która 
+nakierowana jest na zidentyfikowanie mechanizmu pojawienia się tak silnego lęku, danych myśli nasilających jego 
+przeżywanie. W jej skład wchodzą **pychoedukacja, samomonitorowanie, trening oddechowy, relaksacja i techniki 
+ekspozycji ukierunkowane na planowanie stopniowego konfrontowania się z miejscami** w których dochodzi do 
+pojawienia się dyskomfortu; są one wprowadzane stopniowo i systematycznie. W przypadku nasilonych objawów lęku 
+zaleca się także farmakoterapię o której to zawsze decyduje lekarz.
 
