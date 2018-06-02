@@ -331,13 +331,6 @@ indexEasing: easing
                 {% if post.redir %}{{ post.redir }} {% else %} {{ post.url }} {% endif %}
             {% endcapture %}
 
-            {% capture i18n_date %}
-            {{ post.date | date: "%-d" }}
-            {% assign m = post.date | date: "%-m" | minus: 1 %}
-            {{ site.data.months.months[m] }}
-            {{ post.date | date: "%Y" }}
-            {% endcapture %}
-
             <div class="blog-item item-four item-margin">
                 <img src="{{ root_url }}/{{ post.image }}" alt="{{ post.title }}">
                 <a href="{{ url }}"><h3>{{ post.title }}</h3></a>
@@ -349,8 +342,6 @@ indexEasing: easing
                     {% for category in post.categories %}
                         {{ category }}{% if forloop.last %}{% else %}, {% endif %}
                     {% endfor %}
-                    <span class="separator">|</span>
-                    {{ i18n_date }}
                 </h6>
             </div>
 
