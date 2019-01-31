@@ -2,7 +2,7 @@
 layout: article
 published: true
 title: Perfekcjonizm
-date: 2019-01-30
+date: 2019-01-31
 sharing: false
 image: assets/images/tramwaj.jpg
 lead: Kiedy dążenie do perfekcji staje się dla nas problemem
@@ -13,7 +13,6 @@ categories:
 ---
 
 ### Czy kierują mną bezwzględne standardy osobiste?
-### Perfekcjonizm - kiedy dążenie do perfekcji staje się dla nas problemem
 
 Osoby, które są perfekcjonistami często żyją wedle przekonania **„Doskonale, albo wcale”**.
 Definicją perfekcjonizmu są zachowania związane ze stawianiem sobie bardzo wysokich standardów
