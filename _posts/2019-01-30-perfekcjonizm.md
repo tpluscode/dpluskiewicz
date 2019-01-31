@@ -1,15 +1,15 @@
 ---
 layout: article
 published: true
-title: Perfekcjonizm - kiedy dążenie do perfekcji staje się dla nas problemem
+title: Perfekcjonizm
 date: 2019-01-30
 sharing: false
 image: assets/images/tramwaj.jpg
-lead: Główną cechą agorafobii jest silny strach i unikanie miejsc publicznych i środków transportu.
+lead: Kiedy dążenie do perfekcji staje się dla nas problemem
 permalink: perfekcjonizm/
 categories:
-- Lęk
-- fobia
+- prokrastynacja
+- perfekcjonizm
 ---
 
 ### Czy kierują mną bezwzględne standardy osobiste?
@@ -83,7 +83,7 @@ Frost, Marten, Lahart, Rosenblate definiują perfekcjonizm wskazując na sześć
 1. *organizacja* - kładzenie nacisku na precyzję, porządek i organizację
 
 Shafran i wsp. wspominają o perfekcjonizmie klinicznym, który to przez nie zwracanie
-uwagi na negatywne konsekwencje prowadzi do negatywnych następstw: emocjonalnych (wzrost lęku),
+uwagi na negatywne konsekwencje prowadzi do negatywnych następstw: *emocjonalnych* (wzrost lęku),
 *społecznych* (brak możliwości uzyskania wsparcia od innych), *fizycznych* (stosowanie rygorystycznej
 diety, ćwiczenia), *poznawczych* (trudności w koncentracji, przyswajaniu wiedzy), *behawioralnych* (prokrastynacji).
 
@@ -124,9 +124,11 @@ u pacjenta. Korzystne jest także rozpoznanie typowych stylów radzenia sobie/st
 dla nas trudnych. Najważniejsze w przypadku perfekcjonistów jest to, aby zdali sobie sprawę, że bycie wystarczająco
 dobrym i dążenie do wysokich standardów jest możliwe, ale dążenie do bycia idealnym już nie. **Zastąpienie przekonań
 “muszę” i “powinienem” na “chciałbym”/”mógłbym” pozwoli nam nadal dążyć do realizacji celów, ale  już bez paraliżującej
-presji, która jest przyczyną prokrastynacji.**
+presji.**
 
-Shafran, R., Egan, S., & Wade, T.D. (2010).  Overcoming perfectionism: A self help guide using cognitive behavioural techniques.  London, UK: Constable & Robinson
-Burns, D.D. (2010). Radość życia, czyli jak przezwyciężyć depresje. Terapia zaburzeń nastroju. Poznań: Zysk i S-Ka Wydawnictwo
-Leahy. R (2014). Pokonaj depresję, zanim ona pokona ciebie. Kraków: WUJ
-Young, Klosko, Weishaar (2014). “Terapia schematów”, Gdańsk, GWP
+Perfekcjonizm to nierealny koncept, który powoduje chęć osiągnięcia niemożliwego. Warto o tym pamiętać rozpoczynając terapię.
+
+* Shafran, R., Egan, S., & Wade, T.D. (2010).  Overcoming perfectionism: A self help guide using cognitive behavioural techniques.  London, UK: Constable & Robinson
+* Burns, D.D. (2010). Radość życia, czyli jak przezwyciężyć depresje. Terapia zaburzeń nastroju. Poznań: Zysk i S-Ka Wydawnictwo
+* Leahy. R (2014). Pokonaj depresję, zanim ona pokona ciebie. Kraków: WUJ
+* Young, Klosko, Weishaar (2014). “Terapia schematów”, Gdańsk, GWP
