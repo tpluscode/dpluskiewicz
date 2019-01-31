@@ -38,7 +38,7 @@ powinno wzbudzić to naszą czujność; powinniśmy rozważyć czy problem perfe
 <img src="{{root_url}}/assets/images/perfekcjonizm1.jpg" alt="rodzaje perfekcjonizmu" />
 
 
-#### Skąd w nas perfekcjonizm
+#### Skąd w nas perfekcjonizm?
 
 Zwraca się uwagę na kilka aspektów, które mogą przyczyniać się, rozwijać, wzmacniać i nasilać
 nasze nadmierne  dążenie do doskonałości. Są to m.in. krytyka ze strony rodziców. Rodzice, którzy mają
