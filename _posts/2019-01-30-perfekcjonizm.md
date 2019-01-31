@@ -58,12 +58,12 @@ Na bazie tych doświadczeń rozwija się w nas:
 * stawianie sobie **bardzo wysokich wymagań** i przypisywanie im nadmiernej wartości w procesie oceniania siebie
 * stałe martwienie się błędami, negatywne reakcje na błędy, tendencje do interpretowania **błędów jako porażek** oraz obawę, że jeśli coś się nie uda to stracę szacunek
 * bezwzględne standardy osobiste (albo coś wykonam najlepiej, albo w ogóle nie warto tego robić)
-* Samokrytycyzm
-* Skoncentrowanie się na błędach i umniejszanie sukcesów
-* Stałe myślenie  o niepowodzeniach i błędach
-* Koncentracja na myślach o byciu "niewystarczająco dobrym"
-* Ocenianie wydajności w sposób "wszystko albo nic", np. jako "całkowita" porażka, jako osoba, która popełniła błąd
-* Częste przemyślenia "powinien" i "muszę", np. "Zawsze powinienem być najlepszy", "Nie wolno mi się pomylić"
+* samokrytycyzm
+* skoncentrowanie się na błędach i umniejszanie sukcesów
+* stałe myślenie  o niepowodzeniach i błędach
+* koncentracja na myślach o byciu "niewystarczająco dobrym"
+* ocenianie wydajności w sposób "wszystko albo nic", np. jako "całkowita" porażka, jako osoba, która popełniła błąd
+* częste przemyślenia "powinien" i "muszę", np. "Zawsze powinienem być najlepszy", "Nie wolno mi się pomylić"
 
 #### Rodzaje prefekcjonizmu
 
