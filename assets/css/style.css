@@ -993,5 +993,7 @@ ul.errorMessages li {
     padding-bottom: 10px; }
   .container.blog-post span.u {
     text-decoration: underline; }
+  .container.blog-post blockquote {
+    font-size: 14px; }
 
 /*# sourceMappingURL=style.css.map */

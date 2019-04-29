@@ -58,11 +58,17 @@ Inni mogą mieć podobną lub zupełnie  inną perspektywę danej sytuacji.
 #### Nie jest łatwo być asertywnym, ale warto
 
 Często gdy zadbamy o swoje granice i potrzeby, odmawiając innym/nie zgadzając się na coś  bywa, że odczuwamy poczucie winy. Więc zdarza się, że przyjmujemy czyjąś prośbę wbrew swoim chęciom i sytuacja się powiela ponieważ zaczynam odczuwać złość lub czujemy się wykorzystani z uwagi na to, że się zgodziliśmy.
-Tutaj z pomocą przychodzi nam nauka umiejętności asertywności. 
-Warto zauważyć swoje myśli samokrytyczne (“Powinnam była się zgodzić”, ….
-I odpowiedzieć  na nie: 
-Przecież wytłumaczyłaś/eś danej osobie dlaczego nie możesz się na coś zgodzić.
-Gdybym się zgodził/ła to bardzo by mnie to zdenerwowało- mam teraz dużo na głowie, przecież mogę pomóc innym razem.
-Nie jest moim obowiązkiem zgadzać się na wszystko o co jestem poproszony/ona.
 
-W rozwijaniu umiejętności asertywności nie chodzi o wyuczenie się powyższych formułek, ale o znalezienie takiej formy określeń, słów, które to będą dla nas komfortowe i  będziemy czuli się w porządku wobec siebie i innych będąc asertywnymi.
+Tutaj z pomocą przychodzi nam nauka umiejętności asertywności. Warto zauważyć swoje myśli samokrytyczne 
+
+> “Powinnam była się zgodzić”
+
+I odpowiedzieć  na nie: 
+
+> Przecież wytłumaczyłaś danej osobie dlaczego nie możesz się na coś zgodzić.
+>
+> Gdybym się zgodził to czułbym się niekomfortowo - mam teraz dużo na głowie, przecież mogę pomóc innym razem.
+>
+> Nie jest moim obowiązkiem zgadzać się na wszystko o co jestem poproszona.
+
+**W rozwijaniu umiejętności asertywności nie chodzi o wyuczenie się powyższych formułek, ale o znalezienie takiej formy określeń, słów, które to będą dla nas komfortowe i  będziemy czuli się w porządku wobec siebie i innych będąc asertywnymi.**
