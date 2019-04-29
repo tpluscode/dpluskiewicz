@@ -32,6 +32,8 @@ Warto rozpoczynać zdanie według poniższego schematu:
 - Chcę...
 - Chciałbym/Chciałabym, żebyś….
 - Czy mógłbyś/mogłabyś, zrobić coś dla mnie…
+
+<img src="{{root_url}}/assets/images/zasady-asertywnosci.jpg" alt="Kluczowe zasady i cechy asertywnego zachowania (wg Alberti i Ammons)" style="float: left; width: 60%; margin-right: 10px" />
  
 #### Jakie cechy powinna mieć wypowiedź asertywna? 
 
@@ -48,9 +50,6 @@ Jest cienka granica między dbaniem o swoje potrzeby, a byciem zbyt stanowczym. 
  
 Asertywność warto traktować jako narzędzie do wdrażania zasad i umiejętne wyrażanie potrzeb. Kiedy komunikujemy  się z innymi ludźmi warto zwrócić uwagę na to czego doświadczamy. Pamiętaj nie tylko o tym, czego aktualnie doświadczasz (myśli, emocje, zachowania) ale również o tym, czego mogą doświadczać inni.
 Inni mogą mieć podobną lub zupełnie  inną perspektywę danej sytuacji.
- 
-Kluczowe zasady i cechy asertywnego zachowania
- (wg Alberti i Ammons)
  
 #### Nie jest łatwo być asertywnym, ale warto
 
