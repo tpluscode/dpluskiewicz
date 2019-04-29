@@ -19,22 +19,24 @@ Gdy słyszymy, „bądź asertywny” pierwszym skojarzeniem jest umiejętność
 
 Chcę otwarcie wyrażać swoje myśli, zachowywać się zgodnie ze swoimi potrzebami, dbać o to aby moje prawa były uwzględniane i respektowane. Chcę móc odmawiać innym, zmieniać zdanie, być traktowany z szacunkiem. Ufam sobie, akceptuje siebie, daję sobie prawo do popełniania błędów Jednocześnie chcę  szanować innych, ich prawa i potrzeby. Zakładam w relacjach partnerstwo, wierzę, że zainteresowane strony są równe i mają prawa do własnych racji.  Jestem  także świadomy, gdy ktoś nie zachowuje się wobec mnie w porządku i umiem na to zareagować opierając się na faktach. Nie tkwię w sytuacjach, które są dla mnie krzywdzące i dysfunkcjonalne.
  
-*Styl komunikacji osoby asertywnej jest łatwo zauważyć,  poznamy go po tym, że jest:*
+<img src="{{root_url}}/assets/images/zasady-asertywnosci.jpg" alt="Kluczowe zasady i cechy asertywnego zachowania (wg Alberti i Ammons)" style="float: right; width: 50%; margin-left: 10px" />
+<br>
+
+**Styl komunikacji osoby asertywnej jest łatwo zauważyć,  poznamy go po tym, że jest**
+
 - Stanowczy ale grzeczny
 - Jasny (przekaz okazuje szacunek sobie i innym)
 - Działanie i ekspresja  jest spójna ze słowami
  
-*Sposób formułowania prośby którą kierujemy do drugiej osoby  ma ogromne znaczenia. Jak ją sformułować?*
-Oto kilka pomocnych wskazówek.
-Warto rozpoczynać zdanie według poniższego schematu:
+**Sposób formułowania prośby którą kierujemy do drugiej osoby ma ogromne znaczenie**
+
+Jak ją sformułować? Warto rozpoczynać zdanie według poniższego schematu:
  
 - Byłabym/Byłbym wdzięczny/wdzięczna gdybyś….
 - Chcę...
 - Chciałbym/Chciałabym, żebyś….
 - Czy mógłbyś/mogłabyś, zrobić coś dla mnie…
 
-<img src="{{root_url}}/assets/images/zasady-asertywnosci.jpg" alt="Kluczowe zasady i cechy asertywnego zachowania (wg Alberti i Ammons)" style="float: left; width: 60%; margin-right: 10px" />
- 
 #### Jakie cechy powinna mieć wypowiedź asertywna? 
 
 Warto, aby nasza wypowiedź była: 
@@ -50,6 +52,8 @@ Jest cienka granica między dbaniem o swoje potrzeby, a byciem zbyt stanowczym. 
  
 Asertywność warto traktować jako narzędzie do wdrażania zasad i umiejętne wyrażanie potrzeb. Kiedy komunikujemy  się z innymi ludźmi warto zwrócić uwagę na to czego doświadczamy. Pamiętaj nie tylko o tym, czego aktualnie doświadczasz (myśli, emocje, zachowania) ale również o tym, czego mogą doświadczać inni.
 Inni mogą mieć podobną lub zupełnie  inną perspektywę danej sytuacji.
+ 
+<div style="clear: both"></div>
  
 #### Nie jest łatwo być asertywnym, ale warto
 
