@@ -11,7 +11,7 @@ categories:
 - asertywność
 ---
 
-![mem asertywność](/assets/images/15566503140782102167087.png)
+<img alt="mem asertywność" arc="{{root_url}}/assets/images/15566503140782102167087.png" style="float: left; width: 52%; margin-right: 10px;" />
 
 Często podczas spotkań z pacjentami pada komunikat “Chcę być asertywny”, “Chcę umieć mówić to co myślę”. Jest to moment, gdy rozwijamy temat asertywności i wspólnie analizujemy czym właściwie jest umiejętność bycia asertywnym; i czy na pewno chodzi o mówienie wszystkiego co się myśli?
 
