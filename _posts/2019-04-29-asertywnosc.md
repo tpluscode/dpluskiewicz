@@ -11,6 +11,8 @@ categories:
 - asertywność
 ---
 
+![mem asertywność](/assets/images/15566503140782102167087.png)
+
 Często podczas spotkań z pacjentami pada komunikat “Chcę być asertywny”, “Chcę umieć mówić to co myślę”. Jest to moment, gdy rozwijamy temat asertywności i wspólnie analizujemy czym właściwie jest umiejętność bycia asertywnym; i czy na pewno chodzi o mówienie wszystkiego co się myśli?
 
 Gdy słyszymy, „bądź asertywny” pierwszym skojarzeniem jest umiejętność odmawiania i bronienia swoich racji. Jednak bywa, że błędnie rozumiemy ten typ zachowania. Przede wszystkim ogromne znaczenie ma właśnie sposób w jaki zwracamy się do innych.
