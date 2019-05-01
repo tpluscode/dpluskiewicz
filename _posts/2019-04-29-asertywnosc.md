@@ -52,8 +52,10 @@ Warto, aby nasza wypowiedź była:
  
 Jest cienka granica między dbaniem o swoje potrzeby, a byciem zbyt stanowczym. Pamiętajmy, że rozmowa o naszych **potrzebach i granicach** nie musi od razu stawać się walką.  Niektórzy odbiorcy mówią, że osoba asertywna to taka, która za wszelką cenę chce żeby było tak jak ona chce. Takie zachowanie **zdecydowanie nie jest zaliczane** do asertywności.
  
-Asertywność warto traktować jako narzędzie do wdrażania zasad i umiejętne wyrażanie potrzeb. Kiedy komunikujemy  się z innymi ludźmi warto zwrócić uwagę na to czego doświadczamy. Pamiętaj nie tylko o tym, czego aktualnie doświadczasz (myśli, emocje, zachowania) ale również o tym, czego mogą doświadczać inni.
+Asertywność warto traktować jako narzędzie do wdrażania zasad i umiejętne wyrażanie potrzeb. Kiedy komunikujemy  się z innymi ludźmi warto zwrócić uwagę na to czego doświadczamy. Pamiętaj nie tylko o tym, czego aktualnie doświadczasz ([myśli, emocje, zachowania][abc]) ale również o tym, czego mogą doświadczać inni.
 Inni mogą mieć podobną lub zupełnie  inną perspektywę danej sytuacji.
+
+[abc]: {% post_url 2017-04-15-model-abc %}
  
 <div style="clear: both"></div>
  
