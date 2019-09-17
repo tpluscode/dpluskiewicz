@@ -58,6 +58,7 @@
             --paper-fab-background: #FFA500;
         }
     </style>
+    <script src="https://unpkg.com/feather-icons"></script>
   </head>
 
 <!-- Body Start
@@ -177,6 +178,9 @@
                             <li><a href="{{ root_url }}/index.html#sectionArticles" class="{{ page.indexEasing }}">Czytelnia</a></li>
                             <li><a href="{{ root_url }}/books.html">Książki</a></li>
                             <li><a href="{{ root_url }}/index.html#sectionContact" class="{{ page.indexEasing }}">Kontakt</a></li>
+                            <li><a href="https://www.facebook.com/WroclawCBT/" >
+                                <i data-feather="facebook"></i>
+                            </a></li>
                         </ul>
 
                     </div>
@@ -300,6 +304,9 @@ $('.open-popup-link').magnificPopup({
     type:'inline',
     midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
 });
+</script>
+<script>
+    feather.replace()
 </script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -137,6 +137,11 @@ a:focus {
   font-family: $sansSerifFont, sans-serif;
   text-transform: uppercase;
   color: #000;
+
+  svg {
+    position: relative;
+    top: 5px;
+  }
 }
 .navbar li.active a {
   color: $accent-color;
