@@ -204,6 +204,16 @@ paper-tooltip {
   }
 }
 
+@media (min-width: 768px) and (max-width: 992px) {
+  .default-header {
+    display: none;
+  }
+
+  .small-header {
+    display: block;
+  }
+}
+
 /*--------------------------------------------------
 	02. section Intro
 ---------------------------------------------------*/
