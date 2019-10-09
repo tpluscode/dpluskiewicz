@@ -120,6 +120,12 @@ a:focus {
   text-align: left;
   padding: 0;
 }
+@media (max-width: 768px) {
+  .navbar-right {
+    background-color: white;
+    margin-right: -15px;
+  }
+}
 .navbar-collapse {padding-left: 0px;}
 .navbar {margin-bottom: 0;-webkit-padding-start: 0px;}
 .navbar li{display: inline-block;margin: 0 9px;}
