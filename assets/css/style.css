@@ -131,9 +131,6 @@ a:focus {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
   color: #000; }
-  .navbar li a svg {
-    position: relative;
-    top: 5px; }
 
 .navbar li.active a {
   color: #7ab2ce;
