@@ -221,11 +221,12 @@ paper-tooltip {
   text-transform: uppercase; }
 
 .textIntro h4 {
-  color: #111;
+  color: #444;
   padding: 20px 0px;
   padding-bottom: 0px;
-  font-family: "Tangerine", sans-serif;
-  font-size: 30px;
+  font-family: "Lato", sans-serif;
+  font-style: italic;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing: 1px; }
 
@@ -276,12 +277,12 @@ paper-tooltip {
   color: #fff !important; }
 
 .sectionTitle h6 {
-  font-family: 'Tangerine', sans-serif;
-  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+  font-style: italic;
   line-height: 30px;
   letter-spacing: 1px;
   color: #7ab2ce;
-  font-size: 32px;
+  font-size: 22px;
   font-weight: 700; }
 
 .story {
@@ -360,12 +361,13 @@ paper-tooltip {
   color: #fff; }
 
 .quote h5 {
-  font-family: "Tangerine", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-style: italic;
   text-align: right;
   font-weight: 700;
   letter-spacing: 0.08em;
   color: #fff;
-  font-size: 30px;
+  font-size: 20px;
   margin-top: 10px; }
 
 .quote a {
@@ -421,7 +423,8 @@ paper-tooltip {
   font-family: "Lato", sans-serif; }
 
 .resumeList span {
-  font-family: 'Tangerine', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-style: italic;
   font-size: 30px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -534,7 +537,8 @@ paper-tooltip {
   position: absolute;
   font-weight: 700;
   bottom: 35px;
-  font-family: "Tangerine", sans-serif; }
+  font-family: "Lato", sans-serif;
+  font-style: italic; }
 
 .modal-box {
   max-width: 550px;
@@ -611,8 +615,9 @@ paper-tooltip {
   margin-bottom: 20px; }
 
 .servicesContent h6 {
-  font-family: 'Tangerine', sans-serif;
-  font-size: 28px;
+  font-family: 'Lato', sans-serif;
+  font-style: italic;
+  font-size: 18px;
   letter-spacing: 1px;
   margin: 15px 0px;
   margin-bottom: 25px;
@@ -877,8 +882,9 @@ ul.errorMessages li {
     letter-spacing: 0.08em;
     color: #111; }
   .fCopy p {
-    font-family: "Tangerine", sans-serif;
-    font-size: 25px;
+    font-family: "Lato", sans-serif;
+    font-style: italic;
+    font-size: 15px;
     color: #7ab2ce;
     letter-spacing: 1px;
     font-weight: 700;
