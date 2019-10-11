@@ -341,12 +341,16 @@ paper-tooltip {
   background-color:#f9f7f8;
 }
 
-.storyText{
+.storyText {
   padding: 25px;
-}
 
-.storyText + .storyText{
-  padding-top: 0px;
+  &.facebook {
+    padding-bottom: 0px;
+  }
+
+  + .storyText {
+    padding-top: 0px;
+  }
 }
 
 .storyText.long p{
