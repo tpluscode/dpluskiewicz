@@ -88,7 +88,7 @@ a:focus {
   line-height: 80px;
   height: 80px;
   overflow: hidden;
-  padding: 0; }
+  padding: 0 0 0 15px; }
 
 .headerLeft a {
   letter-spacing: 0.08em;
