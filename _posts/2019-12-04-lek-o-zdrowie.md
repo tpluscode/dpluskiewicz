@@ -39,7 +39,7 @@ Bardzo ważne są także nasze przekonania, które wytworzyły się na bazie wcz
 
 Wyróżniamy kilka mechanizmów podtrzymujących hipochondrię: poznawczy, behawioralny, afektywny i fizjologiczny. Poniżej kilka z nich:
 
-<img src="{{root_url}}/assets/images/przeszkody.jpg" alt="Błędne koło lęku o zdrowie" />
+<img src="{{root_url}}/assets/images/bledne-kolo-leku-o-zdrowie.png" alt="Błędne koło lęku o zdrowie" />
 
 * wiara w błędne interpretacje (objawy wegetatywne- z ciała interpretowane są jako objaw choroby)
 * stałe badanie ciała (może nasilać objawy z uwagi na ciągłe dotykanie, sprawdzanie) i wykonywanie badań medycznych (często z obawy, że poprzednie zostały źle wykonane)
