@@ -22,7 +22,7 @@ na to zaburzenie nie wierzy i nie akceptuje tego, że jest zdrowa i tutaj zaczyn
 <img src="{{root_url}}/assets/images/przeszkody.jpg" alt="Lęk o zdrowie (hipochondria)" />
 
 Jeśli mimo podjętych działań (wizyta lekarska) przeżywane przez nas objawy nie mijają szukamy co nam dolega, podejmujemy
-z bliskimi **tematykę skoncentrowaną na zdrowiu**, robimy **jeszcz więcej badań**. Wtedy też częściej “chodzimy po lekarzach”,
+z bliskimi **tematykę skoncentrowaną na zdrowiu**, robimy **jeszcze więcej badań**. Wtedy też częściej “chodzimy po lekarzach”,
 zakładając, że jesteśmy poważnie chorzy na konkretną chorobę. Ma to również swój drugi powód. Czujemy się lepiej, gdy lekarz
 po raz kolejny powie nam, że nic się złego z naszym organizmem nie dzieje. Dodanie nam **otuchy** przez lekarza często powoduje
 złagodzenie dolegliwości, jednak jest ono przejściowe i nie trwa długo. Druga grupa pacjentów koncentruje się na **unikaniu**
@@ -38,6 +38,7 @@ Zgodnie z modelem pracy z hipochondrią, aby doszło do jej wykształcenia i roz
 Może być nim nieoczekiwane pojawienie się i przeżycie  objawów somatycznych (np. nagła duszność, dostrzeżenie jakiejś zmiany
 skórnej, nietypowy ból), śmierć kogoś z otoczenia, ekspozycja na informacje związane z chorobą (np. gdy dowiemy się, że dana
 choroba może dotyczyć naszej grupy wiekowej).
+
 Bardzo ważne są także nasze przekonania, które wytworzyły się na bazie wczesnych i późniejszych doświadczeń. Gdy w naszej rodzinie
 temat zdrowia i dbania o nie (postawa bliskich wobec zdrowia), był bardzo ważny to my też możemy się na nim koncentrować w
 przyszłości. Znaczenie ma także to czy ktoś z ważnych dla nas osób poważnie chorował i jaki był przebieg jego choroby.
