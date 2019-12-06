@@ -1,14 +1,16 @@
 ---
 layout: article
 published: true
-title: Kiedy martwienie się o zdrowie staje się chorobą? Czym jest lęk o zdrowie?
+title: Lęk o zdrowie
+subtitle: Kiedy martwienie się o zdrowie staje się chorobą?
 date: 2019-12-04
 sharing: false
 image: assets/images/kwiaty.jpg
-lead: Kiedy martwienie się o zdrowie staje się chorobą?
+lead: Bywa, że martwienie się o swoje zdrowie jest przesadne i nie pozwala nam skoncentrować się na niczym innym.
 permalink: lek-o-zdrowie/
 categories:
 - lęk
+- hipochondria
 ---
 
 Bywa, że martwienie się o swoje zdrowie jest przesadne i nie pozwala nam skoncentrować się na niczym innym. Mowa tutaj o
