@@ -1151,4 +1151,8 @@ ul.errorMessages li {
   blockquote {
     font-size: 14px;
   }
+
+  p::before {
+    content: "\00a0\00a0\00a0\00a0"
+  }
 }
