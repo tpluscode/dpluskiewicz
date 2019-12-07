@@ -39,9 +39,10 @@ Może być nim nieoczekiwane pojawienie się i przeżycie  objawów somatycznych
 skórnej, nietypowy ból), śmierć kogoś z otoczenia, ekspozycja na informacje związane z chorobą (np. gdy dowiemy się, że dana
 choroba może dotyczyć naszej grupy wiekowej).
 
-Bardzo ważne są także nasze przekonania, które wytworzyły się na bazie wczesnych i późniejszych doświadczeń. Gdy w naszej rodzinie
-temat zdrowia i dbania o nie (postawa bliskich wobec zdrowia), był bardzo ważny to my też możemy się na nim koncentrować w
-przyszłości. Znaczenie ma także to czy ktoś z ważnych dla nas osób poważnie chorował i jaki był przebieg jego choroby.
+Bardzo ważne są także nasze przekonania, które wytworzyły się na bazie wczesnych i późniejszych doświadczeń. Postawa bliskich 
+wobec zdrowia wpływa na naszą postawę w przyszłości. Zarówno gdy w naszej rodzinie temat zdrowia i dbania o nie był bardzo 
+ważny jak i gdy był lekceważony, a obserwowaliśmy tego skutki. Znaczenie ma także to czy ktoś z ważnych dla nas osób poważnie 
+chorował i jaki był przebieg jego choroby.
 Istotne są również wzorce reakcji naszych bliskich, np. katastrofizowanie w reakcji na informacje związane ze zdrowiem,
 wzmacnianie w nas postaw pozytywnych wobec bycia czujnym na objawy z ciała. Te przykładowe doświadczenia, reakcje innych,
 utrwalone wzorce mogą tworzyć dysfunkcjonalne założenia i być przyczynami rozwoju zaburzenia lęku o zdrowie. Duże znaczenie
