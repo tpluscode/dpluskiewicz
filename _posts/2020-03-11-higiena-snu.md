@@ -9,6 +9,7 @@ lead: W celu ułatwienia zasypiania oraz poprawy jakości snu opracowanych zos
 permalink: higiena-snu/
 categories:
 - sen
+- zasady higieny snu
 ---
 
 **Zasady higieny snu są to zasady, których przestrzeganie może pomóc nam spać lepiej, głębiej, przyspieszyć proces zasypiania i zapewnić nam satysfakcjonującą jakość snu. Są one szczególnie istotne u osób, które mają problemy ze snem.**
