@@ -5,7 +5,7 @@ title: Perfekcjonizm
 date: 2019-01-31
 sharing: false
 image: assets/images/biblioteka.jpg
-lead: Kiedy dążenie do perfekcji staje się dla nas problemem
+lead: Kiedy dążenie do perfekcji staje się dla nas problemem.
 permalink: perfekcjonizm/
 categories:
 - prokrastynacja
