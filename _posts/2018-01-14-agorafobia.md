@@ -8,7 +8,7 @@ image: assets/images/tramwaj.jpg
 lead: Główną cechą agorafobii jest silny strach i unikanie miejsc publicznych i środków transportu.
 permalink: agorafobia/
 categories: 
-- Lęk 
+- lęk
 - fobia
 ---
 

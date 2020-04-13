@@ -7,7 +7,7 @@ sharing: false
 image: assets/images/czym-jest-lek.jpg
 lead: Każdy z nas doskonale zna dyskomfort, który towarzyszy nam gdy doświadczamy lęku. Warto zastanowić się czym on jest.
 permalink: czym-jest-lek/
-categories: Lęk
+categories: lęk
 ---
 
 Każdy z nas doskonale zna objawy, które towarzyszą nam gdy czujemy lęk. Odczuwanie silnego lęku wiąże się dla
