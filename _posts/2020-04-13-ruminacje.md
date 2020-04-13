@@ -38,6 +38,7 @@ Ruminowanie jest jedną z niepomocnych strategii radzenia sobie z emocjami, któ
 
 - skupiamy się tylko na **negatywnych aspektach** danej sprawy
 - **stale zadajemy sobie pytania**, na które nie znajdziemy odpowiedzi i nie zmienimy emocji, biegu wydarzeń, które miały miejsce
+- nasila nasze **wątpliwości**
 - stale **narzekamy** na siebie, innych lub na coś, czego nie można zmienić
 - blokujemy się/**nie podejmujemy działań**, bo czujemy się uwięzieni we własnej głowie
 - nasila/wyolbrzymia nasze **poczucie bezsilności**
