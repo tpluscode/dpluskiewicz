@@ -2,7 +2,7 @@
 layout: article
 published: true
 title: Ruminacje
-date: 2020-04-08
+date: 2020-04-13
 sharing: false
 image: assets/images/zielone-gory.jpg
 lead: Ruminacja polega na skupianiu się na powtarzającej się myśli i powracającym wspomnieniu związanym są trudnymi dla nas emocjami.
@@ -11,9 +11,10 @@ categories:
 - ruminacje
 ---
 
-## Ruminacja - masz tendencję do nadmiernego rozmyślania o  trudnych emocjach, myślach i czuciach?
-**Ruminacja to słowo pochodzące z języka łacińskiego ruminare i oznacza „przeżuwać”.
-Polega na skupianiu się na powtarzającej się myśli i powracającym wspomnieniu, zwykle dotyczącymi teraźniejszości lub przeszłości i związanymi są trudnymi dla nas emocjami.**
+### Ruminacja - masz tendencję do nadmiernego rozmyślania i analizowania trudnych wydarzeń, myśli i uczuć?
+
+**Ruminacja to słowo pochodzące z języka łacińskiego ruminare, oznacza „przeżuwać”.
+Polega na skupianiu się i rozpamiętywaniu powtarzających się negatywnych myśli i powracających wspomnieniach. Zwykle dotyczy przeszłości i związana jest z trudnymi dla nas emocjami.**
 
 Ruminacje są:
 
@@ -41,9 +42,13 @@ Ruminowanie jest jedną z niepomocnych strategii radzenia sobie z emocjami, któ
 - stale zadajemy sobie pytania, na które nie znajdziemy odpowiedzi i nie zmienimy emocji, biegu wydarzeń, które miały miejsce
 - stale narzekamy na siebie, innych lub na coś, czego nie można zmienić
 - blokujemy się/ nie podejmujemy działań, bo czujemy się uwięzieni we własnej głowie
-- nasila/ wyolbrzymia nasze poczucie bezsilności
+- nasila/wyolbrzymia nasze poczucie bezsilności
+- ”mieląc” w głowie tą  samą sytuację w kółko , zaczynamy czuć się coraz bardziej bezradni, nie widząc wyjścia z problemu w którym się znaleźliśmy
+- staje się nawykiem, przez co wybierane jest przez nas odruchowo jako strategia (wpadamy w pętlę ruminacji) i nie wierzymy, że można inaczej
 
 #### Co możemy próbować robić, aby przestać ruminować
+
+**Zdaj sobie sprawę z tego, że stosujesz tą szkodliwą strategię!** (gdy tylko zorientujesz się, że ruminujesz staraj się mówić sobie STOP, nie pozwól, aby ta strategie kierowała tobą i twoim myśleniem, warto odzyskać kontrolę)
 
 **Toleruj niepewność** (nie wszystko jest w życiu czarno białe).
 
@@ -57,9 +62,11 @@ Ruminowanie jest jedną z niepomocnych strategii radzenia sobie z emocjami, któ
 
 **Ustal limit czasu** (daj sobie 5 minut na nadmierne rozmyślanie o przeszłości, ale oni chwili dłużej; sam określ kiedy i czy w ogóle chcesz ruminować).
 
-**Przekieruj uwagę/zajmij się inną czynnością, aby przestać ruminować** (wymień otaczające cię przedmioty, policz od 100-7, opisz ze szczegółami obraz, który widzisz, skoncentruj się na oddechu) i przekonaj się, że zajęcie uwagi czymś innym może przerwać pętlę ruminowania
+**Przekieruj uwagę/zajmij się inną czynnością, aby przestać ruminować** (wymień otaczające cię przedmioty, odejmuj 7 od 100 (93, 86...), opisz ze szczegółami obraz, który widzisz, skoncentruj się na oddechu) i przekonaj się, że zajęcie uwagi czymś innym może przerwać pętlę ruminowania
 
 **Mindfulness** (bądź tu i teraz, buduj dystans do pojawiających się myśli, akceptuj je).
+
+Uświadom sobie co tracisz przez ciągłe „przeżuwanie” przeszłości i zapytaj siebie czy tak chcesz dalej żyć?
 
 ---
 
