@@ -43,7 +43,7 @@ Bądź **aktywny fizycznie** w ciągu dnia oraz staraj się uprawiać ćwiczenia
 
 Zadbaj o **wywietrzenie sypialni** tuż przed snem, optymalna temperatura w sypialni to 18-21°.
 
-### Dodatkowe wskazówki
+#### Dodatkowe wskazówki
 
 Unikaj **drzemek** w ciągu dnia, ogranicz **czas spędzany w łóżku** (staraj się wstawać od razu po przebudzeniu, kładź się do łóżka tylko wtedy gdy jesteś senny) i staraj się wstawać **o tej samej porze** (także w weekendy). Pomocne mogą okazać się także: **relaksacja, treningi oddechowe, ćwiczenia rozluźniające**. Unikaj regularnego przyjmowania leków nasennych.
 

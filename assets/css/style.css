@@ -1010,8 +1010,5 @@ ul.errorMessages li {
     text-decoration: underline; }
   .container.blog-post blockquote {
     font-size: 14px; }
-.container.blog-post p::before {
-  content: "\00a0\00a0\00a0\00a0"
-}
 
 /*# sourceMappingURL=style.css.map */
