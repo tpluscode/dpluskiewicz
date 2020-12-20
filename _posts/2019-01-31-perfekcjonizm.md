@@ -12,7 +12,7 @@ categories:
 - perfekcjonizm
 ---
 
-### Czy kierują mną bezwzględne standardy osobiste?
+#### Czy kierują mną bezwzględne standardy osobiste?
 
 Osoby, które są perfekcjonistami często żyją wedle przekonania **„Doskonale, albo wcale”**.
 Definicją perfekcjonizmu są zachowania związane ze stawianiem sobie bardzo wysokich standardów

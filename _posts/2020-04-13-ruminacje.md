@@ -11,7 +11,7 @@ categories:
 - ruminacje
 ---
 
-### Masz tendencję do nadmiernego rozmyślania i analizowania trudnych wydarzeń, myśli i uczuć?
+#### Masz tendencję do nadmiernego rozmyślania i analizowania trudnych wydarzeń, myśli i uczuć?
 
 **Ruminacja to słowo pochodzące z języka łacińskiego ruminare, oznacza „przeżuwać”.
 Polega na skupianiu się na powtarzających się negatywnych myślach i rozpamiętywaniu powracających wspomnień. Zwykle dotyczy przeszłości i związana jest z trudnymi dla nas emocjami.**
