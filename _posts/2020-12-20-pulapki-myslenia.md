@@ -16,7 +16,7 @@ categories:
 
 W okresach silniejszego stresu, większych napięć jesteśmy napędzani przez emocje i przekonania, które uruchamiają się wzajemnie, tworząc błędne koło. Kiedy zdamy sobie sprawę, że część naszych myśli jest zniekształconych, zawiera błędy logiczne, jest ocenami, jest osądami lub nie jest faktami możemy łatwiej regulować przeżywane przez nas emocje i podejmować znacznie bardziej funkcjonalne dla nas działania.
 
-Jak wiadomo, to co myślimy wpływa na to jak się czujemy i w konsekwencji na to jak reagujemy. Nie bez powodu mówi się “To co myślisz ma znaczenie”. Wiele myśli automatycznych (link do artykułu) jest zgodnych z prawdą, ale duża część z nich zawiera jedynie **ziarno prawdy** i nie w pełni odpowiada rzeczywistości. Analizując bardziej szczegółowo treść myśli, które łączą się z trudnymi emocjami można dostrzec pewne błędy logiczne. Nie zawsze jesteśmy ich świadomi, a to ich obecność wpływa na silniejsze i dłuższe odczuwanie emocji. Zniekształcenia poznawcze są powszechne i zazwyczaj niezauważalne. Jednak, gdy ich ilość w danym kontekście się zwiększa zaczynają w sposób znaczący wpływać na nasze emocje i życie. Dlatego tak ważnym krokiem jest rozpoznawanie i nazywanie ich.
+Jak wiadomo, to co myślimy wpływa na to jak się czujemy i w konsekwencji na to jak reagujemy. Nie bez powodu mówi się “To co myślisz ma znaczenie”. Wiele [myśli automatycznych]({% post_url 2017-08-10-mysli-automatyczne %}) jest zgodnych z prawdą, ale duża część z nich zawiera jedynie **ziarno prawdy** i nie w pełni odpowiada rzeczywistości. Analizując bardziej szczegółowo treść myśli, które łączą się z trudnymi emocjami można dostrzec pewne błędy logiczne. Nie zawsze jesteśmy ich świadomi, a to ich obecność wpływa na silniejsze i dłuższe odczuwanie emocji. Zniekształcenia poznawcze są powszechne i zazwyczaj niezauważalne. Jednak, gdy ich ilość w danym kontekście się zwiększa zaczynają w sposób znaczący wpływać na nasze emocje i życie. Dlatego tak ważnym krokiem jest rozpoznawanie i nazywanie ich.
 
 Wyróżniamy bardzo wiele rodzajów pułapek myślowych. Część z nich przeplata się wzajemnie i nasila swój wpływ na nasze myślenie i postępowanie. Poniżej skupiam się na opisaniu tych, które występują najczęściej.
 
@@ -35,15 +35,15 @@ Przykład:
 - *„Znowu to samo! Tak już ze mną jest, że pakuję się w tarapaty i zawodzę innych, nie da się z tym nic zrobić”.*
 - *„Tak jak się czuję teraz, będzie już zawsze”.*
 
- Nadmierne uogólnianie może dotyczyć także uogólniania pozytywów, co może skłaniać do ryzykownych posunięć przez zniekształconą rzeczywistość np.: *„Dzisiaj wszystko idzie idealnie, muszę zagrać w lotto”*.
+ Nadmierne uogólnianie może dotyczyć także uogólniania pozytywów, co może skłaniać do ryzykownych posunięć przez zniekształconą rzeczywistość np.: *„Dzisiaj wszystko idzie idealnie, muszę zagrać w lotto”.*.
 
 **Nadużywanie imperatywów** polega na częstym używaniu określeń „muszę”, „powinienem”, „tak ma być”.  Kiedy zbyt często ich używamy, nie skupiamy się na tym jakie coś jest, a odnosimy do danych standardów, ocen i wyśrubowanych oczekiwań. Oceniamy siebie i sytuację przez pryzmat tego typu nierealistycznych oczekiwań i warunków.
 
 Przykład:
 
-- *„Powinienem mieć nad wszystkim kontrolę”*.
+- *„Powinienem mieć nad wszystkim kontrolę”.*.
 - *„Powinnam osiągać najlepsze rezultaty”.*
-- *„Trzeba dobrze wypaść przed innymi”*
+- *„Trzeba dobrze wypaść przed innymi”.*
 - *„Muszę bardziej się starać”.*
 - *„Muszę zawsze radzić sobie sam”.*
 
@@ -64,30 +64,30 @@ Przykład:
 
 Przykład:
 
-- *“Nie zadzwoniła, pewnie już nie chce mieć ze mną nic wspólnego”.*
-- *“Spojrzał na zegarek, pewnie czeka, aż będzie mógł zakończyć spotkanie”.*
-- *“Lekarz powiedział, że mam przyjść po wyniki. Muszą być bardzo złe!”*
-- *“Skoro nie przyjechali, to nie jestem dla nich ważna”.*
+- *„Nie zadzwoniła, pewnie już nie chce mieć ze mną nic wspólnego”.*
+- *„Spojrzał na zegarek, pewnie czeka, aż będzie mógł zakończyć spotkanie”.*
+- *„Lekarz powiedział, że mam przyjść po wyniki. Muszą być bardzo złe!”.*
+- *„Skoro nie przyjechali, to nie jestem dla nich ważna”.*
 
 **Etykietowanie** ma miejsce wówczas,  gdy przypisujemy sobie lub innym osobom negatywne cechy, predyspozycje, intencje choć nie istnieją wystarczająco mocne przesłanki, by to uzasadnić. Nie bierzemy pod uwagę wpływu sytuacji i kontekstu.
 
 Przykład:
 
-- *“Jestem głupia”.*
-- *“Nie można na nim polegać”.*
-- *“Jestem leniem”.*
+- *„Jestem głupia”.*
+- *„Nie można na nim polegać”.*
+- *„Jestem leniem”.*
 - *„Jestem do niczego”.*
-- *„To jest beznadziejna sprawa”*
-- *„Ona jest za głupia żeby mnie zrozumieć”*
-- *„Nie da się mnie pokochać”*
-- *“Jestem przegrywem”.*
+- *„To jest beznadziejna sprawa”.*
+- *„Ona jest za głupia żeby mnie zrozumieć”.*
+- *„Nie da się mnie pokochać”.*
+- *„Jestem przegrywem”.*
 
 **Filtr negatywny** (negatywny filtr mentalny) jest to koncentracja jedynie na aspektach negatywnych, trudność w  dostrzeganiu jakichkolwiek pozytywów. Skupianie się na popełnionych błędach, wadach zgodnie z posiadanymi przekonaniami.
 
 Przykład:
 
-- po tym jak ktoś wyraził entuzjazm – *„Dzięki za słowa otuchy, ale nie wszystko mi się udało…”*
-- po stwierdzeniu, że osoba jest sympatyczna – *„Zbyt wiele osób mnie nie lubi by to, co mówisz mogło być prawdą”*
+- po tym jak ktoś wyraził entuzjazm – *„Dzięki za słowa otuchy, ale nie wszystko mi się udało…”.*
+- po stwierdzeniu, że osoba jest sympatyczna – *„Zbyt wiele osób mnie nie lubi by to, co mówisz mogło być prawdą”.*
 - *„Nie widzę żadnych szans na wybrnięcie z tej sytuacji, moje położenie jest beznadziejne”.*
 
 **Katastrofizacja** polega na przypisywaniu określonym wydarzeniom lub sytuacjom bardzo poważnych, negatywnych, wręcz katastroficznych konsekwencji. Katastrofizacja bardzo często łączy się z innym zniekształceniem “**Przewidywaniem przyszłości**”. Uważamy, że to co się wydarzy będzie okropne/straszne/koszmarne. Przewidujemy przyszłość w “czarnych barwach”, biorąc pod uwagę najgorszy możliwy scenariusz. Nie zważamy na alternatywne i bardziej prawdopodobne możliwości.
@@ -95,111 +95,111 @@ Przykład:
 Przykład:
 
 - *”Nie wytrzymam tego uczucia, zwariuję”.*
-- *“Nie poradzę sobie z tym”.*
-- *“To będzie nie do zniesienia”.*
-- *“Mój świat się skończy jak okaże się, że nie zostałem przyjęty”*
-- *“Coś poważnego musiało mu się stać skoro nie dzwoni”*
-- *„Całkowicie się załamie, jeśli nie dostanę tej pracy”*
-- *„Serce mi pęknie, jeśli ona mnie odrzuci”*
-- *„To będzie najgorsza tragedia mojego życia, jeśli nie uda mi się rozwiązać tego problemu”*
+- *„Nie poradzę sobie z tym”.*
+- *„To będzie nie do zniesienia”.*
+- *„Mój świat się skończy jak okaże się, że nie zostałem przyjęty”.*
+- *„Coś poważnego musiało mu się stać skoro nie dzwoni”.*
+- *„Całkowicie się załamie, jeśli nie dostanę tej pracy”.*
+- *„Serce mi pęknie, jeśli ona mnie odrzuci”.*
+- *„To będzie najgorsza tragedia mojego życia, jeśli nie uda mi się rozwiązać tego problemu”.*
 
 **Myślenie dychotomiczne**, zwane także spolaryzowanym, to przyjmowanie perspektywy w kategoriach czarno-białych, (0-1, albo-albo), przyjmowanie dwóch skrajności, a nie kontinuum. Wpadając w pułapkę tego zniekształcenia danym założeniem wykluczamy wszelkie inne warianty zdarzeń,  alternatywnych scenariuszy i możliwości. Nie widzimy odcieni szarości.
 
 Przykład:
 
-- *„Jeśli popełnię błąd to znaczy, że całe moje życie jest do niczego”*
-- *“Jeśli nie odniosę sukcesu to nic nie znaczę”.*
-- *“Jeśli nie mam całkowitej kontroli nad swoim życiem to znaczy, że sobie nie radzę”.*
-- *“Jeśli nie mogę czegoś zrobić bardzo dobrze to lepiej nie robić tego w ogóle”.*
-- *“Tylko jak zostanę rodzicem to będę coś wart”.*
-- *“Jeśli nie będę miał tego stanowiska to jestem nieudacznikiem”.*
+- *„Jeśli popełnię błąd to znaczy, że całe moje życie jest do niczego”.*
+- *„Jeśli nie odniosę sukcesu to nic nie znaczę”.*
+- *„Jeśli nie mam całkowitej kontroli nad swoim życiem to znaczy, że sobie nie radzę”.*
+- *„Jeśli nie mogę czegoś zrobić bardzo dobrze to lepiej nie robić tego w ogóle”.*
+- *„Tylko jak zostanę rodzicem to będę coś wart”.*
+- *„Jeśli nie będę miał tego stanowiska to jestem nieudacznikiem”.*
 
 **Uzasadnianie emocjonalne** pojawia się gdy zakładamy, że coś musi być prawdą skoro tak czujemy. Traktujemy jako przesłanki własne odczucia i stany emocjonalne zamiast przyjrzeć się w sposób bardziej zrównoważony argumentom za i przeciw określonemu poglądowi. Uważamy, że emocje są naszym drogowskazem co do tego jak powinniśmy postąpić/zachować się.
 
 Przykład:
 
-- *“Czuję lęk, więc rzeczywiście coś mi grozi”.*
-- *“Czuję silne napięcie i jestem pełna obaw, to znaczy, że nie powinnam podpisywać tej umowy”*
+- *„Czuję lęk, więc rzeczywiście coś mi grozi”.*
+- *„Czuję silne napięcie i jestem pełna obaw, to znaczy, że nie powinnam podpisywać tej umowy”.*
 - *„Jest mi smutno, więc ten związek to nie “to””.*
-- *„Ciągle się boję, nie opuszczają mnie złe przeczucia, więc na pewno coś złego wkrótce się wydarzy”*
-- *“Jestem pełen obaw, to znak, że nie powinienem tam iść”.*
+- *„Ciągle się boję, nie opuszczają mnie złe przeczucia, więc na pewno coś złego wkrótce się wydarzy”.*
+- *„Jestem pełen obaw, to znak, że nie powinienem tam iść”.*
 
 **Personalizacja** następuje, gdy człowiek w nieproporcjonalny sposób czuje się odpowiedzialny za różne sytuacje i zaistniałe fakty. Wiążemy zewnętrzne zdarzenia z własną osobą i przypisujemy sobie niewspółmierną odpowiedzialność/uważamy się za przyczynę negatywnych zdarzeń lub zachowań innych osób.
 
 Przykład:
 
 - *”Lepiej pójdę sprawdzić czy wszystko w porządku bo jak tego nie zrobię to będę w pełni odpowiedzialny za śmierć mojej rodziny”.*
-- *„Córka nie ułożyłą sobie życia, bo nie upilnowałam jej”*
-- *„To przeze mnie rozpadło się moje małżeństwo”*
-- *“Sprzedawca był bardzo niezadowolony, to na pewno moja wina, pewnie zrobiłam coś nie tak”.*
+- *„Córka nie ułożyłą sobie życia, bo nie upilnowałam jej”.*
+- *„To przeze mnie rozpadło się moje małżeństwo”.*
+- *„Sprzedawca był bardzo niezadowolony, to na pewno moja wina, pewnie zrobiłam coś nie tak”.*
 
 **Umniejszanie pozytywów** jest tendencją do nadmiernego minimalizowania lub wręcz unieważniania naszych umiejętności, zalet, mocnych stron i sukcesów. Wpadając w pułapkę tego zniekształcenia widzimy w gorszym świetle i nieadekwatnie zaniżamy swoje zdolności. Umniejszanie pozytywów jest traktowaniem tego, że coś udało nam dokonać jako coś  błahego/oczywistego/normalnego przez co nie doceniamy swoich osiągnięć i tego co już mamy.
 
 Przykład:
 
-- *“Łatwo przyszło więc to nic wielkiego”.*
-- *“Miałam szczęście, dlatego mi się udało”.*
-- *“Co z tego, że to potrafię, skoro to oczywiste, że każdy to potrafi”.*
-- *„To tak miało wyglądać, więc nie ma powodu być z tego jakoś specjalnie dumnym, zresztą mogło być lepiej”*
-- *„To nie żaden sukces, po prostu mi się udało i tyle”*
+- *„Łatwo przyszło więc to nic wielkiego”.*
+- *„Miałam szczęście, dlatego mi się udało”.*
+- *„Co z tego, że to potrafię, skoro to oczywiste, że każdy to potrafi”.*
+- *„To tak miało wyglądać, więc nie ma powodu być z tego jakoś specjalnie dumnym, zresztą mogło być lepiej”.*
+- *„To nie żaden sukces, po prostu mi się udało i tyle”.*
 - *„Pojedynczy sukces o niczym nie świadczy”.*
 
 **Niesprawiedliwe porównania** to wybór takich punktów odniesienia, które sprawiają, że oceniane osiągnięcia wydają się znikome. Koncentrujemy się na osobach, którym coś idzie lepiej i następnie porównujemy się i oceniamy znacznie gorzej.
 
 Przykład:
 
-- *“Ona odnosi większe niż ja sukcesy”.*
-- *“Im poszło lepiej na egzaminie”.*
-- *“Oni lepiej radzą sobie z wychowaniem dzieci”.*
-- *„Innym znacznie lepiej się powodzi”*
-- *“Ona tworzy lepszą niż ja relację”.*
-- *“On lepiej poradził sobie z tym zadaniem”.*
+- *„Ona odnosi większe niż ja sukcesy”.*
+- *„Im poszło lepiej na egzaminie”.*
+- *„Oni lepiej radzą sobie z wychowaniem dzieci”.*
+- *„Innym znacznie lepiej się powodzi”.*
+- *„Ona tworzy lepszą niż ja relację”.*
+- *„On lepiej poradził sobie z tym zadaniem”.*
 
 **Obwinianie** ma miejsce wtedy, gdy uważamy, że to tylko inne osoby są źródłem naszych trudnych emocji. Widzimy w innych winowajców własnych problemów, przypisujemy im większość lub całą odpowiedzialność, lekceważąc własny wpływ na bieżącą sytuację. **Przez co nie dokonujemy zmian w sobie**.
 
 Przykład:
 
-- *“To przez nią tak się czuję”.*
-- *“To jego wina, że mi smutno”.*
-- *“To ich wina, że nie pomyśleli czego naprawdę potrzebuję i teraz jest mi źle”.*
+- *„To przez nią tak się czuję”.*
+- *„To jego wina, że mi smutno”.*
+- *„To ich wina, że nie pomyśleli czego naprawdę potrzebuję i teraz jest mi źle”.*
 - *„Gdyby nie moi rodzice nie miałabym takich problemów”.*
 - *„To z jej powodu teraz jestem tak wkurzony”.*
-- *“On ponosi winę za wszystkie moje problemy”.*
+- *„On ponosi winę za wszystkie moje problemy”.*
 
 **Ocenianie** to zniekształcenie, które polega na bezustannym ocenianiu siebie i innych w odniesieniu do arbitralnych norm. Oceny te są tendencyjne i oparte są na bardzo daleko idących uproszczeniach, bez odnoszenia się do kontekstu, różnych aspektów życia, sytuacji i ich złożoności. Często przyjmujemy skrajnie czarno-białą i krzywdzącą perspektywę.
 
 Przykład:
 
-- *“„Całe studia to był beznadziejny okres”*
-- *„Fatalnie wspominam okres dojrzewania”*
-- *“Nie pomogli mi tak jak trzeba”.*
-- *„Ci ludzie mnie nie akceptują”*
+- *„„Całe studia to był beznadziejny okres”.*
+- *„Fatalnie wspominam okres dojrzewania”.*
+- *„Nie pomogli mi tak jak trzeba”.*
+- *„Ci ludzie mnie nie akceptują”.*
 - *„Jestem takim człowiekiem że nikt nie jest w stanie mnie nie zrozumieć”.*
-- *“Oni są całkowicie beznadziejni”.*
+- *„Oni są całkowicie beznadziejni”.*
 
 **Gdybanie** polega na uporczywym zadawaniu sobie pytań „co będzie, jeśli?”, co wzmaga obawy przed tym, co ma nastąpić. Żadna z wygenerowanych odpowiedzi nie jest satysfakcjonująca. Wpadając w pułapkę tego błędu myślowego ciągle wybiegamy w przyszłość i zakładamy zły obrót zdarzeń. Zadając sobie takie pytania, przyjmujemy je jako twierdzenia co nasila nasze obawy przed podejmowaniem decyzji i wchodzeniem w nowe sytuacje.
 
 Przykład:
 
-- *“No dobrze, a co będzie jeśli zacznę odczuwać lęk?”*
-- *„A co jeśli wtedy popełnię gafę?”*
-- *„Co jeżeli się wygłupię?”*
-- *„A jeśli zemdleję?”*
+- *„No dobrze, a co będzie jeśli zacznę odczuwać lęk?”.*
+- *„A co jeśli wtedy popełnię gafę?”.*
+- *„Co jeżeli się wygłupię?”.*
+- *„A jeśli zemdleję?”.*
 
 **Nieumiejętność zakwestionowania myśli** to odrzucanie wszelkich logicznych argumentów, które mogłyby podważyć słuszność negatywnych myśli.
 
 Przykład:
 
-- *„Nie jestem dobrym szefem”* - wszelkie uznania pracowników uznaję za mało istotne, w konsekwencji nie pozwalam sobie na rozważenie tej tezy.
-- *“Zadzwoniła do mnie tylko dlatego, że jest jej mnie żal”*. - nie zauważam autentycznej troski i szczerych chęci rozmówcy
+- *„Nie jestem dobrym szefem”.* - wszelkie uznania pracowników uznaję za mało istotne, w konsekwencji nie pozwalam sobie na rozważenie tej tezy.
+- *„Zadzwoniła do mnie tylko dlatego, że jest jej mnie żal”.*. - nie zauważam autentycznej troski i szczerych chęci rozmówcy
 
 **Nadmierna odpowiedzialność** pojawia się, gdy zakładamy, że jesteśmy całkowicie odpowiedzialni za przebieg zdarzeń, które miały miejsce. Zakładamy, że mogliśmy mieć pełną kontrolę nad zdarzeniami, nad którymi nie jest ona w pełni możliwa.
 
 Przykład:
 
-- *“To przeze mnie on zginął w wypadku, bo to ja poprosiłam go, aby pojechał do sklepu”.*
-- *“To moja całkowita odpowiedzialność, że zespół nie wysłał na czas sprawozdania”.*
-- *“To tylko ode mnie zależało, czy bezpiecznie dojedziemy”.*
+- *„To przeze mnie on zginął w wypadku, bo to ja poprosiłam go, aby pojechał do sklepu”.*
+- *„To moja całkowita odpowiedzialność, że zespół nie wysłał na czas sprawozdania”.*
+- *„To tylko ode mnie zależało, czy bezpiecznie dojedziemy”.*
 
 #### Co zrobić z myślami, które prowadzą nas na manowce i nasilają przeżywanie trudnych emocji?
 
@@ -211,7 +211,7 @@ Przykład:
 
 **sposób 3.** **Pytaj zamiast się domyślać**. Jeśli czegoś nie wiemy to mamy tendencję do tworzenia domysłów i często to na nich budujemy ważne dla nas wnioski. Jeśli to możliwe, pytaj wprost innych o intencje, o to jak oni widzą daną sytuację, zachowanie, co uważają. Pamiętając, że każdy dzieli się swoją perspektywą. Jest większa szansa, że unikniesz niedomówień.
 
-**sposób 4.** **Rozróżniaj siebie i innych od podejmowanych zachowań**. Ani my sami, ani pozostali ludzie nie są swoimi zachowaniami. Możemy zachowywać się w dany sposób i robić różne rzeczy, ale przecież to nie musi nasz całkowicie definiować.
+**sposób 4.** **Rozróżniaj siebie i innych od podejmowanych zachowań**. Ani my sami, ani pozostali ludzie nie są swoimi zachowaniami. Możemy zachowywać się w dany sposób i robić różne rzeczy, ale przecież to nie musi nas całkowicie definiować.
 
 **sposób 5.** **Bądź świadom** swoich zasobów, umiejętności, ale też braków. Patrz na siebie bardziej obiektywnie. Dzięki temu z większą akceptacją podejdziesz do tendencyjnych myśli o porażce, wyobrażonej katastrofie i nauczysz się nie ufać im bezrefleksyjnie.
 
