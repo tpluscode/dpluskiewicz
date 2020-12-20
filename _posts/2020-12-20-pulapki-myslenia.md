@@ -16,11 +16,13 @@ categories:
 
 W okresach silniejszego stresu, większych napięć jesteśmy napędzani przez emocje i przekonania, które uruchamiają się wzajemnie, tworząc błędne koło. Kiedy zdamy sobie sprawę, że część naszych myśli jest zniekształconych, zawiera błędy logiczne, jest ocenami, jest osądami lub nie jest faktami możemy łatwiej regulować przeżywane przez nas emocje i podejmować znacznie bardziej funkcjonalne dla nas działania.
 
+<img src="{{root_url}}/assets/images/mysli-fakty.jpg" alt="Myśli to nie fakty" style="float:left; width: 60%; margin-right: 10px; margin-bottom: 30px;" />
+
 Jak wiadomo, to co myślimy wpływa na to jak się czujemy i w konsekwencji na to jak reagujemy. Nie bez powodu mówi się “To co myślisz ma znaczenie”. Wiele [myśli automatycznych]({% post_url 2017-08-10-mysli-automatyczne %}) jest zgodnych z prawdą, ale duża część z nich zawiera jedynie **ziarno prawdy** i nie w pełni odpowiada rzeczywistości. Analizując bardziej szczegółowo treść myśli, które łączą się z trudnymi emocjami można dostrzec pewne błędy logiczne. Nie zawsze jesteśmy ich świadomi, a to ich obecność wpływa na silniejsze i dłuższe odczuwanie emocji. Zniekształcenia poznawcze są powszechne i zazwyczaj niezauważalne. Jednak, gdy ich ilość w danym kontekście się zwiększa zaczynają w sposób znaczący wpływać na nasze emocje i życie. Dlatego tak ważnym krokiem jest rozpoznawanie i nazywanie ich.
 
-Wyróżniamy bardzo wiele rodzajów pułapek myślowych. Część z nich przeplata się wzajemnie i nasila swój wpływ na nasze myślenie i postępowanie. Poniżej skupiam się na opisaniu tych, które występują najczęściej.
+<div style="clear: both"></div>
 
-<img src="{{root_url}}/assets/images/mysli-fakty.jpg" alt="Myśli to nie fakty" />
+Wyróżniamy bardzo wiele rodzajów pułapek myślowych. Część z nich przeplata się wzajemnie i nasila swój wpływ na nasze myślenie i postępowanie. Poniżej skupiam się na opisaniu tych, które występują najczęściej.
 
 #### Główne zniekształcenia poznawcze/myślenia
 
@@ -203,7 +205,7 @@ Przykład:
 
 #### Co zrobić z myślami, które prowadzą nas na manowce i nasilają przeżywanie trudnych emocji?
 
-<img src="{{root_url}}/assets/images/co-zrobic-z-myslami.jpg" alt="Co zrobić z trudnymi myślami?" />
+<img src="{{root_url}}/assets/images/co-zrobic-z-myslami.jpg" alt="Co zrobić z trudnymi myślami?" style="float:right; width: 65%; margin-left: 20px; margin-bottom: 30px;" />
 
 **sposób 1.** Złap pułapkę myślową i zidentyfikuj jej **słowa klucze** np. “zawsze”, “jestem beznadziejna”. “oni myślą o”. Nazwanie jej pomaga nie identyfikować się z tą myślą.
 
@@ -241,7 +243,7 @@ Zauważ je, nazwij, zaobserwuj i pozwól im odejść. Dzięki temu dystansujesz 
 
 **sposób 17.** Przypomnij sobie, że już kiedyś słyszałeś podobną myśl/podobne zniekształcenie myślowe i wtedy sobie jakoś poradziłeś. **Dodaj sobie otuchy**.
 
-**sposób 18.** Zauważ, że nie ma sytuacji, w których winna jest na 100% tylko jedna osoba. Biorąc pod uwagę to, że nasze życie jest wypadkową wielu czynników to dlaczego my czy ktoś inny miałby mieć możliwość, aby kontrolować je wszystkie. **Wypisz możliwe czynniki**, które mogły wpłynąć na sytuację, a dostrzeżesz, że to nie ty lub ktoś inny ponosi całkowitą odpowiedzialność za dane zdarzenie.
+**sposób 18.** Zauważ, że nie ma sytuacji, za które odpowiedzialna jest na 100% tylko jedna osoba. Biorąc pod uwagę to, że nasze życie jest wypadkową wielu czynników to dlaczego my czy ktoś inny miałby mieć możliwość, aby kontrolować je wszystkie. **Wypisz możliwe czynniki**, które mogły wpłynąć na sytuację, a dostrzeżesz, że to nie ty lub ktoś inny ponosi całkowitą odpowiedzialność za dane zdarzenie.
 
 **sposób 20.** Staraj się dostrzegać **odcienie szarości**, kontinuum zamiast perspektywy zerojedynkowej.
 
