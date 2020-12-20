@@ -288,15 +288,20 @@ paper-tooltip {
 
 #sectionAbout.books {
   .storyText {
-    height: 250px;
+    height: 270px;
+
+    &.titles {
+      margin-left: 10px;
+      padding-right: 0;
+    }
 
     h4, p {
       margin: 0;
     }
 
     img {
-      max-width: 140px;
-      max-height: 200px
+      max-width: 160px;
+      max-height: 230px;
     }
   }
 }
