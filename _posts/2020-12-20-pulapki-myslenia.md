@@ -221,7 +221,7 @@ Przykład:
 
 **sposób 7.** Unikaj wpadania w **podwójne standardy**. Bądź świadom tego, że jesteś dla siebie zbyt surowy, wymagający i oczekujesz od siebie więcej niż od innych. Zadaj sobie pytania: Czy tak na pewno jest w porządku? Dlaczego tak miałoby w ogóle być ok?
 
-**sposób 8.** Zrób **bilans zysków i strat danego sposobu myślenia**. Czy ta myśl i ten sposób przybliża cię do tego jak chcesz się czuć, motywuje cię do podejmowania działania. Jeśli nie to może wpadłeś w pułapkę poznawczą. Sprawdź to.
+**sposób 8.** Zrób **bilans zysków i strat danego sposobu myślenia**. Czy ta myśl i ten sposób przybliża cię do realizacji danego celu, motywuje cię do podejmowania działania? Jeśli nie, to może wpadłeś w pułapkę poznawczą.
 
 **sposób 9.** Spróbuj popatrzeć na siebie z **perspektywy widza**. Czy będziesz dla siebie tak samo surowy jak twoje myśli są wobec ciebie? Czy sytuacja wygląda tak samo jak oceniasz ją z perspektywy podmiotu? Zastanów się czy każda osoba w tej sytuacji myślała by podobnie, czy nie jestem dla siebie zbyt wymagający i nie narzucam sobie zbyt nierealistycznych oczekiwań?
 
