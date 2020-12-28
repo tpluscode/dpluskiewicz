@@ -12,7 +12,7 @@ categories:
 - zniekształcenia poznawcze
 ---
 
-**Błędy myślowe, czyli pułapki myślenia, w które wpada każdy z nas. Czym są jak ich unikać i dlaczego warto wiedzieć, że w nie wpadamy.**
+**Zniekształcenia poznawcze, błędy myślowe, czyli pułapki myślenia, w które wpada każdy z nas. Czym są, jak ich unikać i dlaczego warto wiedzieć, że w nie wpadamy.**
 
 W okresach silniejszego stresu, większych napięć jesteśmy napędzani przez emocje i przekonania, które uruchamiają się wzajemnie, tworząc błędne koło. Kiedy zdamy sobie sprawę, że część naszych myśli jest zniekształconych, zawiera błędy logiczne, jest ocenami, jest osądami lub nie jest faktami możemy łatwiej regulować przeżywane przez nas emocje i podejmować znacznie bardziej funkcjonalne dla nas działania.
 
