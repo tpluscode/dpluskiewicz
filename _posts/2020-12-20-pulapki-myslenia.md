@@ -245,9 +245,9 @@ Zauważ je, nazwij, zaobserwuj i pozwól im odejść. Dzięki temu dystansujesz 
 
 **sposób 18.** Zauważ, że nie ma sytuacji, za które odpowiedzialna jest na 100% tylko jedna osoba. Biorąc pod uwagę to, że nasze życie jest wypadkową wielu czynników to dlaczego my czy ktoś inny miałby mieć możliwość, aby kontrolować je wszystkie. **Wypisz możliwe czynniki**, które mogły wpłynąć na sytuację, a dostrzeżesz, że to nie ty lub ktoś inny ponosi całkowitą odpowiedzialność za dane zdarzenie.
 
-**sposób 20.** Staraj się dostrzegać **odcienie szarości**, kontinuum zamiast perspektywy zerojedynkowej.
+**sposób 19.** Staraj się dostrzegać **odcienie szarości**, kontinuum zamiast perspektywy zerojedynkowej.
 
-**sposób 21.** Zastanów się nad **konsekwencjami myślenia w dany sposób**. Czy dana myśl w takiej formie jak ją słyszę prowadzi mnie do tego jak chcę się czuć?
+**sposób 20.** Zastanów się nad **konsekwencjami myślenia w dany sposób**. Czy dana myśl w takiej formie jak ją słyszę prowadzi mnie do tego jak chcę się czuć?
 
 Staraj się zachować zasady zdrowego myślenia.
 
