@@ -55,12 +55,16 @@ Dzięki temu, że jesteśmy wysłuchani, akceptowani, otrzymujemy zrozumienie, o
 
 Są osoby które chcą od razu umówić się na pracę nad konkretnym celem, bywa tak, że byli już na innych terapiach. Jednak nie każdy kto zgłasza się  na konsultację musi decydować się na podjęcie regularnej terapii. Czasami chcemy nazwać pewne trudności, określić swoje potrzeby, a gotowość do pracy z nimi może pojawić się dopiero za jakiś czas i jest to jak najbardziej w porządku.
 
-***Na czym polega psychoterapia poznawczo behawioralna (ang. Cognitive Behavioral Therapy - CBT)?***
+***Na czym polega [psychoterapia poznawczo behawioralna (ang. Cognitive Behavioral Therapy - CBT)][cbt]?***
 
-Jest to terapia oparta o współczesne teorie dotyczące funkcjonowania psychicznego człowieka. Skuteczność stosowanych w jej ramach metod została zweryfikowana naukowo. Istotnym wzorcem, na którym skupia się terapia jest wpływ myśli, emocji i zachowania na codzienne funkcjonowanie pacjenta. W trakcie sesji teraputycznych terapeuta pomaga pacjentowi zidentyfikować myśli automatyczne, które pojawiają się w problematycznych sytuacjach. Ważnym elementem jest też psychoedukacja prowadząca do rozumienia mechanizmów podtrzymujących dane trudności. Relacja pomiędzy pacjentem a psychoterapeutą opiera się na zasadzie współpracy. Nieodłącznym elementem terapii jest aktywny udział pacjenta (praca poza sesjami), który dzięki wzięciu odpowiedzialności za zmianę umożliwia osiągnięcie pożądanych rezultatów. Celem jest nabycie takich umiejętności, aby samodzielnie radzić sobie z bieżącym problemem i móc zmierzyć się z pojawiającymi się trudnościami w przyszłości.
+Jest to terapia oparta o współczesne teorie dotyczące funkcjonowania psychicznego człowieka. Skuteczność stosowanych w jej ramach metod została zweryfikowana naukowo. Istotnym wzorcem, na którym skupia się terapia jest wpływ myśli, [emocji][emo] i zachowania na codzienne funkcjonowanie pacjenta. W trakcie sesji teraputycznych terapeuta pomaga pacjentowi zidentyfikować [myśli automatyczne][ma], które pojawiają się w problematycznych sytuacjach. Ważnym elementem jest też psychoedukacja prowadząca do rozumienia mechanizmów podtrzymujących dane trudności. Relacja pomiędzy pacjentem a psychoterapeutą opiera się na zasadzie współpracy. Nieodłącznym elementem terapii jest aktywny udział pacjenta (praca poza sesjami), który dzięki wzięciu odpowiedzialności za zmianę umożliwia osiągnięcie pożądanych rezultatów. Celem jest nabycie takich umiejętności, aby samodzielnie radzić sobie z bieżącym problemem i móc zmierzyć się z pojawiającymi się trudnościami w przyszłości.
 
 ----
 
 Padesky, C., A. i Greenberger, D. (2017). Umysł ponad nastrojem. Zmień nastrój poprzez zmianę sposobu myślenia. Kraków: Wydawnictwo Uniwersytetu Jagiellońskiego.
 
 Popiel, A. i Pragłowska, E. (2008), Psychoterapia poznawczo-behawioralna. Teoria i praktyka. Warszawa: Wydawnictwo Paradygmat.
+
+[ma]: {% post_url 2017-07-23-czym-sa-mysli-automatyczne %}
+[cbt]: {% post_url 2017-03-30-czym-jest-terapia-cbt %}
+[emo]: {% post_url 2017-10-02-emocje %}
