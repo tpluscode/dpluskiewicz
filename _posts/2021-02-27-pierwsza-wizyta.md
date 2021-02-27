@@ -45,15 +45,15 @@ Często mamy też nadzieję, że otrzymamy pomoc na pierwszym spotkaniu. Wielokr
 
 ***Czy psychoterapeuta nie pomyśli, że mój problem jest nie do rozwiązania lub zbagatelizuje to, co mówię?***
 
-To częsta obawa wynikająca z naszego negatywnego postrzegania  siebie. Na co dzień  nie poruszamy tak intymnych i trudnych dla nas treści z innymi przez co zakładamy, że to tylko my przeżywamy dane trudności lub nie radzimy sobie z problemami, a tak nie jest. Psychoterapeuta jest fachowcem, który został przygotowany (studia psychologiczne i profesjonalna szkoła psychoterapii, regularne superwizje)  do tego, aby pomóc osobom borykającym się z różnymi problemami związanymi ze zdrowiem psychicznym i potrafi wykazać się autentycznym zaangażowanym podejściem w relacji z pacjentem. Jeśli zdarzy się, że nie zajmuje się danym zagadnieniem może przekierować nas na konsultację do innego specjalisty (terapeuty uzależnień, neurologa, psychiatry, dietetyka).
+To częsta obawa wynikająca z naszego negatywnego postrzegania siebie. Na co dzień nie poruszamy tak intymnych i trudnych dla nas treści z innymi, przez co zakładamy, że to tylko my przeżywamy dane trudności lub nie radzimy sobie z problemami, a tak nie jest. Psychoterapeuta jest fachowcem, który został przygotowany (studia psychologiczne i profesjonalna szkoła psychoterapii, regularne superwizje) do tego, aby pomóc osobom borykającym się z różnymi problemami związanymi ze zdrowiem psychicznym i potrafi wykazać się autentycznym zaangażowanym podejściem w relacji z pacjentem. Jeśli zdarzy się, że nie zajmuje się danym zagadnieniem może przekierować nas na konsultację do innego specjalisty (terapeuty uzależnień, neurologa, psychiatry, dietetyka).
 
 ***Będzie miło, łatwo i przyjemnie? Niestety nie zawsze.***
 
-Dzięki temu, że jesteśmy wysłuchani, akceptowani, otrzymujemy zrozumienie, odczuwamy zaspokojenie naszych potrzeb emocjonalnych. Jednak aby móc zmienić pewne niesłużące nam nawyki myślowe konieczne bywa przyjrzenie się powodom ich utworzenia co może powodować przeżywanie przez nas trudnych emocji/dyskomfortu psychicznego. Dzięki temu, że odbywa się to w bezpiecznych dla nas warunkach możemy nauczyć się tolerować/akceptować/rozumieć dane emocje i nauczyć się je regulować.
+Dzięki temu, że jesteśmy wysłuchani, akceptowani, otrzymujemy zrozumienie, odczuwamy zaspokojenie naszych potrzeb emocjonalnych. Jednak aby móc zmienić pewne niesłużące nam nawyki myślowe i dysfunkcjonalne zachowania, konieczne bywa przyjrzenie się doświadczeniom, które doprowadziły do ich utworzenia, co może powodować przeżywanie przez nas trudnych emocji/dyskomfortu psychicznego. Dzięki temu, że odbywa się to w bezpiecznych dla nas warunkach, możemy nauczyć się tolerować/akceptować/rozumieć dane emocje, nauczyć się je regulować i zmieniać wzorce/schematy zachowań.
 
 ***Czy od razu muszę decydować się na systematyczne spotkania?***
 
-Są osoby które chcą od razu umówić się na pracę nad konkretnym celem, bywa tak, że byli już na innych terapiach. Jednak nie każdy kto zgłasza się  na konsultację musi decydować się na podjęcie regularnej terapii. Czasami chcemy nazwać pewne trudności, określić swoje potrzeby, a gotowość do pracy z nimi może pojawić się dopiero za jakiś czas i jest to jak najbardziej w porządku.
+Są osoby, które chcą od razu umówić się na pracę nad konkretnym celem, bywa tak, że byli już na innych terapiach. Jednak nie każdy, kto zgłasza się na konsultację, musi decydować się na podjęcie regularnej terapii. Czasami chcemy nazwać pewne trudności, określić swoje potrzeby, a gotowość do pracy z nimi może pojawić się dopiero za jakiś czas i jest to jak najbardziej w porządku.
 
 ***Na czym polega [psychoterapia poznawczo behawioralna (ang. Cognitive Behavioral Therapy - CBT)][cbt]?***
 
