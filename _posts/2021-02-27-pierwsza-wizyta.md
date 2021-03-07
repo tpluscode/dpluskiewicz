@@ -15,7 +15,7 @@ categories:
 
 ***Jak wygląda pierwsza wizyta u psychoterapeuty poznawczo behawioralnego? Czego możemy się spodziewać i czy konieczne jest przygotowanie do niej?***
 
-Osoby, które szukają wsparcia i rozważają rozpoczęcie psychoterapii często zastanawiają się jak ma wyglądać pierwsza konsultacja, wizyta u psychoterapeuty.  U niektórych budzi to silne obawy do tego stopnia, że mimo przeżywanego cierpienia odkładają decyzję o umówieniu się na wizytę. Wiele osób zadaje sobie pytania: Jak mam przygotować się idąc na pierwsze spotkanie z terapeutą? Jak to będzie wyglądać, o co będę pytana/pytany? Czy od razu muszę decydować się na systematyczne spotkania? Jaki ma być cel terapii? Czy wystarczy mi jedna wizyta? Czy terapeuta nie pomyśli, że coś mój problem jest nie do rozwiązania lub zbagatelizuje to co mówię? Poniżej postaram się wyjaśnić czego można się spodziewać.
+Osoby, które szukają wsparcia i rozważają rozpoczęcie psychoterapii często zastanawiają się jak ma wyglądać pierwsza konsultacja, wizyta u psychoterapeuty.  U niektórych budzi to silne obawy do tego stopnia, że mimo przeżywanego cierpienia odkładają decyzję o umówieniu się na wizytę. Wiele osób zadaje sobie pytania: Jak mam przygotować się idąc na pierwsze spotkanie z terapeutą? Jak to będzie wyglądać, o co będę pytana/pytany? Czy od razu muszę decydować się na systematyczne spotkania? Jaki ma być cel terapii? Czy wystarczy mi jedna wizyta? Czy terapeuta nie pomyśli, że mój problem jest nie do rozwiązania lub zbagatelizuje to co mówię? Poniżej postaram się wyjaśnić czego można się spodziewać.
 
 <img src="{{root_url}}/assets/images/pierwsza-wizyta-fotel.jpg" alt="Pierwsza wizyta" width="75%" />
 
