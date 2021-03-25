@@ -32,10 +32,5 @@ leczenia depresji terapią poznawczo behawioralną. Poniżej pięć głównych k
 Warto pamiętać, że w przypadku depresji rekomendowanym postępowaniem jest psychoterapia
 i farmakoterapia (zazwyczaj z [grupy SSRI][ssri]). O potrzebie podania leków decyduje lekarz. 
 
-Zachęcam też do udzielenia odpowiedzi na pytania w [kwestionariuszu BDI][bdi] (Beck Depression Inventory), a po jego wypełnieniu 
-skonsultowanie swoich wątpliwości i pytań ze specjalistą*.
-
-<span style="font-size: smaller">*Kwestionariusz <span class="u">nie diagnozuje depresji</span>. Pomaga jedynie w ocenie nasilenia danych objawów depresyjnych.</span>
-
 [bdi]: {{ root_url}}/assets/BDI.pdf
 [ssri]: http://sprawdzlek.pl/ssri/
