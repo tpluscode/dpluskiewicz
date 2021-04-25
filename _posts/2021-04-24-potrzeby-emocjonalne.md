@@ -8,7 +8,7 @@ image: assets/images/potrzeby-cover.jpg
 lead: "Uniwersalne potrzeby emocjonalne człowieka. Czym są i jak je identyfikować?"
 permalink: potrzeby-emocjonalne/
 categories:
-- terapia schematów
+- terapia schematu
 - cbt
 ---
 
