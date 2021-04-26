@@ -26,27 +26,56 @@ W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, kt�
 
 1. **Bezpieczne przywiązanie (bezpieczeństwo, opieka, troska, akceptacja, miłości, stabilizacja, ochrona)**
 
-   składa się na nie m.in.: dostępność opiekunów, ich reagowanie na nas, ważność problemów, z jakimi się zgłaszaliśmy, obecność emocjonalna, nie wyśmiewanie, poczucie, że bliscy dla nas zareagują, wesprą nas, gdy coś złego się wydarzy, przyjmowanie nas takimi, jakimi jesteśmy ludźmi-rozumienie, że mamy swoje zainteresowania/preferencje i emocje, które przeżywamy, poczucie bycia kochanym, wzajemność, serdeczność, docenienie.
+   składa się na nie m.in.:
+   - dostępność opiekunów, ich reagowanie na nas,
+   - ważność problemów, z jakimi się zgłaszaliśmy,
+   - obecność emocjonalna, nie wyśmiewanie,
+   - poczucie, że bliscy nam zareagują, wesprą nas, gdy coś złego się wydarzy, przyjmą nas takimi, jakimi jesteśmy,
+   - rozumienie, że mamy swoje zainteresowania/preferencje i emocje, które przeżywamy,
+   - poczucie bycia kochanym, wzajemność, serdeczność, docenienie.
 
-   <img src="{{root_url}}/assets/images/potrzeby-art-1.jpg" alt="Love is all you need" width="50%" style="float:right; margin-left: 10px" />
+   <img src="{{root_url}}/assets/images/potrzeby-art-1.jpg" alt="Love is all you need" width="42%" style="float:right; margin-left: 10px" />
 
 1. **Autonomia, kompetencja i poczucie tożsamości**
 
-   składa się na nią m.in.: możliwość decydowania o sobie  dostosowana do wieku, dawanie wyboru, wspieranie poczucia kompetencji i pytanie, czy chce się usłyszeć wskazówkę/radę, dostosowana do wieku odpowiedzialność (nie nadopiekuńcza, nie zbyt duża), poczucie przynależności, świadomość swoich zasobów.
+   składa się na nią m.in.:
+   - możliwość decydowania o sobie dostosowana do wieku, dawanie wyboru,
+   - wspieranie poczucia kompetencji i pytanie, czy chce się usłyszeć wskazówkę/radę,
+   - dostosowana do wieku odpowiedzialność (nie nadopiekuńcza, nie zbyt duża),
+   - poczucie przynależności, świadomość swoich zasobów.
+
+   <div style="clear:both;"></div>
 
 2. **Swoboda/Wolność wyrażania prawdziwych potrzeb i emocji**
 
-   zawiera się w niej: empatia, prawo do wyrażania emocji, nauka ich wyrażania w sposób nieraniący innych, komunikowanie innym swoich potrzeb, wyrażane potrzeby powinny spotkać się empatyczną reakcją-niezaprzeczającą lub bagatelizującą.
+   zawiera się w niej:
+   - empatia, prawo do wyrażania emocji, nauka ich wyrażania w sposób nieraniący innych,
+   - komunikowanie innym swoich potrzeb,
+   - wyrażane potrzeby powinny spotkać się empatyczną reakcją-niezaprzeczającą lub bagatelizującą.
 
-   <img src="{{root_url}}/assets/images/potrzeby-5.jpg" alt="Tańczące osoby" width="50%" style="float:left; margin-right: 21px; margin-bottom: 47px" />
+   <br>
 
 3. **Spontaniczność i zabawa**
 
-   dotyczy: beztroski, ekspresji siebie zgodnie z przeżywanymi emocjami, spontanicznych zachowań, swobodnego cieszenie się z rzeczy, które są dla nas ważne, zaspokajanie tej potrzeby nie oznacza impulsywności, a zdrową ekspresję.
+   dotyczy:
+   - beztroski, ekspresji siebie zgodnie z przeżywanymi emocjami, spontanicznych zachowań,
+   - swobodnego cieszenie się z rzeczy, które są dla nas ważne.
+
+   Zaspokajanie tej potrzeby nie oznacza impulsywności, a zdrową ekspresję.
+
+   <img src="{{root_url}}/assets/images/potrzeby-5.jpg" alt="Tańczące osoby" width="50%" style="float:left; margin-right: 21px; margin-bottom: 25px" />
 
 4. **Realistyczne granice i samokontrola**
 
-   dotyczy: nauki rozróżniania dobra od zła, nauki bezpieczeństwa danych zachowań, świadomości, że  inni ludzie mają takie same prawa jak my, dysponowania własnością swoją i cudzą, swoim i cudzym czasem, zaangażowaniem, odmawiania i zgadzania się, stawiania zdrowych granic samemu sobie i innym, norm, zasad, świadomość, że dane granice są zależne od wieku, [asertywności][as], współdziałania z innymi ludźmi, życzliwego poszanowanie swoich i cudzych preferencji.
+   dotyczy:
+   - nauki rozróżniania dobra od zła, nauki bezpieczeństwa danych zachowań,
+   - świadomości, że inni ludzie mają takie same prawa jak my,
+   - dysponowania własnością swoją i cudzą, swoim i cudzym czasem,
+   - zaangażowaniem, odmawiania i zgadzania się, stawiania zdrowych granic samemu sobie i innym,
+   - nauki norm, zasad,
+   - świadomości, że dane granice są zależne od wieku,
+   - [asertywności][as], współdziałania z innymi ludźmi,
+   - życzliwego poszanowanie swoich i cudzych preferencji.
 
 **Realizacja danej potrzeby musi iść w parze z zaspokajaniem pozostałych potrzeb**, np. stawiam granice (odnośnie do zasad bezpieczeństwa, moralności) z równoczesnym danem wsparcia i życzliwości.
 
@@ -54,9 +83,9 @@ Z punktu widzenia psychoterapii schematu, jeśli miałeś zaspokajane powyższe 
 
 *słowo adaptacyjny/zdrowy rozumiemy tutaj jako nie krzywdzący, szanujący siebie i innych
 
-Jeśli jednostka od wczesnego dzieciństwa miała niezaspokojone potrzeby emocjonalne, buduje ona szkodliwe dla samej siebie i innych wzorce myślowe i emocjonalne, które nazywane są **dziecięcymi nieadaptacyjnymi schematami emocjonalnymi**.
+Jeśli jednostka od wczesnego dzieciństwa miała niezaspokojone potrzeby emocjonalne, buduje ona szkodliwe dla samej siebie i innych wzorce myślowe i emocjonalne, które składają się na **dziecięce nieadaptacyjne schematy emocjonalne**.
 
-Nawet jeśli wiele twoich potrzeb nie było w pełni zaspokajanych to sama ich świadomość (zdefiniowanie, określenie) i zatroszczenie się o nie,  zadbanie o każdą z nich i o siebie w życiu dorosłym jest drogą do znacznie bardziej komfortowego funkcjonowania w relacjach i ze samym sobą.
+Nawet jeśli wiele twoich potrzeb nie było w pełni zaspokajanych to sama ich świadomość (zdefiniowanie, określenie) i zatroszczenie się o nie, zadbanie o każdą z nich i o siebie w życiu dorosłym jest drogą do znacznie bardziej komfortowego funkcjonowania w relacjach i ze samym sobą.
 
 Jak Ty w życiu dorosłym dbasz o swoje emocjonalne potrzeby?
 
