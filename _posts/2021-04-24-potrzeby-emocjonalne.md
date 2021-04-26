@@ -12,11 +12,11 @@ categories:
 - cbt
 ---
 
-Bardzo ważnym elementem pracy metodą terapii schematów (metoda III fali terapii poznawczo behawioralnej) jest identyfikacja i doprecyzowanie czym i jakie są nasze **uniwersalne potrzeby emocjonalne**.
+Bardzo ważnym elementem pracy metodą terapii schematu (metoda III fali terapii poznawczo behawioralnej) jest identyfikacja i doprecyzowanie czym, i jakie są nasze **uniwersalne potrzeby emocjonalne**.
 
 <img src="{{root_url}}/assets/images/potrzeby-art-2.jpg" alt="Grupka ludzi" width="50%" style="float:right; margin-left: 10px" />
 <br>
-Jest to o tyle istotne, że z punktu widzenia terapii schematów funkcjonujemy w sposób adaptacyjny/zdrowy (szanujący siebie i innych, nie krzywdzący nas samych i innych), jeśli nasze podstawowe potrzeby emocjonalne są zaspokojone.
+Jest to o tyle istotne, że z punktu widzenia terapii schematu funkcjonujemy w sposób adaptacyjny/zdrowy (szanujący siebie i innych, nie krzywdzący nas samych i innych), jeśli nasze podstawowe potrzeby emocjonalne są zaspokojone.
 
 Wiele osób ma przekonanie o tym, że wie czego chce/potrzebuje i jakie ich **potrzeby emocjonalne nie zostały zaspokojone w dzieciństwie** lub nie są zaspokajane obecnie. Jednak, gdy mamy określić szczegóły realizacji tego, czego potrzebujemy, jak chcielibyśmy dbać o nasze potrzeby, to pojawiają się pewne trudności. Dlatego warto zacząć od zdefiniowania podstawowych potrzeb emocjonalnych.
 
@@ -50,7 +50,7 @@ W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, kt�
 
 **Realizacja danej potrzeby musi iść w parze z zaspokajaniem pozostałych potrzeb**, np. stawiam granice (odnośnie do zasad bezpieczeństwa, moralności) z równoczesnym danem wsparcia i życzliwości.
 
-Z punktu widzenia psychoterapii schematów, jeśli miałeś zaspokajane powyższe potrzeby w adaptacyjny* sposób – to znaczy, że mogłeś rozwijać się w sposób optymalny, mogłeś kształtować swoją stabilną samoocenę, wierzysz w swoje kompetencje, nauczyłeś się tworzyć bezpieczne relacje, zaspokajać swoje potrzeby i zdrowo funkcjonować.
+Z punktu widzenia psychoterapii schematu, jeśli miałeś zaspokajane powyższe potrzeby w adaptacyjny* sposób – to znaczy, że mogłeś rozwijać się w sposób optymalny, mogłeś kształtować swoją stabilną samoocenę, wierzysz w swoje kompetencje, nauczyłeś się tworzyć bezpieczne relacje, zaspokajać swoje potrzeby i zdrowo funkcjonować.
 
 *słowo adaptacyjny/zdrowy rozumiemy tutaj jako nie krzywdzący, szanujący siebie i innych
 
