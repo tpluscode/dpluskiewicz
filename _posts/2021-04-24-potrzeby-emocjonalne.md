@@ -22,7 +22,7 @@ Wiele osób ma przekonanie o tym, że wie czego chce/potrzebuje i jakie ich **po
 
 <div style="clear: both"></div>
 
-W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, które uważa się za uniwersalne. **Przenikają się one wzajemnie**:
+W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, które uważa się za uniwersalne. **Przenikają się one wzajemnie**. Chcąc zaspokoić emocjonalne potrzeby dziecka, rodzice powinni zwrócić uwagę na:
 
 1. **Bezpieczne przywiązanie (bezpieczeństwo, opieka, troska, akceptacja, miłości, stabilizacja, ochrona)**
 
@@ -59,7 +59,7 @@ W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, kt�
 
    dotyczy:
    - beztroski, ekspresji siebie zgodnie z przeżywanymi emocjami, spontanicznych zachowań,
-   - swobodnego cieszenie się z rzeczy, które są dla nas ważne.
+   - swobodnego cieszenia się z rzeczy, które są dla nas ważne.
 
    Zaspokajanie tej potrzeby nie oznacza impulsywności, a zdrową ekspresję.
 
@@ -71,11 +71,11 @@ W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, kt�
    - nauki rozróżniania dobra od zła, nauki bezpieczeństwa danych zachowań,
    - świadomości, że inni ludzie mają takie same prawa jak my,
    - dysponowania własnością swoją i cudzą, swoim i cudzym czasem,
-   - zaangażowaniem, odmawiania i zgadzania się, stawiania zdrowych granic samemu sobie i innym,
+   - zaangażowania, odmawiania i zgadzania się, stawiania zdrowych granic samemu sobie i innym,
    - nauki norm, zasad,
    - świadomości, że dane granice są zależne od wieku,
    - [asertywności][as], współdziałania z innymi ludźmi,
-   - życzliwego poszanowanie swoich i cudzych preferencji.
+   - życzliwego poszanowania swoich i cudzych preferencji.
 
 **Realizacja danej potrzeby musi iść w parze z zaspokajaniem pozostałych potrzeb**, np. stawiam granice (odnośnie do zasad bezpieczeństwa, moralności) z równoczesnym danem wsparcia i życzliwości.
 
