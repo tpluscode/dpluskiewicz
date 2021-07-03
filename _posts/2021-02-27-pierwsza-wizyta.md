@@ -4,7 +4,7 @@ published: true
 title: Pierwsza wizyta
 date: 2021-02-27
 sharing: false
-image: assets/images/pierwsza-wizyta-cover.jpg
+image: assets/images/zielony-most.jpg
 lead: "Jak wygląda pierwsza wizyta u psychoterapeuty poznawczo behawioralnego? Czego możemy się spodziewać i czy konieczne jest przygotowanie do niej?"
 permalink: pierwsza-wizyta/
 categories:
