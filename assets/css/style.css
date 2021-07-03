@@ -15,20 +15,25 @@
 */
 @media (min-width: 1200px) {
   .container {
-    width: 970px; } }
+    width: 970px;
+  }
+}
 /* === 01. NAVIGATION MENU */
 /*PAGE LOADER*/
 html {
   position: relative;
-  background-color: #fff; }
+  background-color: #fff;
+}
 
 body {
   background: transparent;
   position: relative;
-  background-color: #fff; }
+  background-color: #fff;
+}
 
 a:focus {
-  outline: 0; }
+  outline: 0;
+}
 
 #loader {
   background: #ffffff;
@@ -39,7 +44,8 @@ a:focus {
   right: 0;
   top: 0;
   width: 100%;
-  z-index: 9999; }
+  z-index: 9999;
+}
 
 #loaderInner {
   background: #ffffff url(../images/load.gif) center center no-repeat;
@@ -47,7 +53,8 @@ a:focus {
   left: 50%;
   position: absolute;
   top: 50%;
-  width: 60px; }
+  width: 60px;
+}
 
 /* Menu Button */
 .menu-button {
@@ -62,7 +69,8 @@ a:focus {
   border: 0;
   outline: 0;
   color: #111;
-  background: transparent; }
+  background: transparent;
+}
 
 /*--------------------------------------------------
 	01. Navigation menu
@@ -77,18 +85,21 @@ a:focus {
   position: fixed;
   top: 0px;
   background: #fff;
-  box-shadow: 0px 7px 16px 0px rgba(50, 50, 50, 0.1); }
+  box-shadow: 0px 7px 16px 0px rgba(50, 50, 50, 0.1);
+}
 
 #headerBar .container {
   padding: 0;
-  position: relative; }
+  position: relative;
+}
 
 .headerLeft {
   text-align: left;
   line-height: 80px;
   height: 80px;
   overflow: hidden;
-  padding: 0 0 0 15px; }
+  padding: 0 0 0 15px;
+}
 
 .headerLeft a {
   letter-spacing: 0.08em;
@@ -96,26 +107,33 @@ a:focus {
   font-weight: 700;
   color: #111;
   font-family: "Lato", sans-serif;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+}
 
 .headerRight {
   text-align: left;
-  padding: 0; }
+  padding: 0;
+}
 
 @media (max-width: 768px) {
   .navbar-right {
     background-color: white;
-    margin-right: -15px; } }
+    margin-right: -15px;
+  }
+}
 .navbar-collapse {
-  padding-left: 0px; }
+  padding-left: 0px;
+}
 
 .navbar {
   margin-bottom: 0;
-  -webkit-padding-start: 0px; }
+  -webkit-padding-start: 0px;
+}
 
 .navbar li {
   display: inline-block;
-  margin: 0 9px; }
+  margin: 0 9px;
+}
 
 .navbar li a {
   font-weight: 600;
@@ -130,15 +148,18 @@ a:focus {
   transition: 0.3s;
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #000; }
+  color: #000;
+}
 
 .navbar li.active a {
   color: #7ab2ce;
-  border-bottom: 2px solid #7ab2ce; }
+  border-bottom: 2px solid #7ab2ce;
+}
 
 .navbar-toggle {
   font-size: 30px;
-  cursor: pointer; }
+  cursor: pointer;
+}
 
 .white-popup {
   position: relative;
@@ -146,43 +167,58 @@ a:focus {
   padding: 20px;
   width: auto;
   max-width: 50%;
-  margin: 20px auto; }
+  margin: 20px auto;
+}
 
 .mfp-close {
-  font-size: 30px !important; }
+  font-size: 30px !important;
+}
 
 paper-fab {
-  z-index: 1000; }
+  z-index: 1000;
+}
 
 @media (min-width: 768px) {
   paper-fab {
     position: absolute !important;
     top: 54px;
-    right: 0; } }
+    right: 0;
+  }
+}
 @media (max-width: 767px) {
   paper-fab {
     position: fixed !important;
     bottom: 50px;
-    right: 50px; } }
+    right: 50px;
+  }
+}
 paper-tooltip {
   font-family: "Lato", sans-serif;
-  font-size: 2em; }
+  font-size: 2em;
+}
 
 .small-header {
-  display: none; }
+  display: none;
+}
 
 @media (max-width: 380px) {
   .default-header {
-    display: none; }
+    display: none;
+  }
 
   .small-header {
-    display: block; } }
+    display: block;
+  }
+}
 @media (min-width: 768px) and (max-width: 992px) {
   .default-header {
-    display: none; }
+    display: none;
+  }
 
   .small-header {
-    display: block; } }
+    display: block;
+  }
+}
 /*--------------------------------------------------
 	02. section Intro
 ---------------------------------------------------*/
@@ -193,7 +229,9 @@ paper-tooltip {
   background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
-  background-position-x: center; }
+  background-position-x: center;
+  top: 60px;
+}
 
 .textIntro {
   margin-right: auto;
@@ -203,10 +241,12 @@ paper-tooltip {
   padding: 25px 50px;
   opacity: 0.7;
   position: relative;
-  top: -60px; }
+  top: -60px;
+}
 
 .hi {
-  text-align: center; }
+  text-align: center;
+}
 
 .hi h1 {
   letter-spacing: 0.08em;
@@ -214,7 +254,8 @@ paper-tooltip {
   font-weight: 700;
   color: #111;
   font-family: "Lato", sans-serif;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+}
 
 .textIntro h4 {
   color: #444;
@@ -224,10 +265,11 @@ paper-tooltip {
   font-style: italic;
   font-size: 18px;
   font-weight: 700;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+}
 
 .textIntro p {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 14px;
   text-align: left;
   line-height: 30px;
@@ -235,33 +277,42 @@ paper-tooltip {
   max-width: 600px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #888 !important; }
+  color: #888 !important;
+}
 
 /*--------------------------------------------------
 	03. section About
 ---------------------------------------------------*/
 #sectionAbout {
   background-color: #fff;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+}
 
 #sectionAbout.books .storyText {
-  height: 270px; }
-  #sectionAbout.books .storyText.titles {
-    margin-left: 10px;
-    padding-right: 0; }
-  #sectionAbout.books .storyText h4, #sectionAbout.books .storyText p {
-    margin: 0; }
-  #sectionAbout.books .storyText img {
-    max-width: 160px;
-    max-height: 230px; }
+  height: 270px;
+}
+#sectionAbout.books .storyText.titles {
+  margin-left: 10px;
+  padding-right: 0;
+}
+#sectionAbout.books .storyText h4, #sectionAbout.books .storyText p {
+  margin: 0;
+}
+#sectionAbout.books .storyText img {
+  max-width: 160px;
+  max-height: 230px;
+}
 
 @media (min-width: 992px) and (max-width: 1200px) {
   #sectionAbout img {
-    width: 400px; } }
+    width: 400px;
+  }
+}
 .sectionTitle {
   padding-top: 100px;
   padding-bottom: 30px;
-  text-align: center; }
+  text-align: center;
+}
 
 .sectionTitle h1 {
   font-family: "Lato", sans-serif;
@@ -270,41 +321,50 @@ paper-tooltip {
   color: #111;
   font-weight: bold;
   margin: 25px 0;
-  font-size: 35px; }
+  font-size: 35px;
+}
 
 .whiteTitle {
-  color: #fff !important; }
+  color: #fff !important;
+}
 
 .sectionTitle h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-style: italic;
   line-height: 30px;
   letter-spacing: 1px;
   color: #7ab2ce;
   font-size: 22px;
-  font-weight: 700; }
+  font-weight: 700;
+}
 
 .story {
   color: #111;
   text-align: left;
-  background-color: #f9f7f8; }
+  background-color: #f9f7f8;
+}
 
 .storyText {
-  padding: 25px; }
-  .storyText.facebook {
-    padding-bottom: 0px; }
-  .storyText + .storyText {
-    padding-top: 0px; }
+  padding: 25px;
+}
+.storyText.facebook {
+  padding-bottom: 0px;
+}
+.storyText + .storyText {
+  padding-top: 0px;
+}
 
 .storyText.long p {
-  line-height: 30px; }
+  line-height: 30px;
+}
 
 .storyText h4 {
   font-family: "Lato", sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   font-weight: 700;
-  margin-bottom: 40px; }
+  margin-bottom: 40px;
+}
 
 .storyText h6, .storyText h6 a {
   font-family: "Lato", sans-serif;
@@ -312,36 +372,43 @@ paper-tooltip {
   color: #7ab2ce;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  font-weight: 600; }
+  font-weight: 600;
+}
 
 .storyText h6 a {
-  text-decoration: underline; }
+  text-decoration: underline;
+}
 
 .storyText p {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 14px;
   text-align: left;
   line-height: 5px;
   margin-bottom: 30px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #333; }
+  color: #333;
+}
 
 .storyText p + p {
-  margin-top: -15px; }
+  margin-top: -15px;
+}
 
 .white-popup .storyText p {
-  margin: 0px; }
+  margin: 0px;
+}
 
 .about img {
   text-align: center;
   margin-left: -20px !important;
-  width: 400px; }
+  width: 400px;
+}
 
 .quote {
   background-color: #7ab2ce;
   padding: 20px 55px;
-  padding-top: 30px; }
+  padding-top: 30px;
+}
 
 .quote h4 {
   font-family: "Lato", sans-serif;
@@ -349,16 +416,18 @@ paper-tooltip {
   text-transform: uppercase;
   font-weight: 700;
   margin-bottom: 25px;
-  color: #fff; }
+  color: #fff;
+}
 
 .quote p, .quote a {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 14px;
   text-align: left;
   line-height: 30px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #fff; }
+  color: #fff;
+}
 
 .quote h5 {
   font-family: "Lato", sans-serif;
@@ -368,43 +437,51 @@ paper-tooltip {
   letter-spacing: 0.08em;
   color: #fff;
   font-size: 20px;
-  margin-top: 10px; }
+  margin-top: 10px;
+}
 
 .quote a {
-  text-decoration: underline; }
+  text-decoration: underline;
+}
 
 /*--------------------------------------------------
 	04. section Resume
 ---------------------------------------------------*/
 #sectionResume {
   background: #f9f7f8;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+}
 
 .resumeList {
   -webkit-padding-start: 0px;
-  -moz-padding-start: 0px; }
+  -moz-padding-start: 0px;
+}
 
 .resumeList li.resTitle {
   background-color: #7ab2ce;
-  color: #fff; }
+  color: #fff;
+}
 
 .resumeList li {
   list-style: none;
   background: #ffffff;
   padding: 20px 20px 10px 20px;
-  margin: 0 0 30px 0; }
+  margin: 0 0 30px 0;
+}
 
 .resumeList li ul {
   padding-left: 20px;
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   line-height: 30px;
   font-weight: 400;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+}
 
 .resumeList li li {
   padding: 0px;
   margin: 0px;
-  list-style: disc; }
+  list-style: disc;
+}
 
 .resumeList h4 {
   text-transform: uppercase;
@@ -412,7 +489,8 @@ paper-tooltip {
   letter-spacing: 0.08em;
   font-weight: 700;
   margin-bottom: 15px;
-  font-family: "Lato", sans-serif; }
+  font-family: "Lato", sans-serif;
+}
 
 .resumeList h5 {
   text-transform: uppercase;
@@ -420,25 +498,28 @@ paper-tooltip {
   letter-spacing: 0.08em;
   font-weight: 700;
   margin-bottom: 5px;
-  font-family: "Lato", sans-serif; }
+  font-family: "Lato", sans-serif;
+}
 
 .resumeList span {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-style: italic;
   font-size: 30px;
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #7ab2ce;
-  font-weight: 700; }
+  font-weight: 700;
+}
 
 .resumeList p {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 14px;
   text-align: left;
   line-height: 30px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #888; }
+  color: #888;
+}
 
 .resumeIcon {
   float: left;
@@ -450,49 +531,60 @@ paper-tooltip {
   padding: 8px 11px;
   border-radius: 50%;
   position: relative;
-  top: 8px; }
+  top: 8px;
+}
 
 .resumeContent {
-  padding-left: 65px; }
+  padding-left: 65px;
+}
 
 #sectionTherapy {
-  background: #dadde1; }
+  background: #dadde1;
+}
 
 /*--------------------------------------------------
 	05. section Portfolio
 ---------------------------------------------------*/
 #sectionPortfolio {
   padding-bottom: 100px;
-  background: #f9f7f8; }
+  background: #f9f7f8;
+}
 
 .mGrid img {
   width: 100%;
   height: 100%;
   transition: all 0.15s ease-in-out;
   -webkit-transition: all 0.15s ease-in-out;
-  -moz-transition: all 0.15s ease-in-out; }
+  -moz-transition: all 0.15s ease-in-out;
+}
 
 .item-padding {
   padding-right: 40px;
   padding-bottom: 40px;
-  padding-left: 5px; }
+  padding-left: 5px;
+}
 
 .item-padding-top {
-  padding-top: 40px; }
+  padding-top: 40px;
+}
 
 .grid-item a {
   display: block;
   position: relative;
-  overflow: hidden; }
+  overflow: hidden;
+}
 
 .item-five {
-  width: 33%; }
+  width: 33%;
+}
 
 .item-three {
-  width: 32%; }
+  width: 32%;
+}
 
 .item-four {
-  width: 29%; }
+  width: 29%;
+}
 
 .itemHover {
   position: absolute;
@@ -503,14 +595,17 @@ paper-tooltip {
   opacity: 0;
   transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out; }
+  -moz-transition: all 0.5s ease-in-out;
+}
 
 .grid-item a:hover .itemHover {
-  opacity: 1; }
+  opacity: 1;
+}
 
 .grid-item a:hover img {
   -webkit-transform: scale3d(1.1, 1.1, 1.1);
-  transform: scale3d(1.1, 1.1, 1.1); }
+  transform: scale3d(1.1, 1.1, 1.1);
+}
 
 .itemHover h4 {
   letter-spacing: 1px;
@@ -524,7 +619,8 @@ paper-tooltip {
   font-weight: bold;
   bottom: 5px;
   text-transform: uppercase;
-  font-family: "Lato", sans-serif; }
+  font-family: "Lato", sans-serif;
+}
 
 .itemHover h6 {
   letter-spacing: 1px;
@@ -538,21 +634,25 @@ paper-tooltip {
   font-weight: 700;
   bottom: 35px;
   font-family: "Lato", sans-serif;
-  font-style: italic; }
+  font-style: italic;
+}
 
 .modal-box {
   max-width: 550px;
   background: #fff;
   position: relative !important;
   margin: 0 auto;
-  left: 0 !important; }
+  left: 0 !important;
+}
 
 .modal-box img {
   width: 100%;
-  height: 100%; }
+  height: 100%;
+}
 
 .modal-box-content {
-  padding: 25px; }
+  padding: 25px;
+}
 
 .modal-box-content h2 {
   text-transform: uppercase;
@@ -560,10 +660,11 @@ paper-tooltip {
   font-weight: 700;
   color: #333;
   font-family: "Lato", sans-serif;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+}
 
 .modal-box-content p {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 14px;
   text-align: left;
   line-height: 30px;
@@ -571,10 +672,12 @@ paper-tooltip {
   max-width: 800px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #aaa; }
+  color: #aaa;
+}
 
 .contactForm {
-  margin: 0 0 50px 0; }
+  margin: 0 0 50px 0;
+}
 
 .contactForm h1 {
   letter-spacing: 5px;
@@ -582,7 +685,8 @@ paper-tooltip {
   font-weight: 700;
   text-transform: uppercase;
   text-align: center;
-  padding-bottom: 30px; }
+  padding-bottom: 30px;
+}
 
 /*--------------------------------------------------
 	06. section Services
@@ -590,21 +694,26 @@ paper-tooltip {
 #sectionServices {
   padding-bottom: 100px;
   background: #fff;
-  position: relative; }
+  position: relative;
+}
 
 .servicesRow .col-md-6 {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+}
 
 .servicesBox {
   background: #f9f7f8;
   padding: 30px 40px;
-  padding-bottom: 20px; }
+  padding-bottom: 20px;
+}
 
 .servicesBox:hover .servicesIcon {
-  color: #f9f7f8; }
+  color: #f9f7f8;
+}
 
 .servicesContent {
-  padding: 10px 5px 5px 0px; }
+  padding: 10px 5px 5px 0px;
+}
 
 .servicesContent h4 {
   font-family: "Lato", sans-serif;
@@ -612,26 +721,29 @@ paper-tooltip {
   font-size: 16px;
   letter-spacing: 0.08em;
   font-weight: 700;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+}
 
 .servicesContent h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-style: italic;
   font-size: 18px;
   letter-spacing: 1px;
   margin: 15px 0px;
   margin-bottom: 25px;
   color: #7ab2ce;
-  font-weight: 700; }
+  font-weight: 700;
+}
 
 .servicesContent p {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 14px;
   text-align: left;
   line-height: 30px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: 888; }
+  color: 888;
+}
 
 .servicesIcon {
   font-size: 29px;
@@ -646,7 +758,8 @@ paper-tooltip {
   margin-bottom: 10px;
   transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out; }
+  -moz-transition: all 0.5s ease-in-out;
+}
 
 /*--------------------------------------------------
 	07. section Blog
@@ -655,7 +768,8 @@ paper-tooltip {
   position: relative;
   background: #dadde1;
   z-index: 200;
-  padding-bottom: 100px; }
+  padding-bottom: 100px;
+}
 
 .blog-item {
   margin-left: 10px;
@@ -663,27 +777,32 @@ paper-tooltip {
   padding: 25px;
   text-align: left;
   margin-top: 10px;
-  background-color: #fff; }
+  background-color: #fff;
+}
 
 .blog-padding {
-  padding: 32px 25px !important; }
+  padding: 32px 25px !important;
+}
 
 .item-margin {
-  margin-right: 3.3%; }
+  margin-right: 3.3%;
+}
 
 .blog-item p {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 12px;
   text-align: left;
   line-height: 30px;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #666; }
+  color: #666;
+}
 
 .blog-item img {
   width: 100%;
   height: 100%;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+}
 
 .blog-item h3 {
   font-family: "Lato", sans-serif;
@@ -693,10 +812,12 @@ paper-tooltip {
   text-transform: uppercase;
   margin-bottom: 15px;
   letter-spacing: 0.08em;
-  line-height: 25px; }
+  line-height: 25px;
+}
 
 .blog-post h5 {
-  line-height: 2.5; }
+  line-height: 2.5;
+}
 
 .blog-item h6 {
   padding-top: 10px;
@@ -706,30 +827,36 @@ paper-tooltip {
   font-family: "Lato", sans-serif;
   letter-spacing: 0.04em;
   font-size: 12px;
-  font-weight: 700; }
+  font-weight: 700;
+}
 
 span.separator {
-  margin: 0px 10px; }
+  margin: 0px 10px;
+}
 
 .blog-item h6 a {
-  color: #7ab2ce; }
+  color: #7ab2ce;
+}
 
 .blog-item a:focus, .blog-item a:hover {
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 .blog-item b a {
   font-size: 12px;
   letter-spacing: 1px;
   color: #333;
-  font-weight: 400 !important; }
+  font-weight: 400 !important;
+}
 
 .blog-item:hover img {
   -webkit-animation-name: pulse;
   animation-name: pulse;
-  -webkit-animation-duration: .7s;
-  animation-duration: .7s;
+  -webkit-animation-duration: 0.7s;
+  animation-duration: 0.7s;
   -webkit-animation-fill-mode: both;
-  animation-fill-mode: both; }
+  animation-fill-mode: both;
+}
 
 /*--------------------------------------------------
 	08. section Contact
@@ -738,7 +865,8 @@ span.separator {
 #sectionContact {
   margin-bottom: 0px;
   padding-bottom: 100px;
-  background: #fbfbfb; }
+  background: #fbfbfb;
+}
 
 input, textarea, select {
   background: #eee;
@@ -756,10 +884,12 @@ input, textarea, select {
   font-weight: 400;
   letter-spacing: 1px;
   color: #7ab2ce;
-  font-family: "Roboto Slab", sans-serif; }
+  font-family: "Roboto Slab", sans-serif;
+}
 
 textarea {
-  min-height: 150px; }
+  min-height: 150px;
+}
 
 input:focus, textarea:focus, select:focus {
   outline: none;
@@ -767,7 +897,8 @@ input:focus, textarea:focus, select:focus {
   z-index: 5;
   transition: all 0.25s ease-in-out;
   -webkit-transition: all 0.25s ease-in-out;
-  -moz-transition: all 0.25s ease-in-out; }
+  -moz-transition: all 0.25s ease-in-out;
+}
 
 input.submit {
   width: auto;
@@ -787,61 +918,74 @@ input.submit {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-family: "Lato", sans-serif; }
+  font-family: "Lato", sans-serif;
+}
 
 input.submit:hover {
-  background: #7ab2ce; }
+  background: #7ab2ce;
+}
 
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
-  color: #888; }
+  color: #888;
+}
 
 input:-moz-placeholder, textarea:-moz-placeholder {
-  color: #888; }
+  color: #888;
+}
 
-#contactform input[type="submit"][disabled] {
+#contactform input[type=submit][disabled] {
   background: #777;
-  cursor: default; }
+  cursor: default;
+}
 
 #contactform div {
-  margin: 20px 0; }
+  margin: 20px 0;
+}
 
 .contactForm fieldset {
   padding: 0;
-  border: 0; }
+  border: 0;
+}
 
 .contactForm label {
   font-size: 12px;
   font-weight: 400;
   letter-spacing: 2px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+}
 
 /* ====MESSAGE FOR SUCCES==== */
 #message {
   margin: 1em 0;
   padding: 0;
   display: block;
-  background: transparent none; }
+  background: transparent none;
+}
 
 #message h1 {
   letter-spacing: 1px;
   font-size: 20px;
   font-weight: 400;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+}
 
 #message p {
   font-size: 16px;
   font-weight: 200;
   text-align: left;
-  font-style: italic; }
+  font-style: italic;
+}
 
 /* ====MESSAGE FOR ERROR==== */
 .errorMessage {
   display: block;
   font-size: 14px;
-  padding: 20px 0 0 0; }
+  padding: 20px 0 0 0;
+}
 
 ul.errorMessages {
-  padding: 10px 0 0 0; }
+  padding: 10px 0 0 0;
+}
 
 ul.errorMessages li {
   font-size: 16px;
@@ -849,13 +993,15 @@ ul.errorMessages li {
   text-align: left;
   color: #000000;
   list-style: none;
-  line-height: 25px; }
+  line-height: 25px;
+}
 
 /* ====FOOTER=== */
 .pFooter {
   background: #ffffff;
   position: relative;
-  padding: 50px 0 30px 0; }
+  padding: 50px 0 30px 0;
+}
 
 .fCopy {
   text-align: left;
@@ -864,156 +1010,201 @@ ul.errorMessages li {
   font-size: 14px;
   letter-spacing: 1px;
   font-family: "Roboto Slab", sans-serif;
-  padding: 30px 0px; }
-  .fCopy.fCoop {
-    text-align: right;
-    padding-right: 35px !important;
-    padding: 22px 0px; }
-    .fCopy.fCoop span {
-      margin: 0 3px;
-      color: #111; }
-    .fCopy.fCoop a {
-      color: #111; }
-    .fCopy.fCoop a:hover, .fCopy.fCoop a:focus {
-      text-decoration: none; }
-    .fCopy.fCoop p {
-      font-size: 14px;
-      font-family: "Lato", sans-serif; }
-  .fCopy span {
-    font-family: "Lato", sans-serif;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    color: #111; }
-  .fCopy p {
-    font-family: "Lato", sans-serif;
-    font-style: italic;
-    font-size: 15px;
-    color: #7ab2ce;
-    letter-spacing: 1px;
-    font-weight: 700;
-    margin-top: 10px; }
+  padding: 30px 0px;
+}
+.fCopy.fCoop {
+  text-align: right;
+  padding-right: 35px !important;
+  padding: 22px 0px;
+}
+.fCopy.fCoop span {
+  margin: 0 3px;
+  color: #111;
+}
+.fCopy.fCoop a {
+  color: #111;
+}
+.fCopy.fCoop a:hover, .fCopy.fCoop a:focus {
+  text-decoration: none;
+}
+.fCopy.fCoop p {
+  font-size: 14px;
+  font-family: "Lato", sans-serif;
+}
+.fCopy span {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #111;
+}
+.fCopy p {
+  font-family: "Lato", sans-serif;
+  font-style: italic;
+  font-size: 15px;
+  color: #7ab2ce;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin-top: 10px;
+}
 
 .fScroll {
   text-align: center;
   padding: 25px 0px;
   font-family: "Lato", sans-serif;
   letter-spacing: 0.08em;
-  font-weight: 700; }
+  font-weight: 700;
+}
 
 .fScroll a:hover, .fScroll a:focus {
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 /*--------------------------------------------------
 	09. Responsive
 ---------------------------------------------------*/
 @media (max-width: 770px) {
   .item-five {
-    width: 50%; }
+    width: 50%;
+  }
 
   .item-three {
-    width: 50%; }
+    width: 50%;
+  }
 
   .item-four {
-    width: 45%; }
+    width: 45%;
+  }
 
   body {
-    margin: 0px; }
+    margin: 0px;
+  }
 
   #headerBar {
-    width: 100%; }
+    width: 100%;
+  }
 
   .textIntro {
-    margin-top: 25%; }
+    margin-top: 25%;
+  }
 
   .hi h1 {
     font-size: 35px;
-    letter-spacing: 7px; }
+    letter-spacing: 7px;
+  }
 
   .resumeList li.resTitle {
-    margin-top: 50px; }
+    margin-top: 50px;
+  }
 
   .navbar li {
-    margin: 0px 5px; }
+    margin: 0px 5px;
+  }
 
   #sectionIntro {
-    min-height: 600px; }
+    min-height: 600px;
+  }
 
   .footerRight ul li {
     text-align: center;
-    margin: 0px 0px 0px 10px; }
+    margin: 0px 0px 0px 10px;
+  }
 
   .footerLeft {
-    padding: 20px 0px; }
+    padding: 20px 0px;
+  }
 
   .white-popup {
     width: auto;
-    max-width: none; } }
+    max-width: none;
+  }
+}
 @media (max-width: 480px) {
   body {
-    margin: 0; }
+    margin: 0;
+  }
 
   .item-five {
-    width: 100%; }
+    width: 100%;
+  }
 
   .item-three {
-    width: 100%; }
+    width: 100%;
+  }
 
   .item-four {
-    width: 100%; }
+    width: 100%;
+  }
 
   .menu-wrap {
-    width: 140px; }
+    width: 140px;
+  }
 
   #headerBar {
-    width: 100%; }
+    width: 100%;
+  }
 
   .navbar li {
-    display: block; }
+    display: block;
+  }
 
   .navbar li a {
-    line-height: 40px; }
+    line-height: 40px;
+  }
 
   .profileText img {
     width: 200px;
-    margin-top: 40px; }
+    margin-top: 40px;
+  }
 
   .textIntro {
     margin-top: 20%;
-    padding: 25px; }
+    padding: 25px;
+  }
 
   .blog-item {
-    margin-left: 0%; }
+    margin-left: 0%;
+  }
 
   .hi h1 {
-    font-size: 25px; }
+    font-size: 25px;
+  }
 
   .menu-wrap {
-    left: 10px; }
+    left: 10px;
+  }
 
   .footerRight {
-    text-align: center; }
+    text-align: center;
+  }
 
   .footerLeft {
     text-align: center;
-    line-height: 30px; }
+    line-height: 30px;
+  }
 
   .contactForm .storyText p {
-    line-height: inherit; } }
+    line-height: inherit;
+  }
+}
 /*--------------------------------------------------
 	10. Post
 ---------------------------------------------------*/
 .container.blog-post {
   width: 750px;
-  text-align: justify; }
-  .container.blog-post img, .container.blog-post iframe {
-    display: block;
-    margin: 0 auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    max-width: 700px; }
-  .container.blog-post span.u {
-    text-decoration: underline; }
-  .container.blog-post blockquote {
-    font-size: 14px; }
+  text-align: justify;
+}
+.container.blog-post img, .container.blog-post iframe {
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 700px;
+}
+.container.blog-post span.u {
+  text-decoration: underline;
+}
+.container.blog-post blockquote {
+  font-size: 14px;
+}
 
 /*# sourceMappingURL=style.css.map */
