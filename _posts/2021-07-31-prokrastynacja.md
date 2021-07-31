@@ -119,6 +119,7 @@ Pamiętaj, że każdy z nas z racjonalnych powodów odracza wykonanie danego zad
 ----
 
 Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94.
+
 Fiore, N., Nawyk samodyscypliny. Zaprogramuj wewnętrznegoo stróża, Helion, Gliwice, 2013
 
 [perfekcjonizm]: {% post_url 2019-01-31-perfekcjonizm %}
