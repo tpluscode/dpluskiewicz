@@ -23,14 +23,14 @@ Często mamy nadzieję, że dany problem rozwiąże się sam lub jeśli zajmiemy
 
 Typowe zachowania:
 
-- spóźnianie się,
 - czekanie do ostatniej chwili z realizacją danych zobowiązań,
 - trudności z podejmowaniem decyzji,
 - nierozpoczynanie danych zadań,
 - unikanie ich podejmowania,
 - trudności z oszacowaniem czasu na dane działanie,
 - skupianie się na czynnościach krótkoterminowych,
-- obwinianie innych,
+- obwinianie innych za to, że nie podjęliśmy działania,
+- spóźnianie się,
 - żałowanie, że nie podjęło się danego działania.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4P785j15Tzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -65,7 +65,7 @@ Pamiętaj, że prokrastynacja prowadzi do:
 
 - spadku samooceny (niska wiara w swoje możliwości),
 - budowania przekonań o własnej nieskuteczności i powielaniu negatywnych myśli,
-- lęku przed porażką.
+- nasilanie się lęku przed porażką.
 
 Prokrastynacje możemy podzielić na sytuacyjną lub przewlekłą (aktywna/bierna). Warto być świadomym czy konkretne sytuacje są wyzwalaczami odkładania na później czy ten nawyk jest zgeneralizowany i dotyczy większości obszarów naszego życia.
 
@@ -81,7 +81,7 @@ Ciekawostka:
 
 ![biurko]({{root_url}}/assets/images/prokrastynacja-3.jpg)
 
-**Cele pracy z prokrastynacją.** Co jest ważne, abyśmy zmienili chcąc zniwelować prokrastynację:
+**Cele pracy z prokrastynacją.** Co jest ważne, abyśmy próbowali zmienić, chcąc zniwelować prokrastynację:
 
 - adekwatne ocenienie **czasu** na dane zadanie,
 - nauka świadomego **planowania**,
@@ -106,7 +106,7 @@ Ciekawostka:
 - świadome **zarządzanie czasem**,
 - **nagradzanie się** za podjęcie działania, gdy jesteśmy w 75% jego realizacji (pamiętaj, że zabawa jest ok, ale nie tuż przed ważnymi dla ciebie zadaniami do wykonania),
 - robienie przerw co 15 minut,
-- porządkoowanie swojej **przestrzei**, ale uważaj, żeby nie stało się to działaniem samym w sobie,
+- porządkowanie swojej **przestrzeni**, ale uważaj, żeby nie stało się to działaniem samym w sobie,
 - **minimalizowanie dystraktorów**,
 - uczecznie się **akceptować** swoje błędy (wszyscy je popełniamy),
 - **niepodążanie za negatywnymi/katastroficznymi przekonaniami** (ćwicz elastyczność psychologiczną, testuj hipotezy),
@@ -119,7 +119,7 @@ Pamiętaj, że każdy z nas z racjonalnych powodów odracza wykonanie danego zad
 ----
 
 Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94.
-
+Fiore, N., Nawyk samodyscypliny. Zaprogramuj wewnętrznegoo stróża, Helion, Gliwice, 2013
 
 [perfekcjonizm]: {% post_url 2019-01-31-perfekcjonizm %}
 [rumi]: {% post_url 2020-04-13-ruminacje %}
