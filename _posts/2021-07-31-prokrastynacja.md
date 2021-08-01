@@ -61,6 +61,8 @@ Myśli prokrastynatora, które prowadzą do niepodejmowania działania:
 
 Myśli te nasilają niechęć do podejmowania działania. Gruntuje się w nas przekonanie o wysokich szansach na poniesienie porażki i wtórnie nasila się niepokój/lęk.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/arj7oStGLkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Pamiętaj, że prokrastynacja prowadzi do:
 
 - spadku samooceny (niska wiara w swoje możliwości),
