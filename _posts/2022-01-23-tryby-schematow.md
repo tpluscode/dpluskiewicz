@@ -4,7 +4,7 @@ published: true
 title: Tryby schematów
 date: 2022-01-23
 sharing: false
-image: assets/images/tryby.jpg
+image: assets/images/tryby-front.jpg
 lead: Zmieniające się z chwili na chwilę stany emocjonalne i reakcje radzenia sobie.
 permalink: tryby-schematow/
 categories:
