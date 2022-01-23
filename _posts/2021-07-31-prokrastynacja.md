@@ -9,7 +9,7 @@ lead: Czy dotyczy mnie ta trudność?
 permalink: prokrastynacja/
 categories:
 - prokrastynacja
-- perfekcjwonizm
+- perfekcjonizm
 - cbt
 ---
 
