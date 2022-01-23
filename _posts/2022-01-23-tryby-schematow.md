@@ -101,7 +101,7 @@ Przykład: Mając schemat porażki, który powstał na bazie wymagających komun
    
    **Samouwielbiacz (samopowiększacz)** - przyjmujemy postawę skrajnie wywyższającą wobec innych, prezentujemy się jako lepsi. Wywieramy presję na innych, aby robili to, czego od nich oczekujemy, nie licząc się z tym, co czują i uważają. Uważamy, że przysługują nam specjalne prawa. Postawa nakierowana jest na eksponowanie/przechwalanie się swoimi zasobami/wyższą pozycją, aby poprawiać swoją pewność siebie, kosztem innych.
 
-   **Atakujący obrońca** - podejmujemy próby kontrolowania innych, aby ochronić się przed potencjalnym skrzywdzeniem z ich strony. Używamy gróźb, zastraszania, chcemy dominować i ranić (słownie/fizycznie) innym, zanim oni to zrobią. Agresywne reakcje wynikają z silnie doświadczanych w danym momencie emocji.
+   **Atakujący obrońca** - podejmujemy próby kontrolowania innych, aby ochronić się przed potencjalnym skrzywdzeniem z ich strony. Używamy gróźb, zastraszania, chcemy dominować i ranić (słownie/fizycznie) innych, zanim oni to zrobią. Agresywne reakcje wynikają z silnie doświadczanych w danym momencie emocji.
 
    **Perfekcjonistyczny (obsesyjny) nadmierny kontroler** - próbujemy trzymać wszystko, co robimy pod skrajną kontrolą, która postrzegana jest jako ochrona przed zagrożeniem. Wykonujemy swoje zadania w perfekcyjny sposób, powtarzamy rytualne czynności. Dzięki tej strategii czujemy się kompetentni i wystarczająco dobrzy. Postępując perfekcjonistycznie, udowadniamy coś sobie i światu.
 
@@ -117,6 +117,7 @@ Przykład: Mając schemat porażki, który powstał na bazie wymagających komun
 
 Przykład: Mając aktywny schemat deprywacji emocjonalnej, który powstał na bazie braku adekwatnego zaspokajania potrzeb ciepła i wsparcia ze strony ważnych dorosłych możemy odruchowo stosować strategię kompensacji schematu. Co będzie przejawiać się w roszczeniowej postawie wobec bliskich, oczekując, aby natychmiast zaspokajali nasze potrzeby emocjonalne i koncentrowali uwagę tylko na nas.
 
+POniższy film przestawia mechanizm funkcjonowania trybów i strategii radzenia sobie.
 
 <iframe width="700" height="395" src="https://www.youtube-nocookie.com/embed/Ygq_Pz8GEyY?rel=0" frameborder="0" allowfullscreen></iframe>
 
