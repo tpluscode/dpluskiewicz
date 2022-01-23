@@ -73,7 +73,7 @@ Gdy dany [schemat][schematy] zostanie aktywowany przez bierzące wydarzenie, mo�
 
 <div style="clear: both"></div>
 
-Przykład: Mając schemat wadliwość/wstyd, który powstał na bazie doświadczania krytyki i zawstydzania wobec podejmowanych decyzji możemy odruchowo  stosować strategię podporządkowania się schematowi. Wybieram krytycznych i odrzucających partnerów, znajomych, przyjmując wobec siebie postawę, że coś jest ze mną nie tak i nie jestem w stanie tego zmienić.
+Przykład: Mając schemat wadliwość/wstyd, który powstał na bazie doświadczania krytyki i zawstydzania wobec podejmowanych decyzji możemy odruchowo  stosować strategię podporządkowania się schematowi. Wybieramy krytycznych i odrzucających partnerów, znajomych, przyjmując wobec siebie postawę, że coś jest ze mną nie tak i nie jestem w stanie tego zmienić.
 
 #### Unikanie schematu
 
@@ -99,7 +99,7 @@ Przykład: Mając schemat porażki, który powstał na bazie wymagających komun
 
    <img src="{{root_url}}/assets/images/kompensacja.jpg" alt="kompensacja" style="float: right; width: 400px; margin-left: 10px" />
    
-   **Samouwielbiacz (samopowiększacz)** - przyjmujemy postawę skrajnie wywyższającą wobec innych, prezentujemy się jako lepsi. Wywieramy presję na innych, aby robili to, czego od nich oczekujemy, nie licząc się z tym, co czują i uważają. Uważamy, żę przysługują nam specjalne prawa. Postawa nakierowana jest na eksponowanie/przechwalanie się swoimi zasobami/wyższą pozycją, aby poprawiać swoją pewność siebie, kosztem innych.
+   **Samouwielbiacz (samopowiększacz)** - przyjmujemy postawę skrajnie wywyższającą wobec innych, prezentujemy się jako lepsi. Wywieramy presję na innych, aby robili to, czego od nich oczekujemy, nie licząc się z tym, co czują i uważają. Uważamy, że przysługują nam specjalne prawa. Postawa nakierowana jest na eksponowanie/przechwalanie się swoimi zasobami/wyższą pozycją, aby poprawiać swoją pewność siebie, kosztem innych.
 
    **Atakujący obrońca** - podejmujemy próby kontrolowania innych, aby ochronić się przed potencjalnym skrzywdzeniem z ich strony. Używamy gróźb, zastraszania, chcemy dominować i ranić (słownie/fizycznie) innym, zanim oni to zrobią. Agresywne reakcje wynikają z silnie doświadczanych w danym momencie emocji.
 
