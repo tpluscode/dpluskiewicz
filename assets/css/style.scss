@@ -676,7 +676,12 @@ paper-tooltip {
 }
 .servicesBox {
   background: #f9f7f8;
-  padding: 30px 40px;
+  padding: 0 40px;
+}
+.servicesBox:first-child {
+  padding: 30px 40px 0;
+}
+.servicesBox:last-child {
   padding-bottom: 20px;
 }
 .servicesBox:hover .servicesIcon{
