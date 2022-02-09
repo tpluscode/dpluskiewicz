@@ -22,7 +22,7 @@ Wiele osób ma przekonanie o tym, że wie czego chce/potrzebuje i jakie ich **po
 
 <div style="clear: both"></div>
 
-W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, które uważa się za uniwersalne. **Przenikają się one wzajemnie**. Chcąc zaspokoić emocjonalne potrzeby dziecka, rodzice powinni zwrócić uwagę na:
+W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych\***, które uważa się za uniwersalne. **Przenikają się one wzajemnie**. Chcąc zaspokoić emocjonalne potrzeby dziecka, rodzice powinni zwrócić uwagę na:
 
 1. **Bezpieczne przywiązanie (bezpieczeństwo, opieka, troska, akceptacja, miłości, stabilizacja, ochrona)**
 
@@ -77,11 +77,16 @@ W literaturze wyróżnia się **5 grup podstawowych potrzeb emocjonalnych**, kt�
    - [asertywności][as], współdziałania z innymi ludźmi,
    - życzliwego poszanowania swoich i cudzych preferencji.
 
+**\*** Model Terapii Schematu cały czas się rozwija. W toku badań zwraca się uwagę na dwie nowe potrzeby istotne dla prawidłowego rozwoju emocjonalnego: 
+
+- potrzebę bycia traktowanym sprawiedliwie (fairness)
+- potrzebę wewnętrznej integralności/spójności (self-coherence).
+
 **Realizacja danej potrzeby musi iść w parze z zaspokajaniem pozostałych potrzeb**, np. stawiam granice (odnośnie do zasad bezpieczeństwa, moralności) z równoczesnym danem wsparcia i życzliwości.
 
 Z punktu widzenia psychoterapii schematu, jeśli miałeś zaspokajane powyższe potrzeby w adaptacyjny* sposób – to znaczy, że mogłeś rozwijać się w sposób optymalny, mogłeś kształtować swoją stabilną samoocenę, wierzysz w swoje kompetencje, nauczyłeś się tworzyć bezpieczne relacje, zaspokajać swoje potrzeby i zdrowo funkcjonować.
 
-*słowo adaptacyjny/zdrowy rozumiemy tutaj jako nie krzywdzący, szanujący siebie i innych
+\* słowo adaptacyjny/zdrowy rozumiemy tutaj jako nie krzywdzący, szanujący siebie i innych
 
 Jeśli jednostka od wczesnego dzieciństwa miała niezaspokojone potrzeby emocjonalne, buduje ona szkodliwe dla samej siebie i innych wzorce myślowe i emocjonalne, które składają się na **dziecięce nieadaptacyjne schematy emocjonalne**.
 
