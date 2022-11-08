@@ -1,2 +1,4 @@
 name: Psycholog Dominika Pluskiewicz | Terapia CBT Wrocław
 author: Dominika Pluskiewicz
+plugins_dir:
+  - jekyll-sitemap
