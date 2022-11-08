@@ -5,6 +5,7 @@ plugins_dir:
   - jekyll-copyr
 exclude:
   - bower_components
+  - node_modules
 jekyll-copyr:
   tasks:
     - from: "./bower_components/."
