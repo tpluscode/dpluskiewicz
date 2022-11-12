@@ -810,6 +810,8 @@ paper-tooltip {
 }
 
 .blog-item img {
+  display: block;
+  min-height: 178px;
   width: 100%;
   height: 100%;
   margin-bottom: 20px;
