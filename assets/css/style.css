@@ -120,6 +120,12 @@ a:focus {
     background-color: white;
     margin-right: -15px;
   }
+  .navbar-collapse {
+    width: 100vw;
+    position: fixed;
+    left: 0;
+    text-align: center;
+  }
 }
 .navbar-collapse {
   padding-left: 0px;
@@ -174,19 +180,19 @@ a:focus {
   font-size: 30px !important;
 }
 
-paper-fab {
+mwc-fab {
   z-index: 1000;
 }
 
 @media (min-width: 768px) {
-  paper-fab {
+  mwc-fab {
     position: absolute !important;
     top: 54px;
     right: 0;
   }
 }
 @media (max-width: 767px) {
-  paper-fab {
+  mwc-fab {
     position: fixed !important;
     bottom: 50px;
     right: 50px;
@@ -205,7 +211,6 @@ paper-tooltip {
   .default-header {
     display: none;
   }
-
   .small-header {
     display: block;
   }
@@ -214,7 +219,6 @@ paper-tooltip {
   .default-header {
     display: none;
   }
-
   .small-header {
     display: block;
   }
@@ -810,8 +814,6 @@ paper-tooltip {
 }
 
 .blog-item img {
-  display: block;
-  min-height: 178px;
   width: 100%;
   height: 100%;
   margin-bottom: 20px;
@@ -1079,53 +1081,41 @@ ul.errorMessages li {
   .item-five {
     width: 50%;
   }
-
   .item-three {
     width: 50%;
   }
-
   .item-four {
     width: 45%;
   }
-
   body {
     margin: 0px;
   }
-
   #headerBar {
     width: 100%;
   }
-
   .textIntro {
     margin-top: 25%;
   }
-
   .hi h1 {
     font-size: 35px;
     letter-spacing: 7px;
   }
-
   .resumeList li.resTitle {
     margin-top: 50px;
   }
-
   .navbar li {
     margin: 0px 5px;
   }
-
   #sectionIntro {
     min-height: 600px;
   }
-
   .footerRight ul li {
     text-align: center;
     margin: 0px 0px 0px 10px;
   }
-
   .footerLeft {
     padding: 20px 0px;
   }
-
   .white-popup {
     width: auto;
     max-width: none;
@@ -1135,66 +1125,51 @@ ul.errorMessages li {
   body {
     margin: 0;
   }
-
   .item-five {
     width: 100%;
   }
-
   .item-three {
     width: 100%;
   }
-
   .item-four {
     width: 100%;
   }
-
   .menu-wrap {
     width: 140px;
   }
-
   #headerBar {
     width: 100%;
   }
-
   .navbar li {
     display: block;
   }
-
   .navbar li a {
     line-height: 40px;
   }
-
   .profileText img {
     width: 200px;
     margin-top: 40px;
   }
-
   .textIntro {
     margin-top: 20%;
     padding: 25px;
   }
-
   .blog-item {
     margin-left: 0%;
   }
-
   .hi h1 {
     font-size: 25px;
   }
-
   .menu-wrap {
     left: 10px;
   }
-
   .footerRight {
     text-align: center;
   }
-
   .footerLeft {
     text-align: center;
     line-height: 30px;
   }
-
   .contactForm .storyText p {
     line-height: inherit;
   }

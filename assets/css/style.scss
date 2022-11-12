@@ -125,6 +125,13 @@ a:focus {
     background-color: white;
     margin-right: -15px;
   }
+
+  .navbar-collapse {
+    width: 100vw;
+    position: fixed;
+    left: 0;
+    text-align: center;
+  }
 }
 .navbar-collapse {padding-left: 0px;}
 .navbar {margin-bottom: 0;-webkit-padding-start: 0px;}
@@ -166,12 +173,12 @@ a:focus {
   font-size: 30px !important;
 }
 
-paper-fab {
+mwc-fab {
   z-index: 1000;
 }
 
 @media (min-width: 768px ) {
-  paper-fab {
+  mwc-fab {
     position: absolute !important;
     top: 54px;
     right: 0;
@@ -179,7 +186,7 @@ paper-fab {
 }
 
 @media (max-width: 767px ) {
-  paper-fab {
+  mwc-fab {
     position: fixed !important;
     bottom: 50px;
     right: 50px;

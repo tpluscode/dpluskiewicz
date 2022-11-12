@@ -3,6 +3,7 @@ name: psycholog
 services:
   blog:
     type: ruby
+    ssl: true
     build_as_root:
       - apt-get update
       - apt-get install -y nodejs

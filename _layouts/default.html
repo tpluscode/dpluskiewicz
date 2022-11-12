@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="{{ root_url }}/assets/icons/Elegant/style.css" />
 
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Material+Icons&display=block" rel="stylesheet">
 
     <script src="{{ root_url }}/assets/js/modernizr.js"></script> <!-- Modernizr -->
 
@@ -39,14 +40,12 @@
           dom: 'shadow'
         };
     </script>
-    <script src="{{ root_url }}/bower_components/webcomponentsjs/webcomponents-lite.min.js" ></script>
-    <link rel="import" href="{{ root_url }}/bower_components/google-map/google-map.html"/>
-    <link rel="import" href="{{ root_url }}/bower_components/google-map/google-map-marker.html" />
-    <link rel="import" href="{{ root_url }}/bower_components/paper-fab/paper-fab.html" async >
-    <link rel="import" href="{{ root_url }}/bower_components/vaadin-icons/vaadin-icons.html" async >
-    <link rel="import" href="{{ root_url }}/bower_components/paper-tooltip/paper-tooltip.html" async >
 
-    <style is="custom-style">
+    <style>
+        body.unresolved paper-tooltip {
+            display: none;
+        }
+
         paper-tooltip {
             --paper-tooltip: {
                 font-family: "Montserrat", sans-serif;
@@ -54,15 +53,15 @@
             };
         }
 
-        paper-fab {
-            --paper-fab-background: #FFA500;
+        mwc-fab {
+            --mdc-theme-secondary: #FFA500;
         }
     </style>
   </head>
 
 <!-- Body Start
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<body data-spy="scroll" data-target=".navigation">
+<body class="unresolved" data-spy="scroll" data-target=".navigation">
 
 <script type="application/ld+json">
     {
@@ -138,12 +137,13 @@
 
     <div class="container">
 
-        <a href="http://www.psychologodnowa.pl/pl/rejestracja-online#system-message-container" target="_blank">
-            <paper-fab id="book" class="book" icon="vaadin-icons:calendar-clock"></paper-fab>
+        <a href="http://www.psychologodnowa.pl/pl/rejestracja-online#system-message-container"
+           target="_blank"
+           data-toggle="tooltip"
+           data-placement="left"
+           title="Umów wizytę online">
+            <mwc-fab id="book" class="book" icon="schedule"></mwc-fab>
         </a>
-        <paper-tooltip for="book" position="left">
-            Umów wizytę online
-        </paper-tooltip>
 
         <!--Header logo on the left side-->
 
@@ -314,6 +314,7 @@ $('.open-popup-link').magnificPopup({
   ga('send', 'pageview');
 
 </script>
+<script src="{{ root_url }}/assets/components.min.js" async ></script>
 <link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script><script>window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#606060","text":"#ffffff","border":"#f9f9f9"},"button":{"background":"#f9f9f9","text":"#000000"}},"position":"bottom","content":{"href":"https://translate.google.com/translate?hl=en&amp;sl=en&amp;tl=pl&amp;u=https://www.websitepolicies.com/policies/view/mwqJldRg","button":"OK!","message":"Ta strona może tworzyć ciasteczka celem lepszego dopasowania treści do odbiorców.","link":"Przeczytaj więcej"}})});</script>
 
   </body>

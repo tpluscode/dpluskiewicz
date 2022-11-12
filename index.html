@@ -255,7 +255,7 @@ indexEasing: easing
                             <div class="resumeContent">
                                <h5>Certyfikat nr 642 psychoterapeuty poznawczo-behawioralnego PTTPB</h5>
                                <h5>Certyfikat EABCT nr 88</h5>
-                                <img src="assets/images/certyfikat.jpg" alt="Certyfikat nr 642 psychoterapeuty poznawczo-behawioralnego PTTPB">
+                                <img style="max-width: 50vw;" src="assets/images/certyfikat.jpg" alt="Certyfikat nr 642 psychoterapeuty poznawczo-behawioralnego PTTPB">
                             </div>
                         </li>
                     </ul>
@@ -435,14 +435,21 @@ indexEasing: easing
                        </div>
 
                        <div class="col-md-7 col-sm-12 col-xs-12">
-                        <google-map latitude="51.103654" longitude="17.038758" zoom="16" map-type="hybrid" style="height: 490px" api-key="AIzaSyAuEIiaMSzoMCziIdxnpx8JnWwQr3-EG_Q">
-                            <google-map-marker latitude="51.1032382618737" longitude="17.038580052195705">
+                        <ol-map lat="51.103654" lon="17.038758" zoom="16" map-type="hybrid" style="height: 490px">
+                            <ol-layer-openstreetmap></ol-layer-openstreetmap>
+                            <ol-overlay id="budynek">
                                 <div class="profileText">
                                     <h6>Wejście przez Centrum Biznesu WCP</h6>
                                     <p><img src="{{ root_url }}/assets/images/budynek.jpg" style="width: 250px"/></p>
                                 </div>
-                            </google-map-marker>
-                        </google-map>
+                            </ol-overlay>
+                            <ol-layer-vector>
+                                <ol-marker-icon src="{{ root_url }}/assets/images/map-marker.png"
+                                                lat="51.103202" lon="17.038662"
+                                                anchor-y="1"
+                                ></ol-marker-icon>
+                            </ol-layer-vector>
+                        </ol-map>
                        </div>
 
                     <div class="col-md-12 col-sm-12 col-xs-12">
