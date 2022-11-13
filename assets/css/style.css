@@ -1196,4 +1196,18 @@ ul.errorMessages li {
   font-size: 14px;
 }
 
+@media (max-width: 1024px) {
+  .row {
+    margin: unset;
+  }
+  .container.blog-post {
+    padding: 0 10px;
+  }
+  .container.blog-post img {
+    float: none !important;
+    margin: 0 auto !important;
+    width: 60% !important;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
