@@ -3,5 +3,5 @@
 _site/
 *.css.map
 /.jekyll-metadata
-assets/components.min.js
+assets/components/
 node_modules/

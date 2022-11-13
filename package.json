@@ -1,12 +1,14 @@
 {
   "name": "psycholog-pluskiewicz",
   "scripts": {
-    "build": "yarn esbuild assets/components.js --minify --outfile=assets/components.min.js --bundle",
-    "watch": "yarn build --watch"
+    "build": "yarn esbuild assets/components.js --minify --outdir=assets/components --bundle --splitting --format=esm",
+    "watch": "yarn build --watch --sourcemap"
   },
   "dependencies": {
     "@material/mwc-fab": "^0.27.0",
+    "@openlayers-elements/core": "^0.3.0",
     "@openlayers-elements/maps": "^0.3.0",
-    "esbuild": "^0.15.13"
+    "esbuild": "^0.15.13",
+    "onetime": "^6.0.0"
   }
 }
