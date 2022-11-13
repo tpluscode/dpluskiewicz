@@ -1200,6 +1200,9 @@ ul.errorMessages li {
   .container.blog-post {
     padding: 0 10px;
   }
+  .container.blog-post iframe {
+    max-width: 100% !important;
+  }
 }
 @media (max-width: 1024px) {
   .row {
