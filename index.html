@@ -488,7 +488,7 @@ indexEasing: easing
                        <div class="col-md-5 col-sm-12 col-xs-12">
                            <div class="profileText">
                                <div class="storyText facebook">
-                                   <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpsychoterapeutycznie%2F&tabs&width=340&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=911888692544456" width="340" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                   <iframe id="fb-widget" width="340" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                                </div>
                                <div class="storyText">
                                    <h6>Adres:</h6>
@@ -569,3 +569,12 @@ indexEasing: easing
 
 
         </section>
+
+<script>
+    setTimeout(() => {
+        const fbWidget = document.getElementById('fb-widget')
+        if(fbWidget) {
+            fbWidget.src = 'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpsychoterapeutycznie%2F&tabs&width=340&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=911888692544456'
+        }
+    }, 2000)
+</script>
