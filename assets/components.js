@@ -1,4 +1,5 @@
 import onetime from 'onetime'
+import './cookieconsent.js'
 
 import('@material/mwc-fab/mwc-fab.js').then(() => {
     document.body.classList.remove('unresolved');
