@@ -571,10 +571,12 @@ indexEasing: easing
         </section>
 
 <script>
-    setTimeout(() => {
-        const fbWidget = document.getElementById('fb-widget')
-        if(fbWidget) {
-            fbWidget.src = 'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpsychoterapeutycznie%2F&tabs&width=340&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=911888692544456'
-        }
-    }, 2000)
+    window.addEventListener('load', () => {
+        setTimeout(() => {
+            const fbWidget = document.getElementById('fb-widget')
+            if(fbWidget) {
+                fbWidget.src = 'https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpsychoterapeutycznie%2F&tabs&width=340&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=911888692544456'
+            }
+        }, 1000)
+    })
 </script>
