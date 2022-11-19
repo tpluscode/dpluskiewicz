@@ -1,0 +1,3 @@
+Sitemap: https://psycholog.pluskiewicz.pl/sitemap.xml
+Disallow: /email.html
+Disallow: /assets/
